@@ -1,0 +1,22 @@
+[Icon Theme]
+Name=Vimix
+Comment=Fresh and simple personality icon theme
+Inherits=Paper-Vimix
+
+Directories=mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic
+
+[mimetypes/scalable]
+Size=64
+Context=MimeTypes
+Type=Scalable
+MinSize=16
+MaxSize=256
+
+[places/scalable]
+Size=64
+Context=Places
+Type=Scalable
+MinSize=16
+MaxSize=256
+
+
