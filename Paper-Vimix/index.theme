@@ -437,18 +437,29 @@ Type=Scalable
 # HiDPi @2x scale
 #
 
+[22x22@2x/actions]
+Context=Actions
+Scale=2
+Size=22
+Type=Fixed
+
+[22x22@2x/animations]
+Context=Animations
+Scale=2
+Size=22
+Type=Fixed
+
+[22x22@2x/panel]
+Context=Panel
+Scale=2
+Size=22
+Type=Fixed
 
 # Actions
 [16x16@2x/actions]
 Context=Actions
 Scale=2
 Size=16
-Type=Fixed
-
-[22x22@2x/actions]
-Context=Actions
-Scale=2
-Size=22
 Type=Fixed
 
 [24x24@2x/actions]
