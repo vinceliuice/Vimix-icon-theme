@@ -112,7 +112,7 @@ install() {
 
   # update icon caches
 
-  update-icon-caches $DEST_DIR/Vimix $DEST_DIR/Paper-Vimix
+  gtk-update-icon-cache $DEST_DIR/Vimix $DEST_DIR/Paper-Vimix
 
   echo -e "\nInstallation complete!"
 
