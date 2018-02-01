@@ -112,7 +112,7 @@ install() {
 
   # update icon caches
 
-  update-icon-cache $DEST_DIR/Vimix $DEST_DIR/Paper-Vimix
+  update-icon-caches $DEST_DIR/Vimix $DEST_DIR/Paper-Vimix
 
   echo -e "\nInstallation complete!"
 
