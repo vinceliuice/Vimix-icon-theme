@@ -28,23 +28,17 @@ Directories=other/actions,other/animations,other/emblems,other/notifications,sca
 [other/actions]
 Context=Actions
 Size=24
-MinSize=16
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 [other/animations]
 Context=Animations
 Size=24
-MinSize=16
-MaxSize=32
-Type=Scalable
+Type=Fixed
 
 [other/emblems]
 Context=Emblems
 Size=48
-MinSize=16
-MaxSize=48
-Type=Scalable
+Type=Fixed
 
 [other/notifications]
 Context=Status
@@ -126,55 +120,39 @@ Type=Scalable
 [symbolic/apps]
 Context=Applications
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [symbolic/categories]
 Context=Categories
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [symbolic/devices]
 Context=Devices
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [symbolic/emblems]
 Context=Emblems
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [symbolic/emotes]
 Context=Emotes
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [symbolic/mimetypes]
 Context=Mimetypes
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [symbolic/places]
 Context=Places
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [symbolic/status]
 Context=Status
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
+Type=Fixed
