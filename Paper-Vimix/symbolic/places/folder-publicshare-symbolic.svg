@@ -57,11 +57,11 @@
      inkscape:snap-page="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="705"
+     inkscape:window-height="710"
      inkscape:window-maximized="1"
      inkscape:window-width="1366"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:zoom="22.627417">
     <inkscape:grid
        color="#000000"
@@ -133,20 +133,12 @@
      inkscape:label="places"
      style="display:inline"
      transform="translate(-528.0002,-186)">
-    <rect
-       style="opacity:0.5;fill:#565656;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="rect23"
-       width="14"
-       height="5"
-       x="529"
-       y="187"
-       rx="1"
-       ry="1" />
     <path
-       style="fill:#565656;fill-opacity:1;stroke:none"
-       d="M 8 3 L 7 5 L 1 5 C 0.446 5 0 5.446 0 6 L 0 14 C 0 14.554 0.446 15 1 15 L 15 15 C 15.554 15 16 14.554 16 14 L 16 8 L 16 6 L 16 4 C 16 3.5 15.5 3 15 3 L 8 3 z M 11 6 C 11.82843 6 12.5 6.67157 12.5 7.5 C 12.5 8.32843 11.82843 9 11 9 C 10.17157 9 9.5 8.32843 9.5 7.5 C 9.5 6.67157 10.17157 6 11 6 z M 11 10 C 13.5 10 13.5 11.5 13.5 11.5 L 13.5 12 L 8.5 12 L 8.5 11.5 C 8.5 11.5 8.5 10 11 10 z "
-       transform="translate(528.0002,186)"
-       id="path4" />
+       inkscape:connector-curvature="0"
+       d="M 529.84375,187 C 529.5625,187.0469 529,187.25 529,188 v 11 c 0,0 0,1 1,1 h 12 c 0,0 1,0 1,-1 v -9 c 0,-1 -1,-1 -1,-1 h -5 l -2,-2 h -5 c 0,0 -0.0625,-0.0156 -0.15625,0 z m 8.65625,5 c 0.82843,0 1.5,0.67157 1.5,1.5 0,0.82843 -0.67157,1.5 -1.5,1.5 -0.82843,0 -1.5,-0.67157 -1.5,-1.5 0,-0.82843 0.67157,-1.5 1.5,-1.5 z m 0,4 c 2.5,0 2.5,1.5 2.5,1.5 v 0.5 h -5 v -0.5 c 0,0 0,-1.5 2.5,-1.5 z"
+       id="path6174"
+       sodipodi:nodetypes="sscscssccccsssssssccccs"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
   </g>
   <g
      inkscape:groupmode="layer"
