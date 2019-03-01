@@ -22,19 +22,52 @@ PanelSizes=16,22,32,48,64,72,96,128
 FollowsColorScheme=true
 
 # Directory list
-Directories=other/actions,other/animations,other/emblems,other/notifications,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status,scalable/web,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
+Directories=16/actions,16/panel,22/actions,22/animations,22/panel,24/actions,24/animations,24/panel,other/emblems,other/notifications,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/web,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status
 
-# Other
-[other/actions]
+# 16x16
+[16/actions]
+Context=Actions
+Size=16
+Type=Fixed
+
+[16/panel]
+Context=Status
+Size=16
+Type=Fixed
+
+# 22x22
+[22/actions]
+Context=Actions
+Size=22
+Type=Fixed
+
+[22/animations]
+Context=Animations
+Size=22
+Type=Fixed
+
+[22/panel]
+Context=Status
+Size=22
+Type=Fixed
+
+# 24x24
+[24/actions]
 Context=Actions
 Size=24
 Type=Fixed
 
-[other/animations]
+[24/animations]
 Context=Animations
 Size=24
 Type=Fixed
 
+[24/panel]
+Context=Status
+Size=24
+Type=Fixed
+
+# other
 [other/emblems]
 Context=Emblems
 Size=48
@@ -81,13 +114,6 @@ MinSize=256
 MaxSize=512
 Type=Scalable
 
-[scalable/emotes]
-Context=Emotes
-Size=512
-MinSize=16
-MaxSize=512
-Type=Scalable
-
 [scalable/mimetypes]
 Context=Mimetypes
 Size=512
@@ -97,13 +123,6 @@ Type=Scalable
 
 [scalable/places]
 Context=Places
-Size=512
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[scalable/status]
-Context=Status
 Size=512
 MinSize=16
 MaxSize=512
@@ -120,39 +139,55 @@ Type=Scalable
 [symbolic/apps]
 Context=Applications
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [symbolic/categories]
 Context=Categories
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [symbolic/devices]
 Context=Devices
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [symbolic/emblems]
 Context=Emblems
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [symbolic/emotes]
 Context=Emotes
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [symbolic/mimetypes]
 Context=Mimetypes
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [symbolic/places]
 Context=Places
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [symbolic/status]
 Context=Status
 Size=16
-Type=Fixed
+MinSize=16
+MaxSize=512
+Type=Scalable
