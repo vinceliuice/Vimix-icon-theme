@@ -35,11 +35,26 @@ install() {
   echo "Installing '${THEME_DIR}'..."
 
   mkdir -p                                                                           ${THEME_DIR}
+  mkdir -p                                                                           ${THEME_DIR}/scalable
   cp -ur ${SRC_DIR}/COPYING                                                          ${THEME_DIR}
   cp -ur ${SRC_DIR}/AUTHORS                                                          ${THEME_DIR}
+  cp -ur ${SRC_DIR}/Vimix-Paper/index.theme                                          ${THEME_DIR}
 
-  cp -ur ${SRC_DIR}/Vimix-Paper/*                                                    ${THEME_DIR}/
-  cp -r ${SRC_DIR}/Places-color/places${color}/*.svg                                 ${THEME_DIR}/scalable/places/
+  cd ${dest}
+  ln -s ../Vimix-Paper/16 ${name}${color}/16
+  ln -s ../Vimix-Paper/22 ${name}${color}/22
+  ln -s ../Vimix-Paper/24 ${name}${color}/24
+  ln -s ../Vimix-Paper/other ${name}${color}/other
+  ln -s ../Vimix-Paper/symbolic ${name}${color}/symbolic
+  ln -s ../../Vimix-Paper/scalable/actions ${name}${color}/scalable/actions
+  ln -s ../../Vimix-Paper/scalable/apps ${name}${color}/scalable/apps
+  ln -s ../../Vimix-Paper/scalable/categories ${name}${color}/scalable/categories
+  ln -s ../../Vimix-Paper/scalable/devices ${name}${color}/scalable/devices
+  ln -s ../../Vimix-Paper/scalable/emotes ${name}${color}/scalable/emotes
+  ln -s ../../Vimix-Paper/scalable/mimetypes ${name}${color}/scalable/mimetypes
+  ln -s ../../Vimix-Paper/scalable/web ${name}${color}/scalable/web
+
+  cp -ur ${SRC_DIR}/Places-color/places${color}                                      ${THEME_DIR}/scalable/places
 
   cd ${THEME_DIR}
   sed -i "s/-Paper/${color}/g" index.theme
@@ -86,11 +101,11 @@ install_base() {
   gtk-update-icon-cache Vimix-Old
 }
 
+install_base
+
 for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
   install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
 done
-
-install_base
 
 echo
 echo Done.
