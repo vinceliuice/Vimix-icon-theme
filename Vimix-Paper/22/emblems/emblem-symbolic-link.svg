@@ -1,0 +1,6 @@
+<svg width="22" height="22" version="1.1" viewBox="0 0 5.821 5.821" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(1.852 -293.3)">
+  <rect transform="matrix(0 -1 -1 0 0 0)" x="-298.32" y="-3.175" width="4.233" height="4.233" rx="2.117" ry="2.117" fill="#808080"/>
+  <path d="M1.058 294.916l1.284.893-1.284.893v-.496H.926c-.27 0-.51.174-.583.397-.087.268.285.794.285.794s-.793-.298-.793-.943c0-.62.397-1.042.992-1.042h.231z" color="#bebebe" fill="#fff" font-family="Sans" font-weight="400" overflow="visible" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+ </g>
+</svg>

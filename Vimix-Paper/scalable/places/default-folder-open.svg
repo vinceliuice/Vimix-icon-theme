@@ -1,0 +1,31 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="c" x1="31" x2="31" y1="1005.4" y2="1003.4" gradientTransform="matrix(.92593 0 0 1 2.3704 9.9644)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="b" cx="32" cy="1021.9" r="25" gradientTransform="matrix(-1 0 0 -.080001 64 1126.1)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="d" x="-.046837" y="-.028823" width="1.0937" height="1.0576" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.31224941"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <g fill="#d0a15c" stroke-width="1.4241">
+   <rect x="11" y="996.36" width="20" height="7" rx="2" ry="2"/>
+   <rect x="7" y="998.36" width="50" height="28.998" rx="1.7857" ry="1.9978"/>
+   <rect x="4" y="1015.4" width="56" height="29.04" rx="2" ry="2.0001"/>
+  </g>
+  <g transform="matrix(1.25 0 0 1.1538 2.0633 -163.15)" filter="url(#d)" opacity=".15">
+   <rect x="20" y="1016.3" width="8" height="19.067" ry="1.5645e-5"/>
+   <path d="m22.4 1017.2h-6.4l8-7.8 8 7.8h-5.6l-2.4 2.2z"/>
+  </g>
+  <g transform="matrix(1.25 0 0 1.1538 2 -163.29)" fill="#fff">
+   <rect x="20" y="1016.3" width="8" height="19.067" ry="1.5645e-5"/>
+   <path d="m22.4 1017.2h-6.4l8-7.8 8 7.8h-5.6l-2.4 2.2z"/>
+  </g>
+  <rect x="7" y="1013.4" width="50" height="2" ry="0" fill="url(#c)" opacity=".1" stroke-width="1.4088"/>
+  <rect x="4" y="1015.4" width="56" height="28" rx="2" ry="2.0001" fill="#f4be70" stroke-width="1.4241"/>
+  <rect x="7" y="1044.4" width="50" height="5" ry="0" fill="url(#b)" opacity=".1" stroke-width="1.4088"/>
+ </g>
+</svg>

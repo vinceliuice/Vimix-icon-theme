@@ -1,0 +1,22 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="b">
+   <circle cx="160" cy="184" r="15" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </clipPath>
+  <filter id="a" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.35"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(0 -1.0308 -1.0308 0 -.98554 .053736)" x="-59" y="-59" width="54" height="54" rx="27" ry="27" enable-background="new" filter="url(#a)" opacity=".25" stroke-width=".97012"/>
+ <g transform="matrix(1.037 0 0 1.037 -1.1852 -1.1852)" stroke-width=".92985">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-59" y="-59" width="54" height="54" rx="27" ry="27" enable-background="new" fill="#3f51b5"/>
+  <g fill="none" stroke="#fff">
+   <circle cx="32" cy="32" r="18.62" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9286"/>
+   <path d="m13.38 32.01h37.221" stroke-width="1.9286"/>
+   <path transform="matrix(1.2533,0,0,1.2533,-168.64,-198.32)" d="m160 163.84c-8.2843 0-15 3.134-15 7s6.7157 7 15 7 15-3.134 15-7-6.7157-7-15-7zm0 25.852c-8.2843 0-15 3.134-15 7s6.7157 7 15 7 15-3.134 15-7-6.7157-7-15-7z" clip-path="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5388"/>
+   <path d="m31.99 13.399v37.221" stroke-width="1.9286"/>
+   <ellipse cx="32" cy="32.01" rx="9.3103" ry="18.611" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9286"/>
+  </g>
+  <path d="m32 5c-14.958 0-27 12.042-27 27 0 0.08457 0.00509 0.16757 0.00586 0.25195 0.13547-14.565 12.121-26.252 26.994-26.252s26.859 11.687 26.994 26.252c7.68e-4 -0.08438 0.0059-0.16739 0.0059-0.25195 0-14.958-12.042-27-27-27z" enable-background="new" fill="#fff" opacity=".15"/>
+ </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="31" x2="31" y1="1005.4" y2="1003.4" gradientTransform="matrix(.92593 0 0 1 2.3704 0)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="b" cx="32" cy="1021.9" r="25" gradientTransform="matrix(-1 0 0 -.080001 64 1126.1)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <filter id="d" x="-.032727" y="-.04" width="1.0655" height="1.08" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.3"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -988.36)">
+  <g stroke-width="1.4241">
+   <rect x="11" y="996.36" width="20" height="7" rx="2" ry="2" fill="#d0a15c"/>
+   <rect x="7" y="998.36" width="50" height="10" rx="1.7857" ry="2" fill="#d0a15c"/>
+   <rect x="10" y="1001.4" width="44" height="7" rx=".88" ry="1" fill="#fff"/>
+  </g>
+  <rect x="4" y="1005.4" width="56" height="39" rx="2" ry="2.0001" fill="#d0a15c" stroke-width="1.4241"/>
+  <rect x="7" y="1003.4" width="50" height="2" ry="0" fill="url(#c)" opacity=".1" stroke-width="1.4088"/>
+  <rect x="4" y="1005.4" width="56" height="38" rx="2" ry="2" fill="#f4be70" stroke-width="1.4241"/>
+  <rect x="7" y="1044.4" width="50" height="5" ry="0" fill="url(#b)" opacity=".1" stroke-width="1.4088"/>
+  <path d="m33.28 1031.6h3v8h6v-6h4v6h6v-8h3l-11-10z" enable-background="new" filter="url(#d)" opacity=".15"/>
+  <path d="m33 1031.4h3v8h6v-6h4v6h6v-8h3l-11-10z" enable-background="new" fill="#fff"/>
+ </g>
+</svg>

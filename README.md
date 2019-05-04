@@ -6,9 +6,10 @@ Vimix icon theme is based on Paper-Icon-Theme: https://github.com/snwh/paper-ico
 ## Install Or Uninstall
 Run
 
-    ./Installer.sh
+    ./install.sh
 
 Or double-click to open that script files and select "run at the terminal" at nautilus.
 
 ## Preview
-![vimix](../master/Preview.png)
+![1](../master/Preview.png)
+![2](../master/Preview01.png)
