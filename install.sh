@@ -41,18 +41,18 @@ install() {
   cp -ur ${SRC_DIR}/Vimix-Paper/index.theme                                          ${THEME_DIR}
 
   cd ${dest}
-  ln -s ../Vimix-Paper/16 ${name}${color}/16
-  ln -s ../Vimix-Paper/22 ${name}${color}/22
-  ln -s ../Vimix-Paper/24 ${name}${color}/24
-  ln -s ../Vimix-Paper/other ${name}${color}/other
-  ln -s ../Vimix-Paper/symbolic ${name}${color}/symbolic
-  ln -s ../../Vimix-Paper/scalable/actions ${name}${color}/scalable/actions
-  ln -s ../../Vimix-Paper/scalable/apps ${name}${color}/scalable/apps
-  ln -s ../../Vimix-Paper/scalable/categories ${name}${color}/scalable/categories
-  ln -s ../../Vimix-Paper/scalable/devices ${name}${color}/scalable/devices
-  ln -s ../../Vimix-Paper/scalable/emotes ${name}${color}/scalable/emotes
-  ln -s ../../Vimix-Paper/scalable/mimetypes ${name}${color}/scalable/mimetypes
-  ln -s ../../Vimix-Paper/scalable/web ${name}${color}/scalable/web
+  ln -sf ../Vimix-Paper/16 ${name}${color}/16
+  ln -sf ../Vimix-Paper/22 ${name}${color}/22
+  ln -sf ../Vimix-Paper/24 ${name}${color}/24
+  ln -sf ../Vimix-Paper/other ${name}${color}/other
+  ln -sf ../Vimix-Paper/symbolic ${name}${color}/symbolic
+  ln -sf ../../Vimix-Paper/scalable/actions ${name}${color}/scalable/actions
+  ln -sf ../../Vimix-Paper/scalable/apps ${name}${color}/scalable/apps
+  ln -sf ../../Vimix-Paper/scalable/categories ${name}${color}/scalable/categories
+  ln -sf ../../Vimix-Paper/scalable/devices ${name}${color}/scalable/devices
+  ln -sf ../../Vimix-Paper/scalable/emotes ${name}${color}/scalable/emotes
+  ln -sf ../../Vimix-Paper/scalable/mimetypes ${name}${color}/scalable/mimetypes
+  ln -sf ../../Vimix-Paper/scalable/web ${name}${color}/scalable/web
 
   cp -ur ${SRC_DIR}/Places-color/places${color}                                      ${THEME_DIR}/scalable/places
 
