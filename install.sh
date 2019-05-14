@@ -90,18 +90,20 @@ while [[ $# -gt 0 ]]; do
 done
 
 install_base() {
-  [[ -d ${DEST_DIR}/Vimix-Paper ]] && rm -rf ${DEST_DIR}/Vimix-Paper
-  [[ -d ${DEST_DIR}/Vimix-Old ]] && rm -rf ${DEST_DIR}/Vimix-Old
+  local dest=${1}
 
-  cp -ur ${SRC_DIR}/Vimix-Paper ${DEST_DIR}
-  cp -ur ${SRC_DIR}/Vimix-Old   ${DEST_DIR}
+  [[ -d ${dest}/Vimix-Paper ]] && rm -rf ${dest}/Vimix-Paper
+  [[ -d ${dest}/Vimix-Old ]] && rm -rf ${dest}/Vimix-Old
 
-  cd ${DEST_DIR}
+  cp -ur ${SRC_DIR}/Vimix-Paper ${dest}
+  cp -ur ${SRC_DIR}/Vimix-Old   ${dest}
+
+  cd ${dest}
   gtk-update-icon-cache Vimix-Paper
   gtk-update-icon-cache Vimix-Old
 }
 
-install_base
+install_base "${dest:-${DEST_DIR}}"
 
 for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
   install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
