@@ -1,0 +1,32 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <clipPath id="c">
+   <path d="m592-212-320 313.04v-217.04l-48 24v240l48 24 432-336z" enable-background="new" fill="#1565c0" fill-rule="evenodd"/>
+  </clipPath>
+  <filter id="b" x="-.054" y="-.0675" width="1.108" height="1.135" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="10.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208 15.24)" fill-rule="evenodd">
+    <g>
+     <path d="m592-206-196.4 192.13-123.6-96.133-48 24v240l48 24 123.6-96.133 196.4 192.13 112-48v-384zm0 135.11v209.78l-134.86-104.89zm-320 31.846 74.666 73.043-74.666 73.043z" enable-background="new" filter="url(#a)" opacity=".1"/>
+     <path d="m592-206-196.4 192.13-123.6-96.133-48 24v240l48 24 123.6-96.133 196.4 192.13 112-48v-384zm0 135.11v209.78l-134.86-104.89zm-320 31.846 74.666 73.043-74.666 73.043z" enable-background="new" filter="url(#a)" opacity=".2"/>
+     <path d="m592-210-196.4 192.13-123.6-96.133-48 24v240l48 24 123.6-96.133 196.4 192.13 112-48v-384zm0 135.11v209.78l-134.86-104.89zm-320 31.846 74.666 73.043-74.666 73.043z" enable-background="new" opacity=".2"/>
+    </g>
+    <path d="m224 148v-240l48-24v288z" enable-background="new" fill="#1976d2"/>
+    <path d="m592-212-368 360 48 24 432-336z" enable-background="new" fill="#1565c0"/>
+    <path d="m592 272-368-360 48-24 432 336z" clip-path="url(#c)" enable-background="new" filter="url(#b)" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m 592,32 -368,360 1.35352,0.67578 L 592,34 702.3418,81.289062 704,80 Z" enable-background="new" fill="#fff" opacity=".2"/>
+    <path d="m592 268-368-360 48-24 432 336z" enable-background="new" fill="#1e88e5"/>
+    <path transform="translate(0,-244)" d="m 272,128 -48,24 1.35352,1.32422 L 272,130 702.3418,464.71094 704,464 Z" enable-background="new" fill="#fff" opacity=".2"/>
+    <path d="m704 220v-384l-112-48v480z" enable-background="new" fill="#2196f3"/>
+    <path transform="translate(0,-244)" d="m592 32v2l112 48v-2z" enable-background="new" fill="#fff" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

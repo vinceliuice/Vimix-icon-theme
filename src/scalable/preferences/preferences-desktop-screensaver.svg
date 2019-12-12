@@ -1,0 +1,53 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.022286" y="-.026" width="1.0446" height="1.052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="b" x="-.064447" y="-.056127" width="1.1289" height="1.1123" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.32699751"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-224,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-704" width="384" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-704" width="384" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-220" y="-704" width="384" height="448" rx="24" ry="24" fill="#4527a0"/>
+     <path d="m704 196v2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24v-2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24z" opacity=".2"/>
+     <path transform="translate(0,-244)" d="m280 80c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+    </g>
+    <g transform="matrix(-9.6 0 0 9.6 2243.2 -2468)" fill="#9575cd" fill-rule="evenodd">
+     <path d="m172 255-2 5 2 5 2-5z"/>
+     <path d="m177 260-5-2-5 2 5 2z"/>
+    </g>
+    <g transform="matrix(10.667 0 0 10.667 -1317.3 -2697.3)" fill="#9575cd" fill-rule="evenodd">
+     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+    <g transform="matrix(-5.3333 0 0 5.3333 1445.3 -1337.3)" fill="#9575cd" fill-rule="evenodd">
+     <path d="m178 247-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m181 250-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+    <g transform="matrix(10.667 0 0 10.667 -1605.3 -2921.3)" fill="#9575cd" fill-rule="evenodd">
+     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+    <g transform="matrix(5.3333 0 0 5.3333 -618.67 -1262.7)" fill="#9575cd" fill-rule="evenodd">
+     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+    <g transform="matrix(12 0 0 12 -4234.6 3231.9)" enable-background="new">
+     <rect x="381" y="-274" width="16" height="16" color="#bebebe" enable-background="new" fill="none"/>
+     <circle transform="rotate(20 1592.2 653.73)" cx="147" cy="201" r="7" color="#bebebe" enable-background="accumulate" opacity="0"/>
+     <path d="m388.75-271.97c-2.7628 0.10144-5.3087 1.8046-6.3125 4.5625-1.3222 3.6328 0.5234 7.6778 4.1562 9 2.7579 1.0038 5.7402 0.14496 7.5938-1.9062-1.3278 0.4286-2.8061 0.45165-4.2188-0.0625-3.3734-1.2278-5.1028-4.9704-3.875-8.3438 0.51416-1.4126 1.4744-2.5084 2.6562-3.25z" color="#bebebe" enable-background="accumulate" filter="url(#b)" opacity=".2"/>
+     <path transform="translate(241 -467)" d="m147.75 194.03c-2.7628 0.10144-5.3087 1.8046-6.3125 4.5625-1.3222 3.6328 0.5234 7.6778 4.1562 9 2.7579 1.0038 5.7402 0.14496 7.5938-1.9062-1.3278 0.4286-2.8061 0.45165-4.2188-0.0625-3.3734-1.2278-5.1028-4.9704-3.875-8.3438 0.51416-1.4126 1.4744-2.5084 2.6562-3.25z" color="#bebebe" enable-background="accumulate" fill="#eceff1"/>
+    </g>
+    <g transform="matrix(5.3333 0 0 5.3333 -362.67 -1486.7)" fill="#9575cd" fill-rule="evenodd">
+     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

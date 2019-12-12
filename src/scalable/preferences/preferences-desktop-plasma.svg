@@ -1,0 +1,16 @@
+<svg width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.021429" y="-.027273" width="1.0429" height="1.0545" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-434" y="-480" width="352" height="448" rx="24" ry="24" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,-208,228)" x="-208" y="-688" width="352" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+ <rect transform="matrix(0,-1,-1,0,-208,228)" x="-208" y="-688" width="352" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-432" y="-480" width="352" height="448" rx="24" ry="24" fill="#78909c"/>
+ <g fill="#fff">
+  <path d="m56 80c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" opacity=".2"/>
+  <rect x="64" y="112" width="384" height="288" rx="0" ry="0" opacity=".2"/>
+  <path d="m208 160c-6.648 0-12 5.352-12 12s5.352 12 12 12 12-5.352 12-12-5.352-12-12-12zm75.429 0-27.429 27.429 41.143 41.143-41.143 41.142 27.429 27.429 68.571-68.571-27.429-27.429zm-105.43 72c-9.972 0-18 8.028-18 18s8.028 18 18 18 18-8.028 18-18-8.028-18-18-18zm54 72c-13.296 0-24 10.704-24 24s10.704 24 24 24 24-10.704 24-24-10.704-24-24-24z" stroke-width="8"/>
+ </g>
+</svg>

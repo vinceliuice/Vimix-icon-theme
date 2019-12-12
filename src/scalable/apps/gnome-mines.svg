@@ -1,0 +1,39 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(-208,228)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="448" height="448" rx="36" ry="36" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+ </g>
+ <path d="m68 32c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+ <g transform="matrix(4.3077 0 0 4.3077 3821.2 -2905.6)">
+  <rect x="-879.63" y="738.41" width="104" height="48" rx="8" ry="8" fill="#c0bfbc"/>
+  <path d="m-829.63 716.41v66h46c4.432 0 8-3.568 8-8v-50c0-4.432-3.568-8-8-8z" fill="#deddda"/>
+  <path d="m-871.63 680.41c-4.432 0-8 3.568-8 8v84c0 4.432 3.568 8 8 8h44v-50h52v-42c0-4.432-3.568-8-8-8h-42v2h-4v-2z" fill="#f6f5f4"/>
+  <g fill="none">
+   <path d="m-879.63 730.41h104" stroke="#deddda" stroke-width="4"/>
+   <path d="m-879.63 729.41h104" stroke="#c0bfbc" stroke-width="2"/>
+   <path d="m-827.63 682.41v100" stroke="#deddda" stroke-width="4"/>
+  </g>
+  <path d="m-863.63 687.98v32.454h4.103v-12.304l17.897-8.777z" fill="#2dc0af"/>
+  <path d="m-863.63 768.41h18v-6h-6v-20h-3.196l-10.069 5.225 2.193 5.206 5.072-2.431-0.02 12h-5.98z" fill="#1a5fb4" font-weight="800" letter-spacing="0" word-spacing="0"/>
+  <g transform="translate(-893.63 499.41)" fill="#a51d2d">
+   <circle cx="91" cy="257" r="15"/>
+   <rect x="88" y="238" width="6" height="38" rx="2" ry="2"/>
+   <rect transform="rotate(90)" x="254" y="-110" width="6" height="38" rx="2" ry="2"/>
+   <rect transform="rotate(45)" x="243.07" y="98.38" width="6" height="38" rx="2" ry="2"/>
+   <rect transform="rotate(135)" x="114.38" y="-265.07" width="6" height="38" rx="2" ry="2"/>
+  </g>
+  <g transform="translate(-893.63 497.41)" fill="#ed333b">
+   <circle cx="91" cy="257" r="15"/>
+   <rect x="88" y="238" width="6" height="38" rx="2" ry="2"/>
+   <rect transform="rotate(90)" x="254" y="-110" width="6" height="38" rx="2" ry="2"/>
+   <rect transform="rotate(45)" x="243.07" y="98.38" width="6" height="38" rx="2" ry="2"/>
+   <rect transform="rotate(135)" x="114.38" y="-265.07" width="6" height="38" rx="2" ry="2"/>
+  </g>
+ </g>
+</svg>

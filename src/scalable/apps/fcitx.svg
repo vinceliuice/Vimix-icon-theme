@@ -1,0 +1,15 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(0,-1,-1,0,-208,228)" x="-256" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+ <rect transform="matrix(0,-1,-1,0,-208,228)" x="-256" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-480" y="-480" width="448" height="448" rx="24" ry="24" fill="#2095f2"/>
+ <path d="m56 32c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+ <path d="m456 480c13.296 0 24-10.704 24-24v-2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24v2c0 13.296 10.704 24 24 24z" opacity=".2"/>
+ <g fill="#fff" aria-label="A">
+  <path d="m256 157.72-49.184 133.37h98.548zm-20.464-35.721h41.106l102.14 268h-37.696l-24.413-68.75h-120.81l-24.413 68.75h-38.234z" fill="#fff" stroke-width="9.1906"/>
+ </g>
+</svg>

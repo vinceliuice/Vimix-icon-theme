@@ -1,0 +1,23 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.021429" y="-.027273" width="1.0429" height="1.0545" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4"/>
+  </filter>
+  <filter id="b" x="-.021951" y="-.02647" width="1.0439" height="1.0529" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.288125"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,656)">
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="434" y="-688" width="352" height="448" rx="24" ry="24" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,-640)" x="-208" y="-688" width="352" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+   <rect transform="matrix(0,-1,-1,0,0,-640)" x="-208" y="-688" width="352" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="436" y="-688" width="352" height="448" rx="24" ry="24" fill="#78909c"/>
+   <path d="m264-788c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+   <rect x="272" y="-756" width="384" height="288" rx="0" ry="0" fill="#fff" opacity=".2"/>
+   <path transform="matrix(-1,0,0,1,1040,-16)" d="m336-607.46v194.12c0 7.3866 5.9467 13.333 13.333 13.333h236.83zm48 92.583 81.875 66.875h-81.875z" enable-background="new" filter="url(#b)" opacity=".2"/>
+   <path d="m704-627.46v194.12c0 7.3866-5.9467 13.333-13.333 13.333h-236.83zm-48 92.583-81.875 66.875h81.875z" enable-background="new" fill="#e6e6e6"/>
+   <path d="m704-627.46v2l-247.75 205.46h-2.4121zm-48 159.46v2h-81.875l2.4492-2z" enable-background="new" fill="#fff" opacity=".5"/>
+  </g>
+ </g>
+</svg>

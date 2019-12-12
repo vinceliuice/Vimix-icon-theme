@@ -1,0 +1,60 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Paper Icon Theme</title>
+ <defs>
+  <filter id="c" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <clipPath id="a">
+   <circle cx="112" cy="268" r="15" enable-background="new" fill="#ccc"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <circle cx="464" cy="32" r="240" filter="url(#c)" opacity=".2"/>
+     <circle cx="464" cy="30" r="240" opacity=".2"/>
+     <circle cx="464" cy="32" r="240" filter="url(#b)" opacity=".1" stroke="#000" stroke-width="8"/>
+    </g>
+    <path transform="translate(0,-244)" d="m464 32c-132.55 0-240 107.45-240 240 0.0886 51.788 16.927 102.16 48 143.59l60-25.59c97.538-41.6 22.961-83 129-83s41.386 62.688 143 93l52 15.512c31.057-41.409 47.895-91.75 48-143.51 0-132.55-107.45-240-240-240z" fill="#ccc"/>
+    <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+    <g transform="matrix(16,0,0,16,-1328,-4260)">
+     <circle cx="105.75" cy="269.75" r="4.5" fill="#6d4c41"/>
+     <circle cx="118.25" cy="269.75" r="4.5" fill="#6d4c41"/>
+     <rect x="109" y="279" width="3" height="4.5" fill="#fff"/>
+     <rect x="112" y="278.5" width="3" height="5" fill="#f2f2f2"/>
+     <path d="m109.1 275.85c-1.3801-0.04178-2.1022 2.2684-2.1022 3.649s1.1193 2.5 2.5 2.5c1.2727 0 2.4832-1.1111 2.4832-1.1111h0.0353s1.2095 1.1096 2.4816 1.1111c1.3807 0 2.5-1.1193 2.5-2.5s-0.67798-3.4305-2.0581-3.4723z" fill="#6d4c41"/>
+     <path d="m114.88 275.75c0.29456 1.293-1.6324 2.75-2.875 2.75s-3.2325-1.4416-2.9375-2.75c0.22606-1.0027 1.6949-0.9375 2.9375-0.9375s2.6511-0.0453 2.875 0.9375z" fill="#3e2723"/>
+     <g transform="matrix(.10938 0 0 .10938 51.5 1022.1)">
+      <circle cx="502.86" cy="-6853.1" r="22.857" fill="#fefefe"/>
+      <circle transform="scale(-1,1)" cx="-498.29" cy="-6857.7" r="9.1429" fill="#333"/>
+     </g>
+     <g transform="matrix(.10938 0 0 .10938 62.5 1022.1)">
+      <circle cx="502.86" cy="-6853.1" r="22.857" fill="#fefefe"/>
+      <circle transform="scale(-1,1)" cx="-498.29" cy="-6857.7" r="9.1429" fill="#333"/>
+     </g>
+    </g>
+    <circle cx="360" cy="52" r="72" fill="#6d4c41"/>
+    <circle cx="568" cy="52" r="72" fill="#6d4c41"/>
+    <path transform="matrix(16,0,0,16,-1328,-4260)" d="m112 264c-6.6274 0-12 5.3726-12 12v14h24v-14c0-6.6274-5.3726-12-12-12z" clip-path="url(#a)" fill="#a1887f"/>
+    <rect x="416" y="204" width="48" height="72" fill="#fff"/>
+    <rect x="464" y="196" width="48" height="80" fill="#f2f2f2"/>
+    <path d="m417.64 153.62c-22.081-0.66848-33.636 36.294-33.636 58.385s17.909 40 40 40c20.363 0 39.731-17.778 39.731-17.778h0.5648s19.352 17.754 39.705 17.778c22.091 0 40-17.909 40-40s-10.848-54.888-32.929-55.556z" fill="#6d4c41"/>
+    <path d="m510 152c4.713 20.688-26.118 44-46 44s-51.72-23.065-47-44c3.617-16.043 27.118-15 47-15s42.418-0.7248 46 15z" fill="#3e2723"/>
+    <g transform="matrix(1.75,0,0,1.75,-504,12093)">
+     <circle cx="502.86" cy="-6853.1" r="22.857" fill="#fefefe"/>
+     <circle transform="scale(-1,1)" cx="-498.29" cy="-6857.7" r="9.1429" fill="#333"/>
+    </g>
+    <g transform="matrix(1.75,0,0,1.75,-328,12093)">
+     <circle cx="502.86" cy="-6853.1" r="22.857" fill="#fefefe"/>
+     <circle transform="scale(-1,1)" cx="-498.29" cy="-6857.7" r="9.1429" fill="#333"/>
+    </g>
+   </g>
+   <path transform="translate(0,-244)" d="m464 208c-106.04 0-192 85.961-192 192v2c0-106.04 85.961-192 192-192s192 85.961 192 192v-2c0-106.04-85.961-192-192-192z" clip-path="url(#a)" fill="#a1887f"/>
+   <path transform="translate(0,-244)" d="m464 208c-106.04 0-192 85.961-192 192v2c0-106.04 85.961-192 192-192s192 85.961 192 192v-2c0-106.04-85.961-192-192-192z" clip-path="url(#a)" fill="#fff"/>
+  </g>
+ </g>
+</svg>

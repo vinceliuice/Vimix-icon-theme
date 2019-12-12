@@ -1,0 +1,20 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="b" x="-.026" y="-.022286" width="1.052" height="1.0446" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="r" x="-.066" y="-.055" width="1.132" height="1.11" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(-208 868.02)">
+  <path d="m656-408.02v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" filter="url(#b)" opacity=".1"/>
+  <path d="m656-408.02v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" filter="url(#b)" opacity=".2"/>
+  <path d="m656-410.02v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" opacity=".2"/>
+  <path d="m656-412.02v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" fill="#4caf50"/>
+  <path d="m308-798.02c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h312c2.216 0 3.9834-1.7841 4-4v-267.03l-112.97-112.97zm236.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" filter="url(#r)" opacity=".2"/>
+  <path d="m308-804.02c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h312c2.216 0 3.9834-1.7841 4-4v-267.03l-112.97-112.97zm236.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" fill="#f5f5f5"/>
+  <path transform="translate(0,-244)" d="m296-592.02c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h336c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+  <path d="m368-468h192v-160h-192zm16-144h48v32h-48zm64 0h96v32h-96zm-64 48h48v32h-48zm64 0h96v32h-96zm-64 48h48v32h-48zm64 0h96v32h-96z" enable-background="new" fill="#ccc" filter="url(#filter14069)"/>
+ </g>
+</svg>

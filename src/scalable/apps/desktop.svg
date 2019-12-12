@@ -1,0 +1,27 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="b" x="-.067886" y="-.053755" width="1.1358" height="1.1075" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.33970314"/>
+  </filter>
+  <filter id="a" x="-.022714" y="-.02544" width="1.0454" height="1.0509" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.2399902"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,16)">
+   <path d="m264-160c-13.296 0-24 10.704-24 24v352c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-352c0-13.296-10.704-24-24-24z" filter="url(#a)" opacity=".1"/>
+   <path d="m264-160c-13.296 0-24 10.704-24 24v352c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-352c0-13.296-10.704-24-24-24z" filter="url(#a)" opacity=".2"/>
+   <path d="m264-162c-13.296 0-24 10.704-24 24v352c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-352c0-13.296-10.704-24-24-24z" opacity=".2"/>
+   <path d="m264-164c-13.296 0-24 10.704-24 24v24h448v-24c0-13.296-10.704-24-24-24z" fill="#4d4d4d"/>
+   <path d="m240-116v328c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-328z" fill="#03a9f4"/>
+   <path d="m240 210v2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24z" opacity=".2"/>
+   <path d="m264-164c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+   <g transform="matrix(12 0 0 12 -7700 3327.9)" enable-background="new">
+    <rect x="681" y="-277" width="16" height="16" color="#000000" enable-background="new" fill="none"/>
+    <path d="m683-274.32v12.667c0 1 1 1 1 1h10c1 0 1-1 1-1 0.0188-0.0461 5e-3 -7.1196 0-9.6667l-4-4h-7s-1 0-1 1z" enable-background="new" filter="url(#b)" opacity=".1"/>
+    <path transform="translate(154 -338.99)" d="m529 64.333v12.667c0 1 1 1 1 1h10c1 0 1-1 1-1 0.0188-0.04608 5e-3 -7.1196 0-9.6667l-4-4h-7s-1 0-1 1z" enable-background="new" fill="#eee"/>
+    <path d="m695.01-271.65-4.01-4.01v3.0096c0 1 1 1 1 1z" enable-background="new" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

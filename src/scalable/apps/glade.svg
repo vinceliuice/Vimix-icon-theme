@@ -1,0 +1,31 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <filter id="a" x="-.027273" y="-.021429" width="1.0545" height="1.0429" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4"/>
+  </filter>
+  <filter id="b" x="-.022286" y="-.026" width="1.0446" height="1.052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="c" x="-.055714" y="-.065" width="1.1114" height="1.13" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="10.4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m640 230v-400c0-13.296-10.704-24-24-24h-304c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24z" opacity=".2"/>
+     <path d="m640 232v-400c0-13.296-10.704-24-24-24h-304c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24z" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+     <path d="m640 232v-400c0-13.296-10.704-24-24-24h-304c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24z" filter="url(#a)" opacity=".2"/>
+    </g>
+    <path d="m640 228v-400c0-13.296-10.704-24-24-24h-304c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24z" fill="#ececec"/>
+    <path d="m312-196c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h304c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+    <path d="m240-160v360c0 24 24 24 24 24h424zm80 173.94 151.74 130.06h-151.74z" filter="url(#b)" opacity=".2"/>
+    <path d="m240-152v360c0 24 24 24 24 24h424zm80 173.94 151.74 130.06h-151.74z" filter="url(#c)" opacity=".2" stroke="#000" stroke-width="8"/>
+    <path d="m240-164v360c0 24 24 24 24 24h424zm80 173.94 151.74 130.06h-151.74z" fill="#009688" opacity=".8"/>
+    <path d="m688 220-2.334-2h-421.67s-24 0-24-24v2c0 24 24 24 24 24zm-216.26-82-151.74-130.06v2l149.41 128.06z" opacity=".1"/>
+    <path d="m240-164v2l445.67 382h2.334zm80 304v2h151.74l-2.334-2z" fill="#fff" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

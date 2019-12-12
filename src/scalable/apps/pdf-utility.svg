@@ -1,0 +1,39 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,654.8)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,-640)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="386" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,-640)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+    </g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="388" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" fill="#e53935"/>
+    <path d="m276-836c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".2"/>
+    <g>
+     <path d="m296-694v168h24v-48h24c26.384 0 48-21.616 48-48v-24c0-26.384-21.616-48-48-48zm24 24h24c13.504 0 24 10.496 24 24v24c0 13.504-10.496 24-24 24h-24z" enable-background="new" opacity=".2"/>
+     <path d="m536-526h24v-72h60v-24h-60v-48h72v-24h-96z" enable-background="new" opacity=".2"/>
+     <path d="m416-694v168h48c26.384 0 48-21.616 48-48v-72c0-26.384-21.616-48-48-48zm24 24h24c13.504 0 24 10.496 24 24v72c0 13.504-10.601 22.325-24 24h-24z" enable-background="new" opacity=".2"/>
+    </g>
+    <g fill="#fff">
+     <path d="m296-692v168h24v-48h24c26.384 0 48-21.616 48-48v-24c0-26.384-21.616-48-48-48zm24 24h24c13.504 0 24 10.496 24 24v24c0 13.504-10.496 24-24 24h-24z" enable-background="new"/>
+     <path d="m536-524h24v-72h60v-24h-60v-48h72v-24h-96z" enable-background="new"/>
+     <path d="m416-692v168h48c26.384 0 48-21.616 48-48v-72c0-26.384-21.616-48-48-48zm24 24h24c13.504 0 24 10.496 24 24v72c0 13.504-10.601 22.325-24 24h-24z" enable-background="new"/>
+    </g>
+    <circle transform="matrix(-1,0,0,1,0,-640)" cx="-584" cy="152" r="120" enable-background="new" filter="url(#b)" opacity=".5"/>
+    <circle transform="scale(-1,1)" cx="-584" cy="-492" r="120" enable-background="new" fill="#673ab7"/>
+    <g transform="translate(84.125 -589.72)">
+     <path d="m482.38 27.715-1.543 18.438a55 55 0 0 0-16.074 9.2969l-16.758-7.8906-17.5 30.312 15.215 10.566a55 55 0 0 0-0.84 9.2773 55 55 0 0 0 0.801 9.3164l-15.176 10.527 17.5 30.312 16.719-7.871a55 55 0 0 0 16.113 9.2382l1.543 18.477h35l1.543-18.438a55 55 0 0 0 16.074-9.2969l16.758 7.8906 17.5-30.312-15.215-10.566a55 55 0 0 0 0.84-9.2773 55 55 0 0 0-0.801-9.3164l15.176-10.527-17.5-30.312-16.719 7.871a55 55 0 0 0-16.113-9.2382l-1.543-18.477zm17.5 50a20 20 0 0 1 20 20 20 20 0 0 1-20 20 20 20 0 0 1-20-20 20 20 0 0 1 20-20z" enable-background="new" fill="#fff"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

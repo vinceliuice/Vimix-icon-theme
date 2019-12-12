@@ -1,0 +1,20 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <filter id="a" x="-.027273" y="-.021429" width="1.0545" height="1.0429" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m312-192c-13.296 0-24 10.704-24 24v328h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-328c0-13.296-10.704-24-24-24zm296 352h-32v32h32zm0 32v32h32v-32zm0 32h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm0-32h32v-32h-32zm64 0h32v-32h-32zm64 0h32v-32h-32zm64 0h32v-32h-32z" filter="url(#a)" opacity=".1"/>
+     <path d="m312-192c-13.296 0-24 10.704-24 24v328h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-328c0-13.296-10.704-24-24-24zm296 352h-32v32h32zm0 32v32h32v-32zm0 32h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm0-32h32v-32h-32zm64 0h32v-32h-32zm64 0h32v-32h-32zm64 0h32v-32h-32z" filter="url(#a)" opacity=".2"/>
+     <path d="m312-194c-13.296 0-24 10.704-24 24v328h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-328c0-13.296-10.704-24-24-24zm296 352h-32v32h32zm0 32v32h32v-32zm0 32h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm0-32h32v-32h-32zm64 0h32v-32h-32zm64 0h32v-32h-32zm64 0h32v-32h-32z" opacity=".2"/>
+    </g>
+    <path transform="translate(0,-244)" d="m312 48c-13.296 0-24 10.704-24 24v328h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-32h32v32h32v-328c0-13.296-10.704-24-24-24zm296 352h-32v32h32zm0 32v32h32v-32zm0 32h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm-32 0h-32v32h32zm-32 0v-32h-32v32zm0-32h32v-32h-32zm64 0h32v-32h-32zm64 0h32v-32h-32zm64 0h32v-32h-32z" fill="#e6e6e6"/>
+    <path d="m312-196c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h304c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+   </g>
+  </g>
+ </g>
+</svg>

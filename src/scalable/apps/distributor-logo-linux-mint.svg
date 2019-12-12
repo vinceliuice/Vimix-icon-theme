@@ -1,0 +1,27 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.72"/>
+  </filter>
+  <filter id="a" x="-.022714" y="-.02544" width="1.0454" height="1.0509" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.24"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m240-176v96h32c8.8362 8.8e-4 15.999 7.1638 16 16v52.75 107.25s0 128 128 128h129.5 142.5v-142.5-115c0-79.154-63.346-142.5-142.5-142.5h-49.5-64-160z" color="#000000" enable-background="accumulate" filter="url(#a)" opacity=".1"/>
+     <path d="m240-176v96h32c8.8362 8.8e-4 15.999 7.1638 16 16v52.75 107.25s0 128 128 128h129.5 142.5v-142.5-115c0-79.154-63.346-142.5-142.5-142.5h-49.5-64-160z" color="#000000" enable-background="accumulate" filter="url(#a)" opacity=".2"/>
+     <path d="m240-178v96h32c8.8362 8.8e-4 15.999 7.1638 16 16v52.75 107.25s0 128 128 128h129.5 142.5v-142.5-115c0-79.154-63.346-142.5-142.5-142.5h-49.5-64-160z" color="#000000" enable-background="accumulate" opacity=".2"/>
+    </g>
+    <path transform="translate(0,-244)" d="m240 64v96h32c8.8362 8.8e-4 15.999 7.1638 16 16v52.75 107.25s0 128 128 128h129.5 142.5v-142.5-115c0-79.154-63.346-142.5-142.5-142.5h-49.5-64-160z" color="#000000" enable-background="accumulate" fill="#fff"/>
+    <path transform="translate(0,-244)" d="m272 96v32c26.465-0.0125 48.012 21.535 48 48v0.0117 52.738 107.25c0 91.291 96 96 96 96h129.5 110.5v-110.5-115c0-62.115-48.385-110.5-110.5-110.5h-49.5-64z" color="#000000" enable-background="accumulate" fill="#4caf50"/>
+    <path d="m592 92c0 17.728-14.272 32-32 32h-95.75v16 16h95.75c35.456 0 64-28.544 64-64v-16h-32z" color="#000000" enable-background="accumulate" opacity=".2"/>
+    <path d="m352-112v200 8c0 35.456 28.544 64 64 64h48.25v-32h-48.25c-17.728 0-32-14.272-32-32v-8-200zm136 32c-30.928 0-56 25.072-56 56v104h32v-104c0-13.255 10.745-24 24-24s24 10.745 24 24v104h32v-104c0-13.255 10.745-24 24-24s24 10.745 24 24v104h24.5 7.5v-104c0-30.928-25.072-56-56-56-15.713 0-29.83 6.5768-40 17-10.17-10.423-24.287-17-40-17z" color="#000000" enable-background="accumulate" filter="url(#b)" opacity=".2"/>
+    <path d="m352-116v200 8c0 35.456 28.544 64 64 64h48.25v-32h-48.25c-17.728 0-32-14.272-32-32v-8-200zm136 32c-30.928 0-56 25.072-56 56v104h32v-104c0-13.255 10.745-24 24-24s24 10.745 24 24v104h32v-104c0-13.255 10.745-24 24-24s24 10.745 24 24v104h32v-104c0-30.928-25.072-56-56-56-15.713 0-29.83 6.5768-40 17-10.17-10.423-24.287-17-40-17z" color="#000000" enable-background="accumulate" fill="#fff"/>
+    <path transform="translate(0,-244)" d="m272 96v2h160 64 49.5c62.115 0 110.5 48.385 110.5 110.5v-2c0-62.115-48.385-110.5-110.5-110.5h-49.5-64z" color="#000000" enable-background="accumulate" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

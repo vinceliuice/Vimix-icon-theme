@@ -1,0 +1,31 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <clipPath id="c">
+   <rect transform="scale(-1)" x="-196" y="-688" width="288" height="288" rx="24" ry="24" fill="#6a1b9a"/>
+  </clipPath>
+  <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.2"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m424-192c-13.296 0-24 10.704-24 24v136h-136c-13.296 0-24 10.704-24 24v240c0 13.296 10.704 24 24 24h240c13.296 0 24-10.704 24-24v-136h136c13.296 0 24-10.704 24-24v-240c0-13.296-10.704-24-24-24z" filter="url(#a)" opacity=".1"/>
+     <path d="m424-192c-13.296 0-24 10.704-24 24v136h-136c-13.296 0-24 10.704-24 24v240c0 13.296 10.704 24 24 24h240c13.296 0 24-10.704 24-24v-136h136c13.296 0 24-10.704 24-24v-240c0-13.296-10.704-24-24-24z" filter="url(#a)" opacity=".2"/>
+     <path d="m424-194c-13.296 0-24 10.704-24 24v136h-136c-13.296 0-24 10.704-24 24v240c0 13.296 10.704 24 24 24h240c13.296 0 24-10.704 24-24v-136h136c13.296 0 24-10.704 24-24v-240c0-13.296-10.704-24-24-24z" opacity=".2"/>
+    </g>
+    <rect transform="rotate(90)" x="-196" y="-688" width="288" height="288" rx="24" ry="24" fill="#6a1b9a"/>
+    <path d="m479.11-124c-3.924-2e-3 -7.1054 3.1856-7.1033 7.1171v145.76c-2e-3 5.4072 5.7808 8.8389 10.513 6.2393l133.35-72.879c4.9199-2.6991 4.9199-9.7795 0-12.479l-120.02-65.596-13.331-7.2831c-1.045-0.57476-2.2175-0.8766-3.4096-0.87782z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#d1c4e9" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path transform="rotate(-90)" d="m-232 240h240c13.296 0 24 10.704 24 24v240c0 13.296-10.704 24-24 24h-240c-13.296 0-24-10.704-24-24v-240c0-13.296 10.704-24 24-24z" clip-path="url(#c)" filter="url(#b)" opacity=".5"/>
+    <rect transform="rotate(-90)" x="-252" y="240" width="288" height="288" rx="24" ry="24" fill="#fb8c00"/>
+    <path transform="translate(0,-244)" d="m264 208c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h240c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+    <path d="m424-196c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h240c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+    <path d="m344 36v90.104c-3.8514-1.3778-7.9095-2.0892-12-2.1035-19.882 0-36 16.118-36 36s16.118 36 36 36 36-16.118 36-36v-76h72v42.104c-3.8514-1.3778-7.9095-2.0892-12-2.1035-19.882 0-36 16.118-36 36s16.118 36 36 36 36-16.118 36-36v-124z" fill="#fff3e0"/>
+   </g>
+  </g>
+ </g>
+</svg>

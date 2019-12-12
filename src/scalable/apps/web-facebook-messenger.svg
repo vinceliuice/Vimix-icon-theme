@@ -1,0 +1,18 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.0242" y="-.023803" width="1.0484" height="1.0476" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.84"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <path d="m464-207a240 224 0 0 0-240 224 240 224 0 0 0 88 173.18v90.822l83.434-49.441a240 224 0 0 0 68.566 9.4414 240 224 0 0 0 240-224 240 224 0 0 0-240-224z" filter="url(#a)" opacity=".2"/>
+    <path d="m464-209a240 224 0 0 0-240 224 240 224 0 0 0 88 173.18v90.822l83.434-49.441a240 224 0 0 0 68.566 9.4414 240 224 0 0 0 240-224 240 224 0 0 0-240-224z" opacity=".2"/>
+    <path d="m464-211a240 224 0 0 0-240 224 240 224 0 0 0 88 173.18v90.822l83.434-49.441a240 224 0 0 0 68.566 9.4414 240 224 0 0 0 240-224 240 224 0 0 0-240-224z" fill="#03a9f4"/>
+    <path d="m312 84 128-136 64 64 112-64-128 136-64-64z" fill="#fff" fill-rule="evenodd"/>
+    <path transform="translate(0,-244)" d="m 464,33 a 240,224 0 0 0 -240,224 240,224 0 0 0 0.0449,0.82227 A 240,224 0 0 1 464,35 240,224 0 0 1 703.95508,258.17188 240,224 0 0 0 704,257 240,224 0 0 0 464,33 Z" fill="#fff" opacity=".1"/>
+   </g>
+  </g>
+ </g>
+</svg>

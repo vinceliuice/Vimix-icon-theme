@@ -1,0 +1,20 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,16)">
+   <circle cx="464" cy="32" r="240" filter="url(#b)" opacity=".2"/>
+   <circle cx="464" cy="30" r="240" opacity=".2"/>
+   <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+   <circle cx="464" cy="28" r="240" fill="#f9f9f9"/>
+   <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+   <path d="m496-4h38l-70 104-70-104h38v-80h64zm-112 112h160v32h-160z" enable-background="new" fill="#03a9f4"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Paper Icon Theme</title>
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g></g>
+  <g transform="translate(-208,16)">
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" fill="#1794d1"/>
+   <path transform="translate(0,-244)" d="m276 48c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".2"/>
+   <path d="m463.97-132c-14.243 34.92-22.834 57.762-38.691 91.643 9.7227 10.306 21.657 22.308 41.038 35.863-20.837-8.5741-35.05-17.182-45.671-26.115-20.295 42.348-52.091 102.67-116.62 218.61 50.714-29.278 90.027-47.328 126.66-54.216-1.5732-6.7664-2.4677-14.086-2.4069-21.722l0.0603-1.6246c0.80469-32.491 17.707-57.477 37.728-55.78 20.022 1.6965 35.585 29.427 34.78 61.918-0.15147 6.1137-0.84096 11.995-2.0459 17.45 36.24 7.0891 75.132 25.093 125.16 53.975-9.8645-18.161-18.669-34.532-27.078-50.124-13.245-10.265-27.059-23.626-55.239-38.089 19.369 5.0328 33.237 10.839 44.047 17.33-85.491-159.17-92.414-180.32-121.73-249.12z" enable-background="new" fill="#fff" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>

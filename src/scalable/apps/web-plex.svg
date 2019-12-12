@@ -1,0 +1,27 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="b" x="-.075" y="-.05" width="1.15" height="1.1" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.6666666"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g></g>
+  <g transform="translate(-208,16)">
+   <g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+   </g>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" fill="#333"/>
+   <path transform="translate(0,-244)" d="m276 48c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".1"/>
+   <g fill-rule="evenodd">
+    <path d="m367.33 202h106.67l106.67-160-106.67-160h-106.67l106.67 160z" enable-background="new" filter="url(#b)" opacity=".2"/>
+    <path d="m367.33 188h106.67l106.67-160-106.67-160h-106.67l106.67 160z" enable-background="new" fill="#ff9800"/>
+    <path transform="translate(0,-244)" d="m367.33 112 1.334 2h105.33l106 159 0.66602-1-106.67-160zm106 161-106 159h1.334l105.33-158z" enable-background="new" fill="#fff" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

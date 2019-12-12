@@ -1,0 +1,32 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.023357" y="-.024679" width="1.0467" height="1.0494" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.36"/>
+  </filter>
+  <filter id="b" x="-.05625" y="-.064286" width="1.1125" height="1.1286" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.5"/>
+  </filter>
+  <clipPath id="c">
+   <path d="m688 100-40-40h-260c-11.08 0-20-8.92-20-20v-200c0-11.08 8.92-20 20-20h280c11.08 0 20 8.92 20 20v200z" fill="#3f51b5"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m388-178c-11.08 0-20 8.92-20 20v124h-108c-11.08 0-20 8.92-20 20v260l40-40h260c11.08 0 20-8.92 20-20v-124h88l40 40v-260c0-11.08-8.92-20-20-20z" opacity=".2"/>
+     <path d="m388-176c-11.08 0-20 8.92-20 20v124h-108c-11.08 0-20 8.92-20 20v260l40-40h260c11.08 0 20-8.92 20-20v-124h88l40 40v-260c0-11.08-8.92-20-20-20z" filter="url(#a)" opacity=".1"/>
+     <path d="m388-176c-11.08 0-20 8.92-20 20v124h-108c-11.08 0-20 8.92-20 20v260l40-40h260c11.08 0 20-8.92 20-20v-124h88l40 40v-260c0-11.08-8.92-20-20-20z" filter="url(#a)" opacity=".2"/>
+    </g>
+    <path d="m688 100-40-40h-260c-11.08 0-20-8.92-20-20v-200c0-11.08 8.92-20 20-20h280c11.08 0 20 8.92 20 20v200z" fill="#009688"/>
+    <path d="m368 38c0 11.08 8.92 20 20 20h260l40 40v2l-40-40h-260c-11.08 0-20-8.92-20-20z" opacity=".1"/>
+    <path d="m240 250 40-40h260c11.08 0 20-8.92 20-20v-200c0-11.08-8.92-20-20-20h-280c-11.08 0-20 8.92-20 20v200z" clip-path="url(#c)" filter="url(#b)" opacity=".2"/>
+    <path d="m240 244 40-40h260c11.08 0 20-8.92 20-20v-200c0-11.08-8.92-20-20-20h-280c-11.08 0-20 8.92-20 20v200z" fill="#80cbc4"/>
+    <path transform="translate(0,-244)" d="m260 208c-11.08 0-20 8.92-20 20v2c0-11.08 8.92-20 20-20h280c11.08 0 20 8.92 20 20v-2c0-11.08-8.92-20-20-20z" fill="#fff" opacity=".2"/>
+    <path d="m668-180c11.08 0 20 8.92 20 20v2c0-11.08-8.92-20-20-20h-280c-11.08 0-20 8.92-20 20v-2c0-11.08 8.92-20 20-20z" fill="#fff" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m560 426c0 11.08-8.92 20-20 20h-260l-40 40v2l40-40h260c11.08 0 20-8.92 20-20z" opacity=".1"/>
+    <path d="m368 12v32h-32v16h32v48h-32v16h32v32h16v-32h32v32h16v-32h32v-16h-32v-48h32v-16h-32v-32h-16v32h-32v-32zm16 48h32v48h-32z" enable-background="new" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

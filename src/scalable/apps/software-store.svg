@@ -1,0 +1,26 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6"/>
+  </filter>
+  <filter id="a" x="-.023143" y="-.024923" width="1.0463" height="1.0498" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.32"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m400-192s-32 0-32 32v48h-128v304c0 32 32 32 32 32h384s32 0 32-32v-304h-128v-48c0-32-32-32-32-32zm16 32h96c8.864 0 16 7.136 16 16v16c0 8.864-7.136 16-16 16h-96c-8.864 0-16-7.136-16-16v-16c0-8.864 7.136-16 16-16z" filter="url(#a)" opacity=".1"/>
+     <path d="m400-192s-32 0-32 32v48h-128v304c0 32 32 32 32 32h384s32 0 32-32v-304h-128v-48c0-32-32-32-32-32zm16 32h96c8.864 0 16 7.136 16 16v16c0 8.864-7.136 16-16 16h-96c-8.864 0-16-7.136-16-16v-16c0-8.864 7.136-16 16-16z" filter="url(#a)" opacity=".2"/>
+     <path d="m400-194s-32 0-32 32v48h-128v304c0 32 32 32 32 32h384s32 0 32-32v-304h-128v-48c0-32-32-32-32-32zm16 32h96c8.864 0 16 7.136 16 16v16c0 8.864-7.136 16-16 16h-96c-8.864 0-16-7.136-16-16v-16c0-8.864 7.136-16 16-16z" opacity=".2"/>
+    </g>
+    <path transform="translate(0,-244)" d="m400 48s-32 0-32 32v48h-128v304c0 32 32 32 32 32h384s32 0 32-32v-304h-128v-48c0-32-32-32-32-32zm16 32h96c8.864 0 16 7.136 16 16v16c0 8.864-7.136 16-16 16h-96c-8.864 0-16-7.136-16-16v-16c0-8.864 7.136-16 16-16z" fill="#ececec"/>
+    <circle transform="matrix(1,0,0,-1,0,284)" cx="584" cy="144" r="120" enable-background="new" fill-rule="evenodd" filter="url(#b)" opacity=".5"/>
+    <circle cx="584" cy="132" r="120" enable-background="new" fill="#03a9f4" fill-rule="evenodd"/>
+    <path d="m608 124h32l-56 62-56-62h32v-64h48zm-80 64h112v16h-112z" fill="#fff"/>
+    <path transform="translate(0,-244)" d="m400 48s-32 0-32 32v2c0-32 32-32 32-32h128s32 0 32 32v-2c0-32-32-32-32-32zm0 64v2c0 8.864 7.136 16 16 16h96c8.864 0 16-7.136 16-16v-2c0 8.864-7.136 16-16 16h-96c-8.864 0-16-7.136-16-16zm-160 16v2h128v-2zm320 0v2h128v-2z" fill="#fff" opacity=".5"/>
+   </g>
+  </g>
+ </g>
+</svg>

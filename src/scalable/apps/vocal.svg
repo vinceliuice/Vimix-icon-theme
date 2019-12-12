@@ -1,0 +1,31 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.56"/>
+  </filter>
+  <filter id="c" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.68"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <circle cx="464" cy="30" r="240" opacity=".2"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".2"/>
+    </g>
+    <circle cx="464" cy="28" r="240" fill="#9c27b0"/>
+    <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+    <circle cx="464" cy="34" r="184" filter="url(#c)" opacity=".15"/>
+    <rect transform="matrix(0 -1 -1 0 0 -7.0234e-6)" x="-160" y="-592" width="256" height="256" rx="128" ry="128" enable-background="new" filter="url(#b)" opacity=".2"/>
+    <circle cx="464" cy="28" r="184" fill="#ba68c8"/>
+    <path d="m464-88c-26.51 0-48 21.49-48 48v16h24c4.4182 0 8 3.5824 8 8s-3.5818 8-8 8h-24v16h24c4.4182 0 8 3.5824 8 8s-3.8416 9.4926-8 8h-24v16c0 26.51 21.49 48 48 48s44.845-21.678 48-48v-16h-24c-4.4182 0-8-3.5824-8-8s3.749-6.7958 8-8h24v-16h-24c-4.4182 0-8-3.5824-8-8s3.749-6.7958 8-8h24v-16c0-26.51-21.49-48-48-48zm-96 112v16c0 47.61 34.537 86.932 80 94.5v17.5h32v-17.5c45.463-7.568 74.335-47.229 80-94.5v-16h-32v16c0 35.346-28.654 64-64 64s-64-28.654-64-64v-16z" enable-background="new" fill="#fff"/>
+    <path transform="translate(0,-244)" d="m 464,88 a 184,184 0 0 0 -184,184 184,184 0 0 0 0.041,1.17188 A 184,184 0 0 1 464,90 184,184 0 0 1 647.95898,272.82812 184,184 0 0 0 648,272 184,184 0 0 0 464,88 Z" fill="#fff" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

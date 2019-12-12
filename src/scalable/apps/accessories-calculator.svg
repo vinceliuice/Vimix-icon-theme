@@ -1,0 +1,34 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.012" y="-.012" width="1.024" height="1.024" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.24"/>
+  </filter>
+  <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208 15.32)">
+    <rect x="240" y="-188" width="448" height="448" ry="24" filter="url(#a)" opacity=".1"/>
+    <rect x="240" y="-192" width="448" height="448" ry="24" filter="url(#a)" opacity=".2"/>
+    <path d="m264 252c-13.296 0-24-10.704-24-24v-200h224v224z" fill="#808080"/>
+    <path transform="translate(0,-244)" d="m464 48v224h224v-200c0-13.296-10.704-24-24-24z" fill="#4d4d4d"/>
+    <path d="m264-196c-13.296 0-24 10.704-24 24v200h224v-224z" fill="#b3b3b3"/>
+    <path d="m664 252c13.296 0 24-10.704 24-24v-200h-224v224z" fill="#666"/>
+    <path transform="translate(0,-244)" d="m264 48c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+    <path d="m528-100v16h96v-16z" enable-background="new" fill="#ebebeb"/>
+    <path d="m264 252c-13.296 0-24-10.704-24-24v-2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v2c0 13.296-10.704 24-24 24z" opacity=".1"/>
+    <circle transform="matrix(-1,0,0,1,-8,-8)" cx="-584" cy="150" r="128" filter="url(#b)" opacity=".2"/>
+    <circle cx="576" cy="140" r="128" fill="#00bfa5"/>
+    <path d="m528 108v16h96v-16zm0 48v16h96v-16z" enable-background="new" fill="#fff"/>
+    <g fill="#ebebeb">
+     <path d="m391.6 89.088-39.598 39.598-39.598-39.598-11.314 11.314 39.598 39.598-39.598 39.598 11.314 11.314 39.598-39.598 39.598 39.598 11.314-11.314-39.598-39.598 39.598-39.598z" enable-background="new"/>
+     <path d="m304-100v16h96v-16z"/>
+     <path d="m304-100v16h96v-16z"/>
+     <path d="m344-44h16v-96h-16z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

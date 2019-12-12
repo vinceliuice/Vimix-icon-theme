@@ -1,0 +1,18 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,16)">
+   <circle cx="464" cy="32" r="240" enable-background="new" filter="url(#a)" opacity=".1"/>
+   <circle cx="464" cy="32" r="240" enable-background="new" filter="url(#a)" opacity=".2"/>
+   <circle cx="464" cy="28" r="240" enable-background="new" fill="#ececec"/>
+   <path d="m379.37-100c-6.2784-0.003305-11.369 5.0969-11.365 11.387v233.21c-2e-3 8.6516 9.2493 14.142 16.821 9.9829l213.36-116.61c7.8718-4.3185 7.8718-15.647 0-19.966l-192.04-104.95-21.329-11.653c-1.672-0.91963-3.548-1.4026-5.4553-1.4045z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#4caf50" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" enable-background="new" fill="#fff" opacity=".2"/>
+   <path d="m379.37-100c-6.2783-3e-3 -11.369 5.0963-11.365 11.387v2c-3e-3 -6.2904 5.0869-11.39 11.365-11.387 1.9073 0.0019 3.7831 0.48466 5.4551 1.4043l21.33 11.652 192.04 104.95c3.6 1.975 5.5326 5.418 5.8398 8.9844 0.36504-4.2322-1.5676-8.6406-5.8398-10.984l-192.04-104.95-21.33-11.652c-1.672-0.91964-3.5478-1.4024-5.4551-1.4043z" color="#000000" color-rendering="auto" enable-background="accumulate" image-rendering="auto" opacity=".2" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   <path d="m379.37 157.99c-6.2783 3e-3 -11.369-5.0963-11.365-11.387v-2c-3e-3 6.2904 5.0869 11.39 11.365 11.387 1.9073-2e-3 3.7831-0.48466 5.4551-1.4043l21.33-11.652 192.04-104.95c3.6-1.975 5.5326-5.418 5.8398-8.9844 0.36504 4.2322-1.5676 8.6406-5.8398 10.984l-192.04 104.95-21.33 11.652c-1.672 0.91964-3.5478 1.4024-5.4551 1.4043z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#fff" image-rendering="auto" opacity=".5" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,59 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.022429" y="-.025808" width="1.0449" height="1.0516" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.2249721"/>
+  </filter>
+  <filter id="c" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.2"/>
+  </filter>
+  <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g fill-rule="evenodd" shape-rendering="auto">
+     <path transform="matrix(-1,0,0,1,928,-244)" d="m466.84 91.102-29.811 29.932-27.66-27.66-102.63 102.63h-50.545l-19.166 43.127a12.001 12.001 0 1 0 21.93 9.7461l12.834-28.873h27.23l28.971 28.971v23.969l-29.828 16.57a12.001 12.001 0 1 0 11.656 20.98l42.172-23.43v-45.807l72.193-72.193 91.311 90.939h-3.5039v176h-16c-16.002 0-16 16-16 16v32h208v-32c0-16-16-16-16-16h-16v-176h-64.031l22.141-22.23z" color="#000000" color-rendering="auto" enable-background="accumulate" filter="url(#a)" image-rendering="auto" opacity=".1" solid-color="#000000" stroke="#3f3f3f" stroke-linecap="round" stroke-width="8" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     <path transform="matrix(-1,0,0,1,928,-244)" d="m466.84 91.102-29.811 29.932-27.66-27.66-102.63 102.63h-50.545l-19.166 43.127a12.001 12.001 0 1 0 21.93 9.7461l12.834-28.873h27.23l28.971 28.971v23.969l-29.828 16.57a12.001 12.001 0 1 0 11.656 20.98l42.172-23.43v-45.807l72.193-72.193 91.311 90.939h-3.5039v176h-16c-16.002 0-16 16-16 16v32h208v-32c0-16-16-16-16-16h-16v-176h-64.031l22.141-22.23z" color="#000000" color-rendering="auto" enable-background="accumulate" filter="url(#a)" image-rendering="auto" opacity=".2" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     <path d="m461.16-156.9 29.811 29.932 27.66-27.66 112 112-45.254 45.254-81.566-81.566-91.311 90.939h3.5039v208h-144v-208h64.031l-22.141-22.23z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#cbbb2e" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     <path transform="translate(0,-244)" d="m503.81 163.06-91.311 90.939h2.0078l89.303-88.939 81.566 81.566 45.254-45.254-1-1-44.254 44.254zm-188.92 69.713-1 0.99609 20.148 20.23h1.9922z" color="#000000" color-rendering="auto" enable-background="accumulate" image-rendering="auto" opacity=".1" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     <path d="m461.16-156.9 29.811 29.932 27.66-27.66 112 112-1 1-111-111-27.66 27.66-29.811-29.932-146.27 145.67-1-1.0039zm-45.156 168.9v2h-3.5039l2.0078-2zm-81.961 0 1.9922 2h-64.031v-2z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#fff" image-rendering="auto" opacity=".2" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    </g>
+    <g>
+     <rect transform="matrix(-1,0,0,1,928,0)" x="496" y="-64" width="176" height="176" ry="88" enable-background="new" filter="url(#b)" opacity=".2"/>
+     <rect transform="scale(-1,1)" x="-432" y="172" width="176" height="40" ry="16" fill="#d6c84a"/>
+     <path d="m432 188c16.002 0 16 16 16 16v32h-208v-32c0-16 16-16 16-16z" enable-background="new" fill="#3f3f3f"/>
+    </g>
+    <path d="m496-132-152 152" fill="none" opacity=".1" stroke="#000" stroke-width="32"/>
+    <g>
+     <rect transform="scale(-1,1)" x="-432" y="-68" width="176" height="176" ry="88" enable-background="new" fill="#d6c84a"/>
+     <rect transform="scale(-1,1)" x="-408" y="-42" width="128" height="128" ry="64" enable-background="new" fill="#fff" opacity=".2"/>
+     <rect transform="scale(-1,1)" x="-408" y="-44" width="128" height="128" ry="64" enable-background="new" fill="#3f3f3f"/>
+     <rect transform="matrix(-1,0,0,1,928,0)" x="368" y="-192" width="128" height="128" ry="64" enable-background="new" filter="url(#c)" opacity=".2"/>
+    </g>
+    <path d="m496-132 104 104" fill="none" opacity=".1" stroke="#000" stroke-width="24"/>
+    <g>
+     <rect transform="scale(-1,1)" x="-560" y="-196" width="128" height="128" ry="64" enable-background="new" fill="#d6c84a"/>
+     <path d="m671.8-52 19.166 43.127a12.001 12.001 0 1 1-21.93 9.7461l-12.834-28.873h-27.23l-28.971 28.971v23.969l29.828 16.57a12.001 12.001 0 1 1-11.656 20.98l-42.172-23.43v-48.031l43.029-43.029z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#3f3f3f" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     <rect transform="scale(-1,1)" x="-544" y="-178" width="96" height="96" ry="48" enable-background="new" fill="#fff" opacity=".2"/>
+     <rect transform="scale(-1,1)" x="-544" y="-180" width="96" height="96" ry="48" enable-background="new" fill="#3f3f3f"/>
+    </g>
+    <g fill="#fff">
+     <rect transform="scale(-1,1)" x="-384" y="-20" width="80" height="80" ry="40" enable-background="new" opacity=".1"/>
+     <rect transform="scale(-1,1)" x="-528" y="-164" width="64" height="64" ry="32" enable-background="new" opacity=".1"/>
+     <path d="m344-68c48.752 0 88 39.248 88 88 0 0.33449-0.01 0.66641-0.0137 1-0.53346-48.287-39.569-87-87.986-87s-87.453 38.713-87.986 87c-0.00368-0.33359-0.01367-0.66551-0.01367-1 0-48.752 39.248-88 88-88z" enable-background="new" opacity=".2"/>
+     <path d="m496-196c35.456 0 64 28.544 64 64 0 0.33548-0.0203 0.66577-0.0254 1-0.53314-34.989-28.854-63-63.975-63s-63.441 28.011-63.975 63c-5e-3 -0.33423-0.0254-0.66452-0.0254-1 0-35.456 28.544-64 64-64z" enable-background="new" opacity=".2"/>
+     <path d="m416 172c8.864 0 16 7.136 16 16v2c0-8.864-7.136-16-16-16h-144c-8.864 0-16 7.136-16 16v-2c0-8.864 7.136-16 16-16z" opacity=".2"/>
+     <path d="m432 188c16.002 0 16 16 16 16v2s2e-3 -16-16-16h-176s-16 0-16 16v-2c0-16 16-16 16-16z" enable-background="new" opacity=".2"/>
+     <path d="m671.8-52 19.166 43.127a12.001 12.001 0 0 1 1.0762 6.1074 12.001 12.001 0 0 0-1.0762-4.1074l-19.166-43.127h-52.77l-43.029 43.029v-2l43.029-43.029zm-71.799 76.939 29.828 16.57a12.001 12.001 0 0 1 6.2344 11.502 12.001 12.001 0 0 0-6.2344-9.502l-29.828-16.57z" color="#000000" color-rendering="auto" enable-background="accumulate" fill-rule="evenodd" image-rendering="auto" opacity=".2" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    </g>
+    <g>
+     <path d="m496-180c26.592 0 48 21.408 48 48 0 0.33555-0.0186 0.66614-0.0254 1-0.5309-26.125-21.718-47-47.975-47s-47.444 20.875-47.975 47c-7e-3 -0.33386-0.0254-0.66445-0.0254-1 0-26.592 21.408-48 48-48z" enable-background="new" opacity=".2"/>
+     <path d="m344-44c35.456 0 64 28.544 64 64 0 0.33548-0.0203 0.66577-0.0254 1-0.53313-34.989-28.854-63-63.975-63s-63.441 28.011-63.975 63c-0.00509-0.33423-0.02539-0.66452-0.02539-1 0-35.456 28.544-64 64-64z" enable-background="new" opacity=".2"/>
+     <path transform="translate(0,-244)" d="m628.97 214-28.971 28.971v2l28.971-28.971h27.23l12.834 28.873a12.001 12.001 0 0 0 23.006-5.6387 12.001 12.001 0 0 1-23.006 3.6387l-12.834-28.873zm-52.971 67.061v2l42.172 23.43a12.001 12.001 0 0 0 17.891-11.479 12.001 12.001 0 0 1-17.891 9.4785z" color="#000000" color-rendering="auto" enable-background="accumulate" fill-rule="evenodd" image-rendering="auto" opacity=".2" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

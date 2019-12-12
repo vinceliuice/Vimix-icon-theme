@@ -1,0 +1,36 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Paper Icon Theme</title>
+ <defs>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.52"/>
+  </filter>
+  <filter id="d" x="-.02625" y="-.022105" width="1.0525" height="1.0442" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.1"/>
+  </filter>
+  <filter id="c" x="-.02625" y="-.022105" width="1.0525" height="1.0442" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.1"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="224" ry="224" filter="url(#b)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="224" ry="224" filter="url(#b)" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="224" ry="224" fill="#607d8b"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-208" y="-640" width="352" height="352" rx="176" ry="176" enable-background="new" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-208" y="-640" width="352" height="352" rx="176" ry="176" enable-background="new" filter="url(#a)" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-204" y="-640" width="352" height="352" rx="176" ry="176" enable-background="new" fill="#90a4ae"/>
+    <path d="m464-100-35.625 42.75c-35.432 14.123-60.375 48.781-60.375 89.25 0 53.019 42.98 96 96 96 53.019 0 96-42.981 96-96 0-40.469-24.943-75.127-60.375-89.25z" filter="url(#d)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <path d="m464-100-35.625 42.75c-35.432 14.123-60.375 48.781-60.375 89.25 0 53.019 42.98 96 96 96 53.019 0 96-42.981 96-96 0-40.469-24.943-75.127-60.375-89.25z" filter="url(#c)" opacity=".2"/>
+    <path d="m464-104-35.625 42.75c-35.432 14.123-60.375 48.781-60.375 89.25 0 53.019 42.98 96 96 96 53.019 0 96-42.981 96-96 0-40.469-24.943-75.127-60.375-89.25z" fill="#eceff1"/>
+    <path transform="translate(0,76)" d="m464-224c-97.504 0-176 78.496-176 176 0 0.24626 0.0111 0.48929 0.0156 0.73438 0.67728-96.915 78.904-174.73 175.98-174.73s175.31 77.819 175.98 174.73c0.00444-0.24508 0.01562-0.48812 0.01562-0.73438 0-97.504-78.496-176-176-176z" fill="#fff" opacity=".2"/>
+    <path d="m464 252c-124.1 0-224-99.904-224-224 0-0.23298 0.0112-0.46332 0.0156-0.69532 0.69904 123.49 100.32 222.7 223.98 222.7 123.67 0 223.3-99.216 223.98-222.71 5e-3 0.23849 0.0156 0.47532 0.0156 0.71485 0 124.1-99.904 224-224 224z" opacity=".2"/>
+    <path transform="translate(0,76)" d="m464-180-35.625 42.75c-35.432 14.123-60.375 48.781-60.375 89.25 0 0.2132 0.0177 0.42164 0.0254 0.63281 0.55602-39.879 25.318-73.92 60.35-87.883l35.625-42.75 35.625 42.75c35.031 13.963 59.794 48.003 60.35 87.883 0.0077-0.21118 0.02539-0.41961 0.02539-0.63281 0-40.469-24.943-75.127-60.375-89.25z" fill="#fff" opacity=".6"/>
+    <path transform="translate(0,76)" d="m464-272c-124.1 0-224 99.904-224 224 0 0.23298 0.0112 0.46332 0.0156 0.69531 0.69904-123.49 100.32-222.7 223.98-222.7 123.67 0 223.3 99.216 223.98 222.71 0.0046-0.23849 0.01562-0.47532 0.01562-0.71484 0-124.1-99.904-224-224-224z" fill="#fff" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

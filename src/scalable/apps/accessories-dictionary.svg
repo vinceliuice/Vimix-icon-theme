@@ -1,0 +1,33 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <clipPath id="d">
+   <path d="m232 148v56h19c1.662 0 3-1.338 3-3v-50c0-1.662-1.338-3-3-3z" fill="#d8d8d8"/>
+  </clipPath>
+  <filter id="a" x="-.027273" y="-.021429" width="1.0545" height="1.0429" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4"/>
+  </filter>
+  <filter id="b" x="-.068" y="-.014571" width="1.136" height="1.0291" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.36"/>
+  </filter>
+  <filter id="c" x="-.04802" y="-.015998" width="1.096" height="1.032" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.40016678"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <path transform="translate(0,-244)" d="m602.45 35.867c-0.80443-0.007686-1.62 0.035717-2.4453 0.13281l-136 16h-152c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h152l136 16c10.841 1.2754 20.052-6.7605 23.004-17.035 9.8576-2.9838 16.996-12.108 16.996-22.965v-400c0-10.857-7.1385-19.981-16.996-22.965-2.7276-9.4925-10.796-17.075-20.559-17.168z" filter="url(#a)" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m602.45 35.867c-0.80443-0.007686-1.62 0.035717-2.4453 0.13281l-136 16h-152c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h152l136 16c10.841 1.2754 20.052-6.7605 23.004-17.035 9.8576-2.9838 16.996-12.108 16.996-22.965v-400c0-10.857-7.1385-19.981-16.996-22.965-2.7276-9.4925-10.796-17.075-20.559-17.168z" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <path d="m312-196c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h152v-448z" fill="#e6e6e6"/>
+    <path d="m464-196v448h152c13.296 0 24-10.704 24-24v-400c0-13.296-10.704-24-24-24z" fill="#e6e6e6"/>
+    <path transform="matrix(8,0,0,8,-1392,-1380)" d="m232 148v56l17 2c1.6506 0.19419 3-1.338 3-3v-54c0-1.662-1.3494-3.1942-3-3z" clip-path="url(#d)" filter="url(#c)" opacity=".2"/>
+    <path transform="translate(0,76)" d="m312-272c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h304c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24h-152z" fill="#fff" opacity=".5"/>
+    <path d="m464-196v448l136 16c13.205 1.5535 24-10.704 24-24v-432c0-13.296-10.795-25.554-24-24z" fill="#f9f9f9"/>
+    <path d="m424-200c-8 0-8 8-8 8v216l24-16 24 16v-216c0-8-8-8-8-8z" enable-background="new" filter="url(#b)" opacity=".2"/>
+    <path d="m424-212c-8 0-8 8-8 8v224l24-16 24 16v-224c0-8-8-8-8-8z" enable-background="new" fill="#f44336"/>
+    <path transform="translate(0,76)" d="m602.45-288.13c-0.80443-8e-3 -1.62 0.0357-2.4453 0.13281l-136 16v2l136-16c13.205-1.5535 24 10.704 24 24v-2c0-12.465-9.4882-24.018-21.555-24.133z" fill="#fff" opacity=".8"/>
+    <path transform="translate(0,76)" d="m424-288c-8 0-8 8-8 8v2s0-8 8-8h32s8 0 8 8v-2c0-8-8-8-8-8z" enable-background="new" fill="#fff" opacity=".1"/>
+   </g>
+  </g>
+ </g>
+</svg>

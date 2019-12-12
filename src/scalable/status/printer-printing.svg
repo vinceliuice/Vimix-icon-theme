@@ -1,0 +1,26 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <filter id="a" x="-.022714" y="-.02544" width="1.0454" height="1.0509" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.24"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,1296)">
+   <path d="m336-1440v96h-72c-13.296 0-24 10.704-24 24v144c0 13.296 10.704 24 24 24h72v112h256v-112h72c13.296 0 24-10.704 24-24v-144c0-13.296-10.704-24-24-24h-72v-96z" enable-background="new" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+   <path d="m336-1440v96h-72c-13.296 0-24 10.704-24 24v144c0 13.296 10.704 24 24 24h72v112h256v-112h72c13.296 0 24-10.704 24-24v-144c0-13.296-10.704-24-24-24h-72v-96z" enable-background="new" filter="url(#a)" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="1156" y="-688" width="192" height="448" rx="24" ry="24" enable-background="new" fill="#4d4d4d"/>
+   <path d="m336-1348h256v-95.999h-256z" enable-background="new" fill="#ececec"/>
+   <path d="m240-1182v2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24z" enable-background="new" opacity=".2"/>
+   <path d="m336-1044h256v-192h-256z" enable-background="new" fill="#ececec"/>
+   <rect x="280" y="-1308" width="24" height="24" rx="0" ry="12" enable-background="new" fill="#f9ce1d"/>
+   <path d="m336-1444v2h256v-2z" enable-background="new" fill="#fff" opacity=".4"/>
+   <path d="m240-1322v-2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v2c0-13.296-10.704-24-24-24h-400c-13.296 0-24 10.704-24 24z" enable-background="new" fill="#fff" opacity=".2"/>
+   <path transform="translate(0,-244)" d="m440-960v56h-32l56 72 56-72h-32v-56z" enable-background="new" fill-rule="evenodd" opacity=".2"/>
+  </g>
+ </g>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)"></g>
+</svg>

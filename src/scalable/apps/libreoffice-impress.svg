@@ -1,0 +1,26 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="o" x="-.026" y="-.022286" width="1.052" height="1.0446" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="n" x="-.026" y="-.022286" width="1.052" height="1.0446" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="m" x="-.066" y="-.055" width="1.132" height="1.11" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(-208,1256)">
+  <g transform="translate(0,212)">
+   <path d="m656-1010v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" opacity=".2"/>
+   <path d="m656-1008v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" filter="url(#n)" opacity=".2"/>
+   <path d="m656-1008v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" filter="url(#o)" opacity=".1"/>
+  </g>
+  <path d="m656-800v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" fill="#ff5722"/>
+  <path d="m308-1184c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h312c2.216 0 3.9834-1.7841 4-4v-267.03l-112.97-112.97zm236.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" filter="url(#m)" opacity=".2"/>
+  <path d="m308-1192c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h312c2.216 0 3.9834-1.7841 4-4v-267.03l-112.97-112.97zm236.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" fill="#f5f5f5"/>
+  <path d="m296-1224c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h336c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+  <path d="m400-1020c-19.882 0-36 16.118-36 36s16.118 36 36 36 36-16.118 36-36h-36z" color="#000000" enable-background="new" fill="#ccc" filter="url(#filter14069)" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+  <path d="m464-1016v16h96v-16zm0 48v16h96v-16zm-96 48v16h192v-16h-96zm0 48v16h144v-16z" color="#000000" enable-background="new" fill="#ccc" filter="url(#filter14069)" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+ </g>
+</svg>

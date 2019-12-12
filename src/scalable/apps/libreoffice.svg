@@ -1,0 +1,16 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.026609" y="-.021857" width="1.0532" height="1.0437" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.08"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,16)">
+   <path d="m640 232v-400c0-13.296-10.704-24-24-24h-320c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h320c13.296 0 24-10.704 24-24z" filter="url(#a)" opacity=".1"/>
+   <path d="m640 232v-400c0-13.296-10.704-24-24-24h-320c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h320c13.296 0 24-10.704 24-24z" filter="url(#a)" opacity=".2"/>
+   <path d="m640 230v-400c0-13.296-10.704-24-24-24h-320c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h320c13.296 0 24-10.704 24-24z" opacity=".2"/>
+   <path d="m640 228v-400c0-13.296-10.704-24-24-24h-320c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h320c13.296 0 24-10.704 24-24z" fill="#4d4d4d"/>
+   <path transform="translate(0,-244)" d="m308 80c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h296c2.216 0 4-1.784 4-4v-267.03l-112.97-112.97zm220.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" fill="#f5f5f5"/>
+  </g>
+ </g>
+</svg>

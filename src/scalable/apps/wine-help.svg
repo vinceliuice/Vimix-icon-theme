@@ -1,0 +1,41 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="c" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6"/>
+  </filter>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g></g>
+ </g>
+ <g transform="translate(0,212)">
+  <g></g>
+ </g>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,1293.8)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="1026" y="-688" width="448" height="448" rx="36" ry="36" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,-1280)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".1"/>
+     <rect transform="matrix(0,-1,-1,0,0,-1280)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+    </g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="1028" y="-688" width="448" height="448" rx="36" ry="36" fill="#992b2b"/>
+    <path d="m276-1476c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+    <g transform="matrix(5.5625 -5.5625 5.5625 5.5625 -1916.8 -1763.8)" enable-background="new">
+     <path transform="matrix(.089888 .089888 -.089888 .089888 150.74 193.84)" d="m464 94-83.438 83.438 83.438 83.438 83.438-83.438zm-94.562 94.562-83.438 83.438 83.438 83.438 83.438-83.438zm189.12 0-83.438 83.438 83.438 83.438 83.438-83.438zm-94.562 94.562-83.438 83.438 83.438 83.438 83.438-83.438z" fill="#fff"/>
+    </g>
+    <g>
+     <circle cx="584" cy="-1126" r="120" enable-background="new" filter="url(#c)" opacity=".2"/>
+     <circle cx="584" cy="-1130" r="120" enable-background="new" filter="url(#b)" opacity=".2"/>
+     <circle cx="584" cy="-1132" r="120" enable-background="new" fill="#435ece"/>
+     <path d="m594-1062h-20v-20h20zm20.7-77.5-9 9.2c-7.2 7.3-11.7 13.3-11.7 28.3h-20v-5c0-11 4.5-21 11.7-28.3l12.4-12.6c3.7-3.6 5.9-8.6 5.9-14.1 0-11-9-20-20-20s-20 9-20 20h-20c0-22.1 17.9-40 40-40s40 17.9 40 40c0 8.8-3.6 16.8-9.3 22.5z" enable-background="new" fill="#fff" stroke="#fff" stroke-width="4"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

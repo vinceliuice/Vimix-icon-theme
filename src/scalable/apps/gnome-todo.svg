@@ -1,0 +1,21 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="b" x="-.0563" y="-.06422" width="1.1126" height="1.1284" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.9777321"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g></g>
+  <g transform="translate(-208,16)">
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" fill="#3262a1"/>
+   <path transform="translate(0,-244)" d="m276 48c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".2"/>
+   <path d="m682.99-158.89c-7.0042 1.5136-13.459 5.457-18 11l-201 230-72-72c-12.043-12.044-33.958-12.045-46.002-0.0016-12.043 12.044-12.043 33.959 2e-3 46.002l96 96 25 24 22-26 224-256c18.157-19.767-3.7066-58.394-30-53z" color="#000000" enable-background="accumulate" filter="url(#b)" opacity=".2" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+   <path d="m682.99-162.89c-7.0042 1.5136-13.459 5.457-18 11l-201 230-72-72c-12.043-12.044-33.958-12.045-46.002-0.0016-12.043 12.044-12.043 33.959 2e-3 46.002l96 96 25 24 22-26 224-256c18.157-19.767-3.7066-58.394-30-53z" color="#000000" enable-background="accumulate" fill="#fff" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="b" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.2399999"/>
+  </filter>
+ </defs>
+ <g transform="translate(-208,228)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="448" height="448" rx="36" ry="36" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+ </g>
+ <rect x="32" y="32" width="448" height="448" rx="33.6" ry="33.6" fill="#e4e4e4" stroke-width="8"/>
+ <g transform="translate(0 6.1362)" filter="url(#b)" opacity=".15" stroke-width="8">
+  <circle cx="424" cy="88" r="40"/>
+  <circle cx="424" cy="200" r="40"/>
+  <circle cx="424" cy="312" r="40"/>
+  <circle cx="424" cy="424" r="40"/>
+  <circle cx="312" cy="200" r="40"/>
+  <circle cx="312" cy="312" r="40"/>
+  <circle cx="312" cy="424" r="40"/>
+  <circle cx="200" cy="312" r="40"/>
+  <circle cx="200" cy="424" r="40"/>
+  <circle cx="88" cy="312" r="40"/>
+  <circle cx="88" cy="424" r="40"/>
+ </g>
+ <g stroke-width="8">
+  <rect x="144" y="144" width="112" height="112" opacity=".1"/>
+  <rect x="368" y="144" width="112" height="112" opacity=".1"/>
+  <path d="m65.6 32c-18.614 0-33.6 14.986-33.6 33.6v78.4h112v-112z" opacity=".1"/>
+  <rect x="256" y="32" width="112" height="112" opacity=".1"/>
+  <rect transform="scale(1,-1)" x="32" y="-368" width="112" height="112" opacity=".1"/>
+  <rect transform="scale(1,-1)" x="256" y="-368" width="112" height="112" opacity=".1"/>
+  <rect transform="scale(1,-1)" x="144" y="-480" width="112" height="112" opacity=".1"/>
+  <path d="m368 480v-112h112v78.4c0 18.614-14.986 33.6-33.6 33.6z" opacity=".1"/>
+  <circle cx="424" cy="88" r="40" fill="#d12c6d"/>
+  <circle cx="424" cy="200" r="40" fill="#24a647"/>
+  <circle cx="424" cy="312" r="40" fill="#24a647"/>
+  <circle cx="424" cy="424" r="40" fill="#d12c6d"/>
+  <circle cx="312" cy="200" r="40" fill="#d12c6d"/>
+  <circle cx="312" cy="312" r="40" fill="#24a647"/>
+  <circle cx="312" cy="424" r="40" fill="#d12c6d"/>
+  <circle cx="200" cy="312" r="40" fill="#d12c6d"/>
+  <circle cx="200" cy="424" r="40" fill="#24a647"/>
+  <circle cx="88" cy="312" r="40" fill="#24a647"/>
+  <circle cx="88" cy="424" r="40" fill="#d12c6d"/>
+ </g>
+ <path d="m68 32c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+</svg>

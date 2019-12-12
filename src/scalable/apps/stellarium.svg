@@ -1,0 +1,59 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="b" x="-.022286" y="-.026" width="1.0446" height="1.052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="c" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.5"/>
+  </filter>
+  <filter id="a" x="-.023973" y="-.024027" width="1.0479" height="1.0481" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.475"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="447" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="384" height="448" rx="36" ry="36" filter="url(#b)" opacity=".1"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="384" height="448" rx="36" ry="36" opacity=".2"/>
+    </g>
+    <path d="m276-196c-19.944 0-36 16.056-36 36v340h448v-340c0-19.944-16.056-36-36-36z" fill="#4a148c"/>
+    <path d="m276-196c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+    <path d="m688 92v112c0 48-48 48-48 48h-352c-48 0-48-48-48-48v-16s179.2-96 448-96z" fill="#4a1d59"/>
+    <path d="m688 92c-268.8 0-448 96-448 96v2s179.2-96 448-96z" fill="#fff" opacity=".2"/>
+    <path d="m240 92v124c0 36 36 36 36 36h376c36 0 36-36 36-36v-28s-179.2-96-448-96z" fill="#1a1a1a"/>
+    <g fill="#fff">
+     <path d="m240 92v2c268.8 0 448 96 448 96v-2s-179.2-96-448-96z" opacity=".2"/>
+     <g transform="matrix(-8 0 0 8 1706 -2178)" enable-background="new" fill-rule="evenodd" opacity=".8">
+      <path d="m172 255-2 5 2 5 2-5z"/>
+      <path d="m177 260-5-2-5 2 5 2z"/>
+     </g>
+     <g transform="matrix(-6.6667 0 0 6.6667 1843.3 -1721.3)" enable-background="new" fill-rule="evenodd" opacity=".8">
+      <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+      <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+     </g>
+     <g transform="matrix(-6.6667 0 0 6.6667 1523.3 -1741.3)" enable-background="new" fill-rule="evenodd" opacity=".8">
+      <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+      <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+     </g>
+     <g transform="matrix(6.6667 0 0 -6.6667 -783.33 1625.3)" enable-background="new" fill-rule="evenodd" opacity=".8">
+      <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+      <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+     </g>
+    </g>
+    <circle cx="548" cy="-52" r="90" enable-background="new" opacity=".2"/>
+    <circle cx="548" cy="-50" r="90" enable-background="new" filter="url(#c)" opacity=".2"/>
+    <circle cx="548" cy="-54" r="90" enable-background="new" fill="#fffde7"/>
+    <g transform="matrix(-6.6667 0 0 6.6667 1663.3 -1721.3)" enable-background="new" fill="#fff" fill-rule="evenodd" opacity=".8">
+     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+    <g transform="matrix(6.6667 0 0 -6.6667 -803.33 1745.3)" enable-background="new" fill="#fff" fill-rule="evenodd" opacity=".8">
+     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

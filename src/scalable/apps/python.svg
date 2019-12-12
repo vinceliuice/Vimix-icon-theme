@@ -1,0 +1,44 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="d" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.4"/>
+  </filter>
+  <clipPath id="e">
+   <path d="m448-196c-53.184 0-96 27.589-96 61.857v50.143h-48c-35.456 0-64 35.68-64 80v64c0 44.32 28.544 80 64 80h272v-274.14c0-34.269-42.816-61.857-96-61.857z" fill="#3776ab"/>
+  </clipPath>
+  <filter id="c" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2"/>
+  </filter>
+  <filter id="b" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <path d="m448-192c-53.184 0-96 27.589-96 61.857v50.143h-48c-35.456 0-64 35.68-64 80v64c0 44.32 28.544 80 64 80h48v50.143c0 34.269 42.816 61.857 96 61.857h32c53.184 0 96-27.589 96-61.857v-50.143h48c35.456 0 64-35.68 64-80v-64c0-44.32-28.544-80-64-80h-48v-50.143c0-34.269-42.816-61.857-96-61.857z" filter="url(#a)" opacity=".1" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+    <path d="m448-192c-53.184 0-96 27.589-96 61.857v50.143h-48c-35.456 0-64 35.68-64 80v64c0 44.32 28.544 80 64 80h48v50.143c0 34.269 42.816 61.857 96 61.857h32c53.184 0 96-27.589 96-61.857v-50.143h48c35.456 0 64-35.68 64-80v-64c0-44.32-28.544-80-64-80h-48v-50.143c0-34.269-42.816-61.857-96-61.857z" filter="url(#a)" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m448 48c-53.184 0-96 27.589-96 61.857v50.143h-48c-35.456 0-64 35.68-64 80v64c0 44.32 28.544 80 64 80h272v-274.14c0-34.269-42.816-61.857-96-61.857z" fill="#3776ab"/>
+    <path d="m480 252c53.184 0 96-27.589 96-61.857v-50.143h48c35.456 0 64-35.68 64-80v-64c0-44.32-28.544-80-64-80h-48v48c0 64-64 64-64 64h-96c-64 0-64 64-64 64v98.143c0 34.269 42.816 61.857 96 61.857z" clip-path="url(#e)" filter="url(#d)" opacity=".2"/>
+    <path d="m480 252c53.184 0 96-27.589 96-61.857v-50.143h48c35.456 0 64-35.68 64-80v-64c0-44.32-28.544-80-64-80h-48v48c0 64-64 64-64 64h-96c-64 0-64 64-64 64v98.143c0 34.269 42.816 61.857 96 61.857z" fill="#ffd343"/>
+    <path transform="translate(0,-244)" d="m576 160v2h48c35.456 0 64 35.68 64 80v-2c0-44.32-28.544-80-64-80zm0 48c0 64-64 64-64 64h-96c-64 0-64 64-64 64v2s0-64 64-64h96s64 0 64-64z" fill="#fff" opacity=".2"/>
+    <circle cx="416" cy="-128" r="20" color="#000000" enable-background="accumulate" filter="url(#c)" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m448 48c-53.184 0-96 27.589-96 61.857v2c0-34.269 42.816-61.857 96-61.857h32c53.184 0 96 27.589 96 61.857v-2c0-34.269-42.816-61.857-96-61.857zm-144 112c-35.456 0-64 35.68-64 80v2c0-44.32 28.544-80 64-80h48v-2z" fill="#fff" opacity=".2"/>
+    <g>
+     <circle cx="416" cy="-132" r="20" color="#000000" enable-background="accumulate" fill="#fff"/>
+     <circle transform="scale(-1)" cx="-512" cy="-192" r="20" color="#000000" enable-background="accumulate" filter="url(#b)" opacity=".2"/>
+     <circle transform="scale(-1)" cx="-512" cy="-188" r="20" color="#000000" enable-background="accumulate" fill="#fff"/>
+    </g>
+    <rect x="352" y="-86" width="64" height="2" opacity=".1"/>
+    <rect x="352" y="-84" width="64" height="2" fill="#fff" opacity=".2"/>
+    <rect x="512" y="138" width="64" height="2" opacity=".1"/>
+    <rect x="512" y="140" width="64" height="2" fill="#fff" opacity=".2"/>
+    <path d="m352 140v-2h-48c-35.456 0-64-35.68-64-80v2c0 44.32 28.544 80 64 80zm0-48c0-64 64-64 64-64h96c64 0 64-64 64-64v-2s0 64-64 64h-96s-64 0-64 64z" opacity=".1"/>
+    <path d="m480 252c53.184 0 96-27.589 96-61.857v-2c0 34.269-42.816 61.857-96 61.857h-32c-53.184 0-96-27.589-96-61.857v2c0 34.269 42.816 61.857 96 61.857zm144-112c35.456 0 64-35.68 64-80v-2c0 44.32-28.544 80-64 80h-48v2z" opacity=".1"/>
+   </g>
+  </g>
+ </g>
+</svg>

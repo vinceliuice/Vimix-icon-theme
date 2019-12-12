@@ -1,0 +1,26 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="224" ry="224" enable-background="new" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="224" ry="224" enable-background="new" filter="url(#b)" opacity=".1" stroke="#000" stroke-width="8"/>
+     <path d="m464 254c-124.1 0-224-99.904-224-224 0-0.67412 3e-3 -1.3363 0-2 0 124.1 99.904 224 224 224s224-99.904 224-224c-3e-3 0.66367 0 1.3259 0 2 0 124.1-99.904 224-224 224z" opacity=".2"/>
+    </g>
+    <path d="m464-196c-124.1 0-224 99.904-224 224s99.904 224 224 224 224-99.904 224-224-99.904-224-224-224z" fill="#f9ce1d"/>
+    <path d="m464-98v96h96l-96 160v-96h-96z" fill="#fff" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m464 48c-124.1 0-224 99.904-224 224 0 0.67412 3e-3 1.3363 0 2 0-124.1 99.904-224 224-224s224 99.904 224 224c-3e-3 -0.66367 0-1.3259 0-2 0-124.1-99.904-224-224-224z" fill="#fff" opacity=".2"/>
+    <path d="m464-100v96h96l-96 160v-96h-96z" fill="#333"/>
+    <path d="m464 252c-124.1 0-224-99.904-224-224 0-0.67412 3e-3 -1.3363 0-2 0 124.1 99.904 224 224 224s224-99.904 224-224c-3e-3 0.66367 0 1.3259 0 2 0 124.1-99.904 224-224 224z" opacity=".1"/>
+   </g>
+  </g>
+ </g>
+</svg>

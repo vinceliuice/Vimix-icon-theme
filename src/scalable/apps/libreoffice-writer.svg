@@ -1,0 +1,24 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="l" x="-.026" y="-.022286" width="1.052" height="1.0446" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="k" x="-.026" y="-.022286" width="1.052" height="1.0446" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="j" x="-.066" y="-.055" width="1.132" height="1.11" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(-208,2660)">
+  <path d="m656-2202v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" opacity=".2"/>
+  <path d="m656-2200v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" filter="url(#k)" opacity=".2"/>
+  <path d="m656-2200v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" filter="url(#l)" opacity=".1"/>
+  <path d="m656-2204v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" fill="#3f51b5"/>
+  <path d="m308-2596c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h312c2.216 0 4-1.784 4-4v-267.03l-112.97-112.97zm236.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" fill="#f5f5f5"/>
+  <path transform="translate(0,-244)" d="m296-2384c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h336c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+  <path d="m308-2588c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h312c2.216 0 4-1.784 4-4v-267.03l-112.97-112.97zm236.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" fill="#040404" filter="url(#j)" opacity=".2"/>
+  <path d="m308-2596c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h312c2.216 0 4-1.784 4-4v-267.03l-112.97-112.97zm236.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" fill="#f5f5f5"/>
+  <path d="m368-2276v-16h121.2v16zm0-48v-16h192v16zm0-48v-16h192v16zm0-48v-16h192v16z" enable-background="new" fill="#ccc"/>
+ </g>
+</svg>

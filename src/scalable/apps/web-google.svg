@@ -1,0 +1,39 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <clipPath id="b">
+   <path d="m0 500h500v-500h-500z"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="224" ry="224" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="224" ry="224" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="224" ry="224" fill="#fff"/>
+     <path transform="translate(0,-244)" d="m464 48c-124.1 0-224 99.904-224 224 0 0.67412 3e-3 1.3363 0 2 0-124.1 99.904-224 224-224s224 99.904 224 224c-3e-3 -0.66367 0-1.3259 0-2 0-124.1-99.904-224-224-224z" fill="#fff" opacity=".2"/>
+     <path d="m464 252c-124.1 0-224-99.904-224-224 0-0.67412 3e-3 -1.3363 0-2 0 124.1 99.904 224 224 224s224-99.904 224-224c-3e-3 0.66367 0 1.3259 0 2 0 124.1-99.904 224-224 224z" opacity=".2"/>
+    </g>
+    <g transform="matrix(1.2 0 0 -1.2 163.96 327.38)" enable-background="new">
+     <g clip-path="url(#b)">
+      <g transform="translate(372.47 250)">
+       <path d="m0 0c0 8.088-0.745 15.988-2.121 23.648h-117.81v-47.296h71.299c-4.626-16.372-14.354-30.373-27.363-40.04l36.789-29.273c24.249 22.879 39.207 56.044 39.207 92.961" fill="#3284ff"/>
+      </g>
+      <g transform="translate(254.07 324.32)">
+       <path d="m0 0c17.925 0 34.071-6.489 46.578-17.294l34.048 34.534c-21.261 20.737-49.964 33.436-82.163 33.436-47.989 0-90.779-28.187-111.61-69.213l41.798-31.867c10.686 29.38 39.085 50.404 71.345 50.404" fill="#ff3424"/>
+      </g>
+      <g transform="translate(141.71 192.7)">
+       <path d="m0 0 40.305 32.064c-2.454 7.417-3.805 15.323-3.805 23.543 0 8.988 1.606 17.607 4.516 25.61l-41.798 31.867c-8.526-16.796-13.394-35.73-13.394-55.787 0-20.659 5.166-40.128 14.176-57.297" fill="#fb0"/>
+      </g>
+      <g transform="translate(182.02 224.77)">
+       <path d="m0 0-40.305-32.064c21.103-40.205 63.426-67.704 110.82-67.704 31.474 0 59.616 12.125 80.724 32.039l-36.789 29.274c-11.842-8.799-26.393-14.015-42.398-14.015-33.012 0-61.974 22.012-72.056 52.47" fill="#26b14c"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

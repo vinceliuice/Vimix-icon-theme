@@ -1,0 +1,22 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <filter id="a" x="-.027273" y="-.021429" width="1.0545" height="1.0429" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m296 254c-13.296 0-24-10.704-24-24v-2c0 13.296 10.704 24 24 24h320c13.296 0 24-10.704 24-24v2c0 13.296-10.704 24-24 24h-152z" opacity=".2"/>
+     <path transform="matrix(-1 0 0 1 928 0)" d="m312-192c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h320c13.296 0 24-10.704 24-24v-400c0-13.296-10.704-24-24-24h-168z" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+     <path d="m296-192c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h320c13.296 0 24-10.704 24-24v-400c0-13.296-10.704-24-24-24h-152z" filter="url(#a)" opacity=".2"/>
+    </g>
+    <path transform="translate(0,-244)" d="m336 48v448h280c13.296 0 24-10.704 24-24v-400c0-13.296-10.704-24-24-24h-152z" fill="#bf360c"/>
+    <path transform="translate(0,-244)" d="m296 48c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h40v-448z" fill="#333"/>
+    <path transform="translate(0,76)" d="m296-272c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h320c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24h-152z" fill="#fff" opacity=".2"/>
+    <path d="m384-100v48h122.73l-122.73 161.34v46.659h192v-48h-128.55l128.55-162.8v-45.205z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#fff" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   </g>
+  </g>
+ </g>
+</svg>

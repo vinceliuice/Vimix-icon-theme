@@ -1,0 +1,28 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.4799914"/>
+  </filter>
+  <filter id="b" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.4000004"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g fill-rule="evenodd" shape-rendering="auto">
+     <g>
+      <path d="m244.91 26.078c-3.1402-3.1413-4.9042-7.4013-4.9037-11.843v-165.8s-0.24-9.421 4.7186-19.337c4.9582-9.9163 18.288-21.095 35.714-21.095h165.8c4.4416-3.2e-4 8.7016 1.7637 11.843 4.9037l225.02 225.02c6.5397 6.5411 6.5397 17.145 0 23.686l-189.49 189.49c-6.5411 6.5397-17.145 6.5397-23.686 0z" color="#000000" color-rendering="auto" enable-background="accumulate" filter="url(#a)" image-rendering="auto" opacity=".1" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+      <path d="m244.91 26.078c-3.1402-3.1413-4.9042-7.4013-4.9037-11.843v-165.8s-0.24-9.421 4.7186-19.337c4.9582-9.9163 18.288-21.095 35.714-21.095h165.8c4.4416-3.2e-4 8.7016 1.7637 11.843 4.9037l225.02 225.02c6.5397 6.5411 6.5397 17.145 0 23.686l-189.49 189.49c-6.5411 6.5397-17.145 6.5397-23.686 0z" color="#000000" color-rendering="auto" enable-background="accumulate" filter="url(#a)" image-rendering="auto" opacity=".2" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+      <path d="m244.91 24.078c-3.1402-3.1413-4.9042-7.4013-4.9037-11.843v-165.8s-0.24-9.421 4.7186-19.337c4.9582-9.9163 18.288-21.095 35.714-21.095h165.8c4.4416-3.2e-4 8.7016 1.7637 11.843 4.9037l225.02 225.02c6.5397 6.5411 6.5397 17.145 0 23.686l-189.49 189.49c-6.5411 6.5397-17.145 6.5397-23.686 0z" color="#000000" color-rendering="auto" enable-background="accumulate" image-rendering="auto" opacity=".2" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     </g>
+     <path d="m244.91 22.078c-3.1402-3.1413-4.9042-7.4013-4.9037-11.843v-165.8s-0.24-9.421 4.7186-19.337c4.9582-9.9163 18.288-21.095 35.714-21.095h165.8c4.4416-3.2e-4 8.7016 1.7637 11.843 4.9037l225.02 225.02c6.5397 6.5411 6.5397 17.145 0 23.686l-189.49 189.49c-6.5411 6.5397-17.145 6.5397-23.686 0z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#4caf50" image-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    </g>
+    <circle cx="296" cy="-134" r="24" enable-background="new" filter="url(#b)" opacity=".2"/>
+    <circle cx="296" cy="-140" r="24" enable-background="new" fill="#fff"/>
+    <path d="m607.2 36.569-97.941 97.941s-22.627 22.627-45.255 0l-96-93.255c-22.628-22.627 0-45.255 0-45.255l32-32 32-32s22.627-22.628 45.255 0l11.314 11.314 39.431 36.686-112 112" fill="none" stroke="#f2f2f2" stroke-width="32"/>
+    <path transform="translate(0,-244)" d="m280.43 48c-17.426 0-30.755 11.179-35.713 21.096-4.9586 9.9163-4.7188 19.338-4.7188 19.338v2s-0.23981-9.4216 4.7188-19.338c4.9582-9.9163 18.287-21.096 35.713-21.096h165.8c4.4416-3.2e-4 8.7005 1.7643 11.842 4.9043l225.02 225.02c3.0153 3.0159 4.6227 6.8969 4.8574 10.844 0.2744-4.6133-1.333-9.3186-4.8574-12.844l-225.02-225.02c-3.1413-3.14-7.4002-4.9046-11.842-4.9043z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#fff" fill-rule="evenodd" image-rendering="auto" opacity=".2" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   </g>
+  </g>
+ </g>
+</svg>

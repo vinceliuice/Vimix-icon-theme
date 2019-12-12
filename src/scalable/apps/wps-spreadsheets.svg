@@ -1,0 +1,30 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g></g>
+ </g>
+ <g transform="translate(0,212)">
+  <g></g>
+ </g>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,1296)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="1026" y="-688" width="448" height="448" rx="36" ry="36" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,-1280)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".1"/>
+     <rect transform="matrix(0,-1,-1,0,0,-1280)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+    </g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="1028" y="-688" width="448" height="448" rx="36" ry="36" fill="#4caf50"/>
+    <path d="m276-1476c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+    <g transform="matrix(15.986 0 0 15.986 -1326.5 14926)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+     <path d="m112-1012h-5.0009s-3 0-3-3 3-3 3-3h12.002"/>
+     <path d="m112.01-1012h5.0009s3 0 3 3-3 3-3 3h-12.002"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

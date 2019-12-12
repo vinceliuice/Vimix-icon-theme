@@ -1,0 +1,30 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Paper Icon Theme</title>
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="b" x="-.073636" y="-.050625" width="1.1473" height="1.1013" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="5.4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <circle cx="464" cy="30" r="240" opacity=".2"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".2"/>
+    </g>
+    <circle cx="464" cy="28" r="240" fill="#e6e6e6"/>
+    <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+    <circle cx="464" cy="32" r="208" fill="#fff" opacity=".5"/>
+    <circle cx="464" cy="28" r="208" fill="#4d4d4d"/>
+    <path d="m384 164h48v-96h96v-48h-96v-64h128v-48h-176z" enable-background="new" filter="url(#b)" opacity=".2"/>
+    <path d="m384 156h48v-96h96v-48h-96v-64h128v-48h-176z" enable-background="new" fill="#e6e6e6"/>
+    <path transform="translate(0,-244)" d="m384 144v2h176v-2zm48 112v2h96v-2z" enable-background="new" fill="#fff" opacity=".5"/>
+    <path transform="translate(0,-244)" d="m 464,64 a 208,208 0 0 0 -208,208 208,208 0 0 0 0.082,2.3418 A 208,208 0 0 1 464,68 208,208 0 0 1 671.91797,273.6582 208,208 0 0 0 672,272 208,208 0 0 0 464,64 Z" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

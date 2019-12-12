@@ -1,0 +1,20 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.81"/>
+  </filter>
+  <clipPath id="b">
+   <circle cx="160" cy="184" r="15" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </clipPath>
+ </defs>
+ <rect x="5" y="5.6712" width="54" height="54" rx="27" filter="url(#a)" opacity=".2"/>
+ <rect x="5" y="5" width="54" height="54" rx="27" fill="#3f51b5"/>
+ <g transform="matrix(.125 0 0 .125 37.153 28.949)" fill="none" opacity=".25" stroke="#fff">
+  <circle cx="-41.22" cy="24.407" r="152" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+  <path d="m-193.22 24.407h304" stroke-width="16"/>
+  <path transform="matrix(10.231 0 0 10.231 -1678.1 -1856.6)" d="m160 162.82c-8.2843 0-15 3.134-15 7s6.7157 7 15 7 15-3.134 15-7-6.7157-7-15-7zm0 28.075c-8.2843 0-15 3.134-15 7s6.7157 7 15 7 15-3.134 15-7-6.7157-7-15-7z" clip-path="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5639"/>
+  <path d="m-41.22-127.59v306.92" stroke-width="16"/>
+  <path d="m-121.22 24.407c0-83.947 34.798-152 80-152s80 68.053 80 152-34.797 152-80 152c-45.202 0-80-68.052-80-152z" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
+ </g>
+ <path d="m32 22.508c-3.052 2.12-6.48 3.192-9.9199 3.92 1.63 9.2439 5.14 13.198 9.9199 15.674 4.78-2.476 8.2899-6.43 9.9199-15.674-3.44-0.72799-6.868-1.8-9.9199-3.92zm0-4.508s-3.5 4.648-14 5.814c0 0 0 16.34 14 22.186 14-5.848 14-22.186 14-22.186-10.5-1.166-14-5.814-14-5.814zm0 2.41c2.776 2.354 6.786 3.922 11.98 4.714-0.28 2.528-0.554 4.43-1.206 6.27-1.376 3.866-2.976 6.22-4.41 7.9099-2.23 2.622-4.252 3.68-6.364 4.736-2.112-1.054-4.134-2.114-6.364-4.736-1.434-1.69-3.034-4.044-4.41-7.9099-0.652-1.84-0.92599-3.74-1.208-6.27 5.196-0.792 9.2059-2.36 11.982-4.714z" fill="#fff"/>
+</svg>

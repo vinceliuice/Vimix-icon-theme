@@ -1,0 +1,23 @@
+<svg width="512" height="512" version="1.1" viewBox="0 0 135.46 135.46" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <g transform="matrix(.26458 0 0 .26458 2.2436e-8 56.091)">
+  <g transform="translate(-208,16)">
+   <circle cx="464" cy="30" r="240" opacity=".2"/>
+   <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1"/>
+   <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".2"/>
+   <circle cx="464" cy="28" r="240" fill="#34b05c"/>
+   <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+  </g>
+ </g>
+ <g transform="matrix(17.778 0 0 17.778 -73.375 -5075.8)" fill="#fff" stroke-width=".5">
+  <path d="m5.82 288.59 2.117-0.846 2.117 0.846-2.117 0.847"/>
+  <ellipse cx="7.938" cy="290.44" rx="1.058" ry=".476"/>
+  <path d="m6.88 289.33v1.111h2.116v-1.11l-1.059 0.447m1.588-1.215h0.265v0.926h-0.265z"/>
+  <circle cx="9.657" cy="289.47" r=".331"/>
+  <path d="m9.571 289.66-0.211 0.73h0.635l-0.212-0.73z" fill-rule="evenodd"/>
+ </g>
+</svg>

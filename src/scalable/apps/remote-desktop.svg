@@ -1,0 +1,27 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.021429" y="-.027273" width="1.0429" height="1.0545" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208 2456)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="2234" y="-688" width="352" height="448" rx="24" ry="24" opacity=".2"/>
+     <rect transform="matrix(0 -1 -1 0 0 -2440)" x="-208" y="-688" width="352" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+     <rect transform="matrix(0 -1 -1 0 0 -2440)" x="-208" y="-688" width="352" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+    </g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="2236" y="-688" width="352" height="448" rx="24" ry="24" fill="#78909c"/>
+    <path d="m264-2588c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+    <rect x="272" y="-2556" width="384" height="288" rx="0" ry="0" fill="#fff" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m240-2200v48c88.65 0 160 71.35 160 160h48c0-114.59-93.409-208-208-208zm0 80v48c44.467 0 80 35.533 80 80h48c0-70.408-57.592-128-128-128zm0 80v28s0 20 20 20h28c0-26.225-21.775-48-48-48z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#cfd8dc" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path transform="translate(0,-244)" d="m240-2200v2c113.92 0 206.89 92.326 207.97 206h0.02539c0-114.59-93.409-208-208-208zm0 80v2c69.74 0 126.9 56.505 127.97 126h0.02539c0-70.408-57.592-128-128-128zm0 80v2c25.555 0 46.876 20.678 47.949 46h0.05078c0-26.225-21.775-48-48-48z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#fff" image-rendering="auto" opacity=".2" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   </g>
+  </g>
+ </g>
+</svg>

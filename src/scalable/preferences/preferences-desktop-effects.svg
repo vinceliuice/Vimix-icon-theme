@@ -1,0 +1,44 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.022286" y="-.026" width="1.0446" height="1.052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-224,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-704" width="384" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-704" width="384" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-220" y="-704" width="384" height="448" rx="24" ry="24" fill="#3949ab"/>
+     <path d="m704 196v2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24v-2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24z" opacity=".2"/>
+     <path transform="translate(0,-244)" d="m280 80c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+    </g>
+    <g transform="matrix(-9.6 0 0 9.6 2181.2 -2548)" fill="#f9ce1d" fill-rule="evenodd">
+     <path d="m172 255-2 5 2 5 2-5z"/>
+     <path d="m177 260-5-2-5 2 5 2z"/>
+    </g>
+    <g transform="matrix(10.667 0 0 10.667 -1327.3 -2813.3)" fill="#f9ce1d" fill-rule="evenodd">
+     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+    <g transform="matrix(-5.3333 0 0 5.3333 1275.3 -1351.3)" fill="#f9ce1d" fill-rule="evenodd">
+     <path d="m178 247-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m181 250-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+    <g transform="matrix(10.667 0 0 10.667 -1539.3 -2905.3)" fill="#f9ce1d" fill-rule="evenodd">
+     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+    <g transform="matrix(5.3333 0 0 5.3333 -320.67 -1320.7)" fill="#f9ce1d" fill-rule="evenodd">
+     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+    </g>
+    <g transform="matrix(16,0,0,16,-1350,-4268)" fill="none" stroke-width="2">
+     <path d="m110 272 10 10" stroke="#333"/>
+     <path d="m106 268 4 4" stroke="#fff"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

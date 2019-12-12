@@ -1,0 +1,19 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.24"/>
+  </filter>
+ </defs>
+ <g transform="translate(-7 15.024)" filter="url(#a)" opacity=".15">
+  <circle cx="143" cy="129" r="88" opacity="1" style="paint-order:normal"/>
+  <circle cx="383" cy="129" r="88" opacity="1" style="paint-order:normal"/>
+  <circle cx="143" cy="369" r="88" opacity="1" style="paint-order:normal"/>
+  <circle cx="383" cy="369" r="88" opacity="1" style="paint-order:normal"/>
+ </g>
+ <g transform="translate(-7,7)">
+  <circle cx="143" cy="129" r="88" fill="#4d4d4d" style="paint-order:normal"/>
+  <circle cx="383" cy="129" r="88" fill="#f2f2f2" style="paint-order:normal"/>
+  <circle cx="143" cy="369" r="88" fill="#f2f2f2" style="paint-order:normal"/>
+  <circle cx="383" cy="369" r="88" fill="#4d4d4d" style="paint-order:normal"/>
+ </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.022286" y="-.026" width="1.0446" height="1.052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.1599986"/>
+  </filter>
+  <filter id="b" x="-.18" y="-.09" width="1.36" height="1.18" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.4"/>
+  </filter>
+ </defs>
+ <g transform="translate(-208,228)" enable-background="new">
+  <g>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-688" width="384" height="448" rx="36" ry="36" filter="url(#a)" opacity=".1"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-688" width="384" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-222" y="-688" width="384" height="448" rx="36" ry="36" opacity=".2"/>
+  </g>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-220" y="-688" width="384" height="448" rx="36" ry="36" fill="#bcaaa4"/>
+  <path d="m276-164c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+  <path d="m448.12-164v176c0 8.8 7.16 16 16 16s16-7.2 16-16v-176z" enable-background="new" opacity=".1"/>
+  <path d="m464.12-164v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8h8v-8zm0 8h-8v8h8zm0 8v8c4.416 0 8-4 8-8z" enable-background="new" opacity=".2"/>
+  <path d="m456.12-164v8h8v-8zm0 16v8h8v-8zm0 16v8h8v-8zm0 16v8h8v-8zm0 16v8h8v-8zm0 16v8h8v-8zm0 16v8h8v-8zm0 16v8h8v-8zm0 16v8h8v-8zm0 16v8h8v-8zm0 16v8h8v-8zm0 16c0 4 3.584 8 8 8v-8z" enable-background="new" fill="#ddd"/>
+  <path d="m464.12 24c-8.84 0-16 7.2-16 16v32c0 8.8 7.16 16 16 16s16-7.2 16-16v-32c0-8.8-7.16-16-16-16zm0 8c4.416 0 8 3.2 8 8 0 4-3.584 8-8 8s-8-4-8-8c0-4.8 3.584-8 8-8zm0 24c4.416 0 8 3.2 8 8v8c0 4-3.584 8-8 8s-8-4-8-8v-8c0-4.8 3.584-8 8-8z" enable-background="new" filter="url(#b)" opacity=".2"/>
+  <path d="m464.12 20c-8.84 0-16 7.2-16 16v32c0 8.8 7.16 16 16 16s16-7.2 16-16v-32c0-8.8-7.16-16-16-16zm0 8c4.416 0 8 3.2 8 8 0 4-3.584 8-8 8s-8-4-8-8c0-4.8 3.584-8 8-8zm0 24c4.416 0 8 3.2 8 8v8c0 4-3.584 8-8 8s-8-4-8-8v-8c0-4.8 3.584-8 8-8z" enable-background="new" fill="#f5f5f5"/>
+  <path d="m472.12-156v8h-8v-8zm0 16v8h-8v-8zm0 16v8h-8v-8zm0 16v8h-8v-8zm0 16v8h-8v-8zm0 16v8h-8v-8zm0 16v8h-8v-8zm0 16v8h-8v-8zm0 16v8h-8v-8zm0 16v8h-8v-8zm0 16v8h-8v-8z" enable-background="new" fill="#b3b3b3"/>
+ </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="b" x="-.033216" y="-.30983" width="1.0664" height="1.6197" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.2003592"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <circle cx="464" cy="30" r="240" opacity=".2"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".2"/>
+    </g>
+    <circle cx="464" cy="28" r="240" fill="#ff9800"/>
+    <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+    <path d="m250 168c-10 0-10 10-10 10v38h448v-38c0-11.08-10-10-10-10z" enable-background="new" filter="url(#b)" opacity=".2"/>
+    <path d="m250 156c-10 0-10 10-10 10v38h448v-38c0-11.08-10-10-10-10z" enable-background="new" fill="#e6e6e6"/>
+    <path d="m678.43 155.97c-0.2735 8e-3 -0.4297 0.0254-0.4297 0.0254h-428c-10 0-10 10-10 10v2s0-10 10-10h428s10-1.08 10 10v-2c0-9.695-7.6562-10.081-9.5703-10.025z" enable-background="new" fill="#fff" opacity=".4"/>
+   </g>
+  </g>
+ </g>
+</svg>

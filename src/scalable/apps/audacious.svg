@@ -1,0 +1,17 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g></g>
+  <g transform="translate(-208,16)">
+   <circle cx="464" cy="32" r="240" enable-background="new" filter="url(#a)" opacity=".1"/>
+   <circle cx="464" cy="32" r="240" enable-background="new" filter="url(#a)" opacity=".2"/>
+   <circle cx="464" cy="28" r="240" enable-background="new" fill="#232323"/>
+   <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" enable-background="new" fill="#fff" opacity=".2"/>
+   <path d="m475.14-79.919c54.321 1.9274 86.457 36.371 90 86.591 3.9943 56.611-13.75 71.351-6.1363 82.727 15.899 23.755-6.6445 29.984-21.591 41.591-9.2965 7.2195-27.235 3.9108-36.136-6.3636-27.05-14.668-16.636 13.514-72.5 13.636-29.041-1.1155-55.661-20.777-63.182-47.273-11.534-40.634 5.3948-70.62 52.5-84.773 13.625-4.0937 40.613-1.6221 52.5-9.7727 11.227-7.6978 7.1951-18.785-6.5909-20.227-19.772-2.0686-50.62 6.349-68.864 2.9545-14.645-2.7248-19.102-28.948-9.5454-40.227 15.639-18.458 55.746-17.653 78.409-18.636 3.8165-0.1656 7.515-0.35579 11.136-0.22732zm-7.2727 121.36c-12.582 0-22.955 8.8105-22.955 19.773 0 10.962 10.373 20 22.955 20 12.582 0 22.5-9.0378 22.5-20 0-10.962-9.9181-19.773-22.5-19.773z" color="#000000" enable-background="accumulate" fill="#fff"/>
+  </g>
+ </g>
+</svg>

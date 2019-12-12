@@ -1,0 +1,21 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,656)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,-640)" x="-256" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+     <rect transform="matrix(0,-1,-1,0,0,-640)" x="-256" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="388" y="-688" width="448" height="448" rx="24" ry="24" fill="#2095f2"/>
+     <path d="m264-836c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+     <path d="m664-388c13.296 0 24-10.704 24-24v-2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24v2c0 13.296 10.704 24 24 24z" opacity=".2"/>
+    </g>
+    <path d="m390.49-775.61-76.768 99.611h294.28c-4.5827 109.46-25.98 235.42-208.33 224.12" fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-width="32"/>
+   </g>
+  </g>
+ </g>
+</svg>

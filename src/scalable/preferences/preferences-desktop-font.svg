@@ -1,0 +1,16 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <circle cx="256" cy="260" r="240" enable-background="new" filter="url(#a)" opacity=".2"/>
+ <circle cx="256" cy="258" r="240" enable-background="new" opacity=".2"/>
+ <circle cx="256" cy="260" r="240" enable-background="new" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+ <circle cx="256" cy="256" r="240" enable-background="new" fill="#4d4d4d"/>
+ <path d="M 256,16 A 240,240 0 0 0 16,256 240,240 0 0 0 16.041,257.17188 240,240 0 0 1 256,18 240,240 0 0 1 495.95898,256.82812 240,240 0 0 0 496,256 240,240 0 0 0 256,16 Z" enable-background="new" fill="#fff" opacity=".2"/>
+ <g transform="translate(5.3478 -13.309)" fill="#fff" stroke-width="15.26">
+  <path d="m166.01 284.44 30.501-86.296 27.526 86.296zm85.057 73.898h21.822l-63.73-181.02h-25.79l-67.45 181.02h21.822l21.574-57.283h71.914z"/>
+  <path d="m326.37 345.44c-12.647 0-22.07-6.1995-22.07-21.078 0-18.598 11.159-24.55 48.852-29.509 0.24874 0 12.151-1.7358 12.151-1.7358v32.733c-8.6792 11.903-26.286 19.59-38.933 19.59zm39.429-1.7359 2.9758 14.631h16.615v-97.704c0-29.757-20.582-38.437-46.868-38.437-18.846 0-36.453 4.7116-46.62 10.167l5.7035 15.871c10.911-5.2075 26.782-8.9272 41.412-8.9272 18.35 0 26.286 8.4313 26.286 24.55v15.127l-13.391 1.4879c-34.221 4.9596-67.946 9.6712-67.946 44.636 0 24.798 18.598 36.205 40.42 36.205 13.887 0 29.757-4.4636 41.412-17.606z"/>
+ </g>
+</svg>

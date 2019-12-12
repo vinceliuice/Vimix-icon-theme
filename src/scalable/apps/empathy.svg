@@ -1,0 +1,25 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="c">
+   <path d="m392-180c-13.296 0-24 10.704-24 24v224c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-200l48-48h-128z" fill="#feea3a"/>
+  </clipPath>
+  <filter id="b" x="-.0555" y="-.065294" width="1.111" height="1.1306" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.4"/>
+  </filter>
+  <filter id="a" x="-.023143" y="-.024923" width="1.0463" height="1.0498" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.32"/>
+  </filter>
+ </defs>
+ <path d="m184 50c-13.296 0-24 10.704-24 24v120h-128l48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-120h56c13.296 0 24-10.704 24-24v-200l48-48h-128z" opacity=".2"/>
+ <path d="m184 52c-13.296 0-24 10.704-24 24v120h-128l48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-120h56c13.296 0 24-10.704 24-24v-200l48-48h-128z" filter="url(#a)" opacity=".1" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+ <path d="m184 52c-13.296 0-24 10.704-24 24v120h-128l48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-120h56c13.296 0 24-10.704 24-24v-200l48-48h-128z" filter="url(#a)" opacity=".2"/>
+ <path d="m184 48c-13.296 0-24 10.704-24 24v224c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-200l48-48h-128z" fill="#a0ecff"/>
+ <path transform="translate(-208,228)" d="m240-26 48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-224c0-13.296-10.705-23.842-24-24h-224z" clip-path="url(#c)" filter="url(#b)" opacity=".2"/>
+ <path d="m32 192 48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-224c0-13.296-10.704-24-24-24h-224z" fill="#5ca4ed"/>
+ <path d="m184 48c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h294l2-2h-128zm-153 144 2 2h294c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24h-224z" fill="#fff" opacity=".2"/>
+ <g transform="matrix(1.6212 0 0 1.6212 -889.36 -29.985)" fill="#fff" stroke-width="14.931">
+  <circle cx="642.19" cy="220.82" r="9.8695" opacity=".35" style="paint-order:markers stroke fill"/>
+  <circle cx="681.69" cy="220.82" r="9.8695" opacity=".35" style="paint-order:markers stroke fill"/>
+  <circle cx="721.19" cy="220.82" r="9.8695" opacity=".35" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

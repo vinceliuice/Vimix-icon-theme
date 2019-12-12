@@ -1,0 +1,19 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.72"/>
+  </filter>
+ </defs>
+ <g transform="translate(-8,-8)" fill-rule="evenodd" filter="url(#a)" opacity=".15">
+  <rect x="40" y="47" width="208" height="208" rx="14.029" ry="14.029"/>
+  <rect x="280" y="47" width="208" height="208" rx="14.029" ry="14.029"/>
+  <rect x="40" y="287" width="208" height="208" rx="14.029" ry="14.029"/>
+  <rect x="280" y="287" width="208" height="208" rx="14.029" ry="14.029"/>
+ </g>
+ <g transform="translate(-8,-15)" fill-rule="evenodd">
+  <rect x="40" y="47" width="208" height="208" rx="14.029" ry="14.029" fill="#203746"/>
+  <rect x="280" y="47" width="208" height="208" rx="14.029" ry="14.029" fill="#1ea3f9"/>
+  <rect x="40" y="287" width="208" height="208" rx="14.029" ry="14.029" fill="#1ea3f9"/>
+  <rect x="280" y="287" width="208" height="208" rx="14.029" ry="14.029" fill="#203746"/>
+ </g>
+</svg>

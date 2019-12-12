@@ -1,0 +1,28 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024923" y="-.023143" width="1.0498" height="1.0463" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.32"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <path d="m672 232v-400c0-13.296-10.704-24-24-24h-368c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h368c13.296 0 24-10.704 24-24z" enable-background="new" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <path d="m672 232v-400c0-13.296-10.704-24-24-24h-368c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h368c13.296 0 24-10.704 24-24z" enable-background="new" filter="url(#a)" opacity=".2"/>
+    <path d="m672 228v-400c0-13.296-10.704-24-24-24h-368c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h368c13.296 0 24-10.704 24-24z" enable-background="new" fill="#ebebeb"/>
+    <circle transform="matrix(0,-1,-1,0,0,0)" cx="-12" cy="-464" r="160" enable-background="new" fill="#fff" opacity=".6"/>
+    <circle transform="matrix(0,-1,-1,0,0,0)" cx="-14" cy="-464" r="160" enable-background="new" fill="#fff"/>
+    <circle transform="rotate(90)" cx="12" cy="-464" r="160" enable-background="new" fill="#3f3f3f"/>
+    <circle transform="rotate(90)" cx="12" cy="-464" r="128" enable-background="new" fill="#fec006"/>
+    <circle transform="matrix(0,-1,-1,0,0,0)" cx="-12" cy="-464" r="64" enable-background="new" fill="#3f3f3f"/>
+    <circle transform="matrix(0,-1,-1,0,0,0)" cx="16" cy="-464" r="36" enable-background="new" fill="#fff" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m280 48c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h368c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" enable-background="new" fill="#fff" opacity=".4"/>
+    <g>
+     <path d="m464 144a128 128 0 0 1-128-128 128 128 0 0 1 0.082-2.3418 128 128 0 0 0 127.92 126.34 128 128 0 0 0 127.92-125.66 128 128 0 0 1 0.082 1.6582 128 128 0 0 1-128 128z" enable-background="new" opacity=".2"/>
+     <path d="m464-148a160 160 0 0 0-160 160 160 160 0 0 0 0.082 1.6562 160 160 0 0 1 159.92-157.66 160 160 0 0 1 159.92 158.34 160 160 0 0 0 0.08199-2.3438 160 160 0 0 0-160-160z" enable-background="new" opacity=".2"/>
+     <path d="m400.08 9.6543a64 64 0 0 0-0.08203 2.3457 64 64 0 0 0 64 64 64 64 0 0 0 64-64 64 64 0 0 0-0.08203-1.6543 64 64 0 0 1-63.918 61.654 64 64 0 0 1-63.918-62.346z" enable-background="new" opacity=".2"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

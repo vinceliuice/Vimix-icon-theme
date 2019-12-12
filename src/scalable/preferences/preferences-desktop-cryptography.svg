@@ -1,0 +1,50 @@
+<svg width="512" height="512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="c" x="-.027273" y="-.021429" width="1.0545" height="1.0429" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4"/>
+  </filter>
+  <filter id="d" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6"/>
+  </filter>
+ </defs>
+ <linearGradient id="a" x1="386.57" x2="386.57" y1="549.8" y2="497.8" gradientTransform="matrix(.54545 0 0 .53846 177.71 249.75)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#7f8c8d" offset="0"/>
+  <stop stop-color="#afb0b3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x1="400.57" x2="400.57" y1="522.8" y2="535.8" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#da4453" offset="0"/>
+  <stop stop-color="#c72737" offset="1"/>
+ </linearGradient>
+ <use transform="translate(27,470)" width="100%" height="100%" fill="#1a1a1a" fill-rule="evenodd" xlink:href="#a"/>
+ <use transform="translate(27.003 470.01)" width="100%" height="100%" fill="#ffffff" fill-rule="evenodd" opacity=".1" xlink:href="#b"/>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)">
+  <g transform="translate(-1008,656)">
+   <rect transform="matrix(0,-1,-1,0,800,-640)" x="-256" y="-640" width="448" height="352" rx="24" ry="24" filter="url(#c)" opacity=".1" stroke="#000" stroke-width="8"/>
+   <rect transform="matrix(0,-1,-1,0,800,-640)" x="-256" y="-640" width="448" height="352" rx="24" ry="24" filter="url(#c)" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="388" y="-1440" width="448" height="352" rx="24" ry="24" fill="#78909c"/>
+   <path d="m1112-386c-13.296 0-24-10.704-24-24v-2c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24v2c0 13.296-10.704 24-24 24z" opacity=".2"/>
+   <path d="m1112-836c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h304c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+   <path d="m1264-770c61.856 0 112 50.144 112 112s-50.144 112-112 112h-112v-112c0-61.856 50.144-112 112-112zm0 56c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56z" enable-background="new" fill="#fff" opacity=".2"/>
+   <path d="m1264-772c61.856 0 112 50.144 112 112s-50.144 112-112 112h-112v-112c0-61.856 50.144-112 112-112zm0 56c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56z" enable-background="new" fill="#455a64"/>
+   <circle cx="1384" cy="-484" r="120" enable-background="new" filter="url(#d)" opacity=".5"/>
+   <circle cx="1384" cy="-492" r="120" enable-background="new" fill="#f55"/>
+  </g>
+ </g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <g transform="translate(-3.2215e-8 212)"></g>
+ <path d="m376 304c-1.1506 0-2.2876 0.0599-3.4074 0.17268-16.798 1.6957-29.824 15.798-29.824 33.058v33.231h-22.154v51.631c13.206 15.789 33.11 25.907 55.385 25.907 22.275 0 42.178-10.118 55.385-25.907v-51.631h-22.154v-33.231c0-17.259-13.026-31.362-29.824-33.058-1.1198-0.11299-2.2568-0.17268-3.4074-0.17268zm0 11.077c13.807 0 22.154 6.0458 22.154 22.154v33.231h-44.308v-33.231c0-16.108 8.3464-22.154 22.154-22.154z" fill="#fff" stroke-width="5.5385"/>
+</svg>

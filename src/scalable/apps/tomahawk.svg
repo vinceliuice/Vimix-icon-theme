@@ -1,0 +1,26 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.84"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <circle cx="464" cy="30" r="240" opacity=".2"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".2"/>
+    </g>
+    <circle cx="464" cy="28" r="240" fill="#e12949"/>
+    <circle cx="464" cy="36" r="192" filter="url(#b)" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+    <path transform="translate(0,-244)" d="m464 80a192 192 0 0 0-192 192 192 192 0 0 0 192 192 192 192 0 0 0 40-4.4473v-299.55h56v278a192 192 0 0 0 96-166 192 192 0 0 0-192-192z" fill="#fff"/>
+    <path transform="translate(0,-244)" d="m504 160v90.576l-123.32-89.062c-1.3073-0.94312-2.869-1.4694-4.4805-1.5098-4.4957-0.11372-8.2019 3.499-8.2031 7.9961v208c7.4e-4 6.5255 7.3926 10.306 12.684 6.4863l123.32-89.062v166.09a192 192 0 0 0 18.143-4.8359 192 192 0 0 0 0.63672-0.19531 192 192 0 0 0 16.885-6.3652 192 192 0 0 0 1.3223-0.55469 192 192 0 0 0 15.477-7.6797 192 192 0 0 0 3.5371-1.9219v-277.96z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#e12949" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   </g>
+  </g>
+ </g>
+</svg>

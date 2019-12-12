@@ -1,0 +1,44 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="d" x="-.074667" y="-.074667" width="1.1493" height="1.1493" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.72"/>
+  </filter>
+  <filter id="c" x="-.074667" y="-.074667" width="1.1493" height="1.1493" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.72"/>
+  </filter>
+  <filter id="b" x="-.074667" y="-.074667" width="1.1493" height="1.1493" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.72"/>
+  </filter>
+  <filter id="a" x="-.074667" y="-.074667" width="1.1493" height="1.1493" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.72"/>
+  </filter>
+ </defs>
+ <g fill-rule="evenodd" stroke-width="1.0385">
+  <rect x="32" y="40" width="216" height="216" rx="14.569" ry="14.569" filter="url(#d)" opacity=".15"/>
+  <rect x="264" y="40" width="216" height="216" rx="14.569" ry="14.569" filter="url(#c)" opacity=".15"/>
+  <rect x="32" y="272" width="216" height="216" rx="14.569" ry="14.569" filter="url(#b)" opacity=".15"/>
+  <rect x="264" y="272" width="216" height="216" rx="14.569" ry="14.569" filter="url(#a)" opacity=".15"/>
+  <rect x="32" y="40" width="216" height="216" rx="14.569" ry="14.569" opacity=".15"/>
+  <rect x="264" y="40" width="216" height="216" rx="14.569" ry="14.569" opacity=".15"/>
+  <rect x="32" y="272" width="216" height="216" rx="14.569" ry="14.569" opacity=".15"/>
+  <rect x="264" y="272" width="216" height="216" rx="14.569" ry="14.569" opacity=".15"/>
+ </g>
+ <g fill-rule="evenodd" stroke-width="1.0385">
+  <rect x="32" y="32" width="216" height="216" rx="14.569" ry="14.569" fill="#4c85ce"/>
+  <rect x="264" y="32" width="216" height="216" rx="14.569" ry="14.569" fill="#4c85ce"/>
+  <rect x="32" y="264" width="216" height="216" rx="14.569" ry="14.569" fill="#7de418"/>
+  <rect x="264" y="264" width="216" height="216" rx="14.569" ry="14.569" fill="#4c85ce"/>
+ </g>
+ <g>
+  <path d="m140 76a64 64 0 0 0-64 64 64 64 0 0 0 64 64 64 64 0 0 0 64-64 64 64 0 0 0-64-64zm0 16a48 48 0 0 1 48 48 48 48 0 0 1-48 48 48 48 0 0 1-48-48 48 48 0 0 1 48-48z" opacity=".25" style="paint-order:normal"/>
+  <path d="m372 76a64 64 0 0 0-64 64 64 64 0 0 0 64 64 64 64 0 0 0 64-64 64 64 0 0 0-64-64zm0 16a48 48 0 0 1 48 48 48 48 0 0 1-48 48 48 48 0 0 1-48-48 48 48 0 0 1 48-48z" opacity=".25" style="paint-order:normal"/>
+  <path d="m372 308a64 64 0 0 0-64 64 64 64 0 0 0 64 64 64 64 0 0 0 64-64 64 64 0 0 0-64-64zm0 16a48 48 0 0 1 48 48 48 48 0 0 1-48 48 48 48 0 0 1-48-48 48 48 0 0 1 48-48z" opacity=".25" style="paint-order:normal"/>
+  <path d="m76 308v128h128v-128h-128zm16 16h96v96h-96v-96z" opacity=".25" style="paint-order:normal"/>
+ </g>
+ <g fill="#fff" fill-rule="evenodd" stroke-width="1.0385">
+  <path d="m46.568 32c-8.071 0-14.568 6.4974-14.568 14.568v7.4609c0-7.7721 6.4974-14.029 14.568-14.029h186.86c8.071 0 14.568 6.2572 14.568 14.029v-7.4609c0-8.071-6.4974-14.568-14.568-14.568h-186.86z" opacity=".15"/>
+  <path d="m278.57 32c-8.071 0-14.568 6.4974-14.568 14.568v7.4609c0-7.7721 6.4974-14.029 14.568-14.029h186.86c8.071 0 14.568 6.2572 14.568 14.029v-7.4609c0-8.071-6.4974-14.568-14.568-14.568z" opacity=".15"/>
+  <path d="m46.568 263.97c-8.071 0-14.568 6.4974-14.568 14.568v7.4609c0-7.7721 6.4974-14.029 14.568-14.029h186.86c8.071 0 14.568 6.2572 14.568 14.029v-7.4609c0-8.071-6.4974-14.568-14.568-14.568z" opacity=".15"/>
+  <path d="m278.57 263.97c-8.071 0-14.568 6.4974-14.568 14.568v7.4609c0-7.7721 6.4974-14.029 14.568-14.029h186.86c8.071 0 14.568 6.2572 14.568 14.029v-7.4609c0-8.071-6.4974-14.568-14.568-14.568z" opacity=".15"/>
+ </g>
+</svg>

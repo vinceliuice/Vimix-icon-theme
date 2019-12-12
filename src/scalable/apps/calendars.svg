@@ -1,0 +1,307 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Paper Icon Theme</title>
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <clipPath id="c">
+   <path d="m488-196v144h12v160h-52l-148 144h352c19.944 0 36-16.056 36-36v-376c0-19.944-16.056-36-36-36z" fill="#2196f3"/>
+  </clipPath>
+  <filter id="b" x="-.076667" y="-.049286" width="1.1533" height="1.0986" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="9.2"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-2788" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-2227.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-2227.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-2227.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-2227.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-27</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-2292" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-2300" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-2308" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-2324" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-3428" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-2867.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-2867.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-2867.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-2867.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-26</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-2932" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-2940" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-2948" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-2964" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g></g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-4708" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-4147.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-4147.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-4147.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-4147.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-24</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-4212" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-4220" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-4228" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-4244" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-5348" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-4787.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-4787.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-4787.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-4787.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-23</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-4852" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-4860" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-4868" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-4884" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-5988" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-5427.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-5427.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-5427.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-5427.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-22</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-5492" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-5500" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-5508" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-5524" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-6628" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-6067.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-6067.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-6067.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-6067.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-21</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-6132" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-6140" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-6148" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-6164" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-7268" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-6707.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-6707.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-6707.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-6707.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-20</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-6772" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-6780" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-6788" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-6804" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-7908" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-7347.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-7347.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-7347.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-7347.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-19</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-7412" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-7420" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-7428" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-7444" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-8548" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-7987.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-7987.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-7987.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-7987.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-18</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-8052" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-8060" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-8068" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-8084" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-9188" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-8627.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-8627.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-8627.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-8627.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-17</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-8692" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-8700" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-8708" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-8724" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-720" y="-9828" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="15.006836" y="-9267.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-9267.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="142.48828" y="-9267.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-9267.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-16</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-32" y="-9332" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-76" y="-9340" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-128" y="-9348" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-192" y="-9364" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-1508" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-947.51477" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-947.51477" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-947.51477" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-947.51477" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-13</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-1012" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-1020" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-1028" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-1044" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-2788" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-2227.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-2227.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-2227.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-2227.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-11</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-2292" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-2300" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-2308" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-2324" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-3428" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-2867.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-2867.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-2867.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-2867.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-10</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-2932" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-2940" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-2948" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-2964" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-4068" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-3507.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-3507.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-3507.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-3507.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-09</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-3572" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-3580" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-3588" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-3604" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+  <g>
+   <g transform="translate(-208,3856)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="3586" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,-3840)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1"/>
+     <rect transform="matrix(0,-1,-1,0,0,-3840)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
+    </g>
+    <path d="m488-4036v144h200v-108c0-19.944-16.056-36-36-36z" enable-background="new" fill="#2196f3"/>
+    <path d="m500-3892h188v160h-188z" enable-background="new" fill="#03a9f4"/>
+    <path d="m448-3732-148 144h352c19.944 0 36-16.056 36-36v-108z" enable-background="new" fill="#3f51b5"/>
+    <path transform="translate(0,-3840)" d="m528-194h-252c-19.944 0-36 16.056-36 36v376c0 19.944 16.056 36 36 36h108l144-144z" clip-path="url(#c)" enable-background="new" filter="url(#b)" opacity=".2"/>
+    <path d="m528-4036h-252c-19.944 0-36 16.056-36 36v376c0 19.944 16.056 36 36 36h108l144-144z" enable-background="new" fill="#f2f2f2"/>
+    <path d="m276-4036c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".2"/>
+    <path d="m384-3588 144-144h-108c-19.944 0-36 16.056-36 36z" enable-background="new" fill="#b3b3b3"/>
+    <path d="m368-3988v56h32c9.0024 0 16 6.9976 16 16v8c0 9.0024-6.9976 16-16 16h-32v16h32c17.59 0 32-14.41 32-32v-8c0-17.59-14.41-32-32-32h-16v-24h40v-16z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#3f51b5" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-4708" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-4147.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-4147.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-4147.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-4147.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-08</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-4212" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-4220" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-4228" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-4244" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-5348" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-4787.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-4787.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-4787.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-4787.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-07</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-4852" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-4860" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-4868" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-4884" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-5988" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-5427.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-5427.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-5427.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-5427.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-06</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-5492" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-5500" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-5508" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-5524" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-6628" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-6067.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-6067.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-6067.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-6067.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-05</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-6132" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-6140" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-6148" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-6164" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-7908" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-7347.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-7347.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-7347.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-7347.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-03</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-7412" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-7420" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-7428" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-7444" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)">
+  <g display="none">
+   <rect transform="scale(-1,1)" x="-1472" y="-8548" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+   <text x="767.00684" y="-7987.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="767.00684" y="-7987.5146" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+   <text x="894.48828" y="-7987.5146" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="894.48828" y="-7987.5146" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">calendar-blue-02</tspan></text>
+   <g fill="#e9e9e9">
+    <rect transform="scale(-1,1)" x="-784" y="-8052" width="16" height="16" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-828" y="-8060" width="24" height="24" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-880" y="-8068" width="32" height="32" display="inline" enable-background="accumulate"/>
+    <rect transform="scale(-1,1)" x="-944" y="-8084" width="48" height="48" display="inline" enable-background="accumulate"/>
+   </g>
+  </g>
+ </g>
+</svg>

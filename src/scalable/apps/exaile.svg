@@ -1,0 +1,20 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1"/>
+    <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".2"/>
+    <circle cx="464" cy="28" r="240" fill="#8bc34a"/>
+    <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+    <g transform="matrix(19.397 0 0 19.434 -5517.2 -302.39)" fill="#f2f2f2" stroke="#fff" stroke-linejoin="round" stroke-width="1.172">
+     <path d="m304 10.414c-0.32368-1.7e-4 -0.58611 0.26226-0.58594 0.58594v12c-1.2e-4 0.44517 0.47685 0.7277 0.86719 0.51367l11-6c0.40583-0.22221 0.40583-0.80513 0-1.0273l-9.9004-5.4004-1.0996-0.59961c-0.0862-0.04732-0.18292-0.07217-0.28125-0.07227z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#ececec" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke="none" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

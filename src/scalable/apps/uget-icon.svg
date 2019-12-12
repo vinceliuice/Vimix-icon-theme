@@ -1,0 +1,17 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(0,-1,-1,0,-208,228)" x="-256" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+ <rect transform="matrix(0,-1,-1,0,-208,228)" x="-256" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-480" y="-480" width="448" height="448" rx="24" ry="24" fill="#5baf30"/>
+ <path d="m56 32c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+ <path d="m456 480c13.296 0 24-10.704 24-24v-2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24v2c0 13.296 10.704 24 24 24z" opacity=".2"/>
+ <g stroke-width="24">
+  <path d="m232 119.98s-47.856 0-48 48v120h-24v-96h-48v108c0 35.998 36 35.998 36 35.998h36v24s0.0959 48 48 48h120c48.096 0 48-48 48-48v-120h-72v48h36l-72 96-72-96h36v-120h72v48h72v-48s0.0959-48-48-48z" fill="#fff" opacity=".15"/>
+  <path d="m232 112s-47.856 0-48 48v120h-24v-96h-48v108c0 35.998 36 35.998 36 35.998h36v24s0.0959 48 48 48h120c48.096 0 48-48 48-48v-120h-72v48h36l-72 96-72-96h36v-120h72v48h72v-48s0.0959-48-48-48z" fill="#1f691a"/>
+  <path d="m232 112s-47.856 0-48 48v6.666c0.144-46.667 48-46.666 48-46.666h120c48.096 0 48 46.666 48 46.666v-6.666s0.09591-48-48-48h-120zm-120 72v6h48v-6h-48zm216 48v4.666h72v-4.666h-72zm-168 48v3.334h24v-3.334h-24zm60 3.334 72 93.332 72-93.332h-2.5l-69.5 92.666-69.5-92.666h-2.5z" opacity=".15"/>
+ </g>
+</svg>

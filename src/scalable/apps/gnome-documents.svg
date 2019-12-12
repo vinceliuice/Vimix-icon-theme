@@ -1,0 +1,25 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="b" x="-.026526" y="-.021913" width="1.0531" height="1.0438" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.36"/>
+  </filter>
+  <filter id="a" x="-.026526" y="-.021913" width="1.0531" height="1.0438" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.36"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <rect x="368" y="-192" width="304" height="368" rx="16" ry="16" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <rect x="368" y="-192" width="304" height="368" rx="16" ry="16" filter="url(#a)" opacity=".2"/>
+    <rect x="368" y="-196" width="304" height="368" rx="16" ry="16" fill="#d8d8d8"/>
+    <path d="m384-196c-8.864 0-16 7.136-16 16v2c0-8.864 7.136-16 16-16h272c8.864 0 16 7.136 16 16v-2c0-8.864-7.136-16-16-16z" fill="#fff" opacity=".4"/>
+    <rect x="256" y="-112" width="304" height="368" rx="16" ry="16" filter="url(#b)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <rect x="256" y="-112" width="304" height="368" rx="16" ry="16" filter="url(#b)" opacity=".2"/>
+    <rect x="256" y="-116" width="304" height="368" rx="16" ry="16" fill="#ebebeb"/>
+    <path d="m272-116c-8.864 0-16 7.136-16 16v2c0-8.864 7.136-16 16-16h272c8.864 0 16 7.136 16 16v-2c0-8.864-7.136-16-16-16z" fill="#fff" opacity=".4"/>
+    <path d="m304-52v16h128v-16zm0 48v16h208v-16zm0 48v16h208v-16zm0 48v16h208v-16z" enable-background="new" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

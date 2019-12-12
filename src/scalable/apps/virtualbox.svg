@@ -1,0 +1,27 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".1"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="36" ry="36" fill="#239dcf"/>
+     <path transform="translate(0,-244)" d="m276 48c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+    </g>
+    <g transform="matrix(11.111 0 0 11.111 -1402.7 -2858.9)" fill="none" opacity=".2" stroke="#000" stroke-width="2.16">
+     <path d="m151.08 256.04h6.12l3.6 13.68 5.04-19.8 4.32 14.04 3.96-14.04 3.96 14.04h6.84"/>
+     <rect x="151.08" y="243.08" width="33.84" height="33.84" rx=".72" ry=".72" opacity="1" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="matrix(11.111 0 0 11.111 -1402.7 -2860.9)" fill="none" stroke="#fff" stroke-width="2.16">
+     <path d="m151.08 256.04h6.12l3.6 13.68 5.04-19.8 4.32 14.04 3.96-14.04 3.96 14.04h6.84"/>
+     <rect x="151.08" y="243.08" width="33.84" height="33.84" rx=".72" ry=".72" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

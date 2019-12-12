@@ -1,0 +1,28 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,16)" enable-background="new">
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" fill="#241f31"/>
+   <path transform="translate(0,-244)" d="m276 48c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".2"/>
+  </g>
+ </g>
+ <g transform="matrix(8.6154 0 0 8.6154 4031.6 -3052.3)">
+  <rect x="-460.24" y="362" width="44" height="44" rx="2" ry="2" enable-background="new" fill="#fff" opacity=".15" stroke-width=".91667" style="paint-order:normal"/>
+  <rect x="-460.24" y="374" width="44" height="32" rx="2" ry="2" enable-background="new" fill="#ec8e12" style="paint-order:normal"/>
+  <g transform="translate(-470.24 352)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2">
+   <path d="m17 34v-5h6" enable-background="new"/>
+   <path d="m47 34v-5h-6" enable-background="new"/>
+   <path d="m47 42v5h-6" enable-background="new"/>
+   <path d="m17 42v5h6" enable-background="new"/>
+  </g>
+  <circle cx="-421.24" cy="367" r="3" enable-background="new" fill="#ed333b"/>
+  <rect x="-443.24" y="366" width="10" height="2" fill="#deddda"/>
+ </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g></g>
+  <g transform="translate(-208,16)">
+   <g>
+    <circle cx="464" cy="30" r="240" enable-background="new" opacity=".2"/>
+    <circle cx="464" cy="32" r="240" enable-background="new" filter="url(#a)" opacity=".1"/>
+    <circle cx="464" cy="32" r="240" enable-background="new" filter="url(#a)" opacity=".2"/>
+   </g>
+   <circle cx="464" cy="28" r="240" enable-background="new" fill="#f57f17"/>
+   <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" enable-background="new" fill="#fff" opacity=".2"/>
+   <path d="m332 27.997a132 132 0 0 1 66.002-114.32 132 132 0 0 1 132 6e-6" fill="none" stroke="#fff" stroke-width="24"/>
+   <path transform="scale(-1)" d="m-596-28.003a132 132 0 0 1 66.002-114.32 132 132 0 0 1 132 1e-5" fill="none" stroke="#fff" stroke-width="24"/>
+   <path d="m332 76 36-48h-72z" enable-background="new" fill="#fff" fill-rule="evenodd"/>
+   <path d="m596-20-36 48h72z" enable-background="new" fill="#fff" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>

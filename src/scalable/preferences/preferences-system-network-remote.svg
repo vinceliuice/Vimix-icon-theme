@@ -1,0 +1,26 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.022286" y="-.026" width="1.0446" height="1.052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="c" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.4"/>
+  </filter>
+  <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6"/>
+  </filter>
+ </defs>
+ <g transform="translate(-208,868)" enable-background="new">
+  <path d="m272-794s-32 0-32 32v288c0 32 32 32 32 32h64l32 32h192l32-32h64s32 4.1581 32-32v-288c0-32-32-32-32-32z" opacity=".2"/>
+  <path d="m272-792s-32 0-32 32v288c0 32 32 32 32 32h64l32 32h192l32-32h64s32 4.1581 32-32v-288c0-32-32-32-32-32z" filter="url(#a)" opacity=".1" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+  <path d="m272-792s-32 0-32 32v288c0 32 32 32 32 32h64l32 32h192l32-32h64s32 4.1581 32-32v-288c0-32-32-32-32-32z" filter="url(#a)" opacity=".2"/>
+  <path d="m272-796s-32 0-32 32v288c0 32 32 32 32 32h64l32 32h192l32-32h64s32 4.1581 32-32v-288c0-32-32-32-32-32z" fill="#e6e6e6"/>
+  <path d="m304-730h320v224h-64l-32 32h-128l-32-32h-64z" fill="#fff" opacity=".4"/>
+  <path d="m304-732h320v224h-64l-32 32h-128l-32-32h-64z" fill="#4d4d4d"/>
+  <path d="m272-796s-32 0-32 32v2c0-32 32-32 32-32h384s32 0 32 32v-2c0-32-32-32-32-32z" fill="#fff" opacity=".2"/>
+  <circle cx="584" cy="-487.9" r="120" enable-background="new" filter="url(#c)" opacity=".2"/>
+  <circle cx="584" cy="-483.9" r="120" enable-background="new" filter="url(#b)" opacity=".2"/>
+  <circle cx="584" cy="-491.9" r="120" enable-background="new" fill="#5d98f2"/>
+ </g>
+ <path d="m310.46 314v29.538c54.554 0 98.462 43.908 98.462 98.462h29.538c0-70.517-57.482-128-128-128zm0 49.231v29.538c27.364 0 49.231 21.866 49.231 49.231h29.538c0-43.328-35.441-78.769-78.769-78.769zm0 49.231v17.231s0 12.308 12.308 12.308h17.231c0-16.138-13.4-29.538-29.538-29.538z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stroke-width=".61538" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+</svg>

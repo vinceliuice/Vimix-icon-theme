@@ -1,0 +1,43 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="e" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.1"/>
+  </filter>
+  <filter id="d" x="-.055714" y="-.065" width="1.1114" height="1.13" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.48750162"/>
+  </filter>
+  <filter id="c" x="-.09" y="-.045" width="1.18" height="1.09" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.33750175"/>
+  </filter>
+  <filter id="b" x="-.071882" y="-.051489" width="1.1438" height="1.103" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8145964"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".2"/>
+     <circle cx="464" cy="28" r="240" fill="#78c257"/>
+     <path transform="translate(0,-244)" d="m464 32a240 240 0 0 0-240 240h480a240 240 0 0 0-240-240z" opacity=".05"/>
+     <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+     <path transform="matrix(16 0 0 16 -1327.2 -4260)" d="m112.06 265.5c0.52496 0.019 1.0017 0.31134 1.2568 0.7705l7.5 13.5 0.1875 3.7295-2.8125-2.2705-6.1875-11.139v-4.585c0.019 0 0.0366-6e-3 0.0557-6e-3z" color="#000000" color-rendering="auto" enable-background="accumulate" fill-rule="evenodd" filter="url(#c)" image-rendering="auto" opacity=".2" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     <path d="m465.64-20c8.3994 0.304 16.027 4.9814 20.109 12.328l120 216 3 59.672-45-36.328-99-178.22v-73.359c0.304 0 0.5856-0.096 0.8912-0.096z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#c6c6c6" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     <path transform="matrix(16 0 0 16 -1327.2 -4260)" d="m111.94 265.38c-0.52496 0.019-1.0017 0.31134-1.2568 0.77051l-7.5 13.5-0.1875 3.7295 2.8125-2.2705 1.0547-1.8955a12 12 0 0 0 5.1328 1.166 12 12 0 0 0 12-12h-3a9 9 0 0 1-9 9 9 9 0 0 1-3.6709-0.7998l3.6709-6.6094v-4.585c-0.019 0-0.0366-6e-3 -0.0557-6e-3z" filter="url(#d)" opacity=".2"/>
+     <path transform="translate(0,-244)" d="m465.64 224c-0.30559 0-0.58662 0.0957-0.89062 0.0957v2c0.304 0 0.58503-0.0957 0.89062-0.0957v0.00195c8.3994 0.304 16.027 4.9816 20.109 12.328l120 216 2.8945 57.588 0.10547 0.084-3-59.672-120-216c-4.0824-7.3466-11.71-12.024-20.109-12.328z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#fff" fill-rule="evenodd" image-rendering="auto" opacity=".5" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     <path d="m463.86-20c-8.3994 0.304-16.027 4.9814-20.109 12.328l-120 216-3 59.672 45-36.328 16.875-30.328a192 192 0 0 0 82.125 18.656 192 192 0 0 0 192-192h-48a144 144 0 0 1-144 144 144 144 0 0 1-58.734-12.797l58.734-105.75v-73.359c-0.304 0-0.5856-0.096-0.8912-0.096z" fill="#e6e6e6"/>
+     <path transform="translate(0,-244)" d="m463.84 224c-8.387 0.3152-16.016 5.0062-20.094 12.344l-120 216-3 59.656 0.10547-0.0859 2.8945-57.57 120-216c4.0773-7.3376 11.707-12.029 20.094-12.344h0.0312c0.2944 0.016 0.5822 0.0957 0.875 0.0957v-2c-0.2928 0-0.5806-0.0797-0.875-0.0957zm144.91 48c0 79.529-64.471 144-144 144-17.618-0.12571-35.063-3.4834-51.469-9.9062v2c16.406 6.4228 33.851 9.7805 51.469 9.9062 79.529 0 144-64.471 144-144h47.906c0.0347-0.6665 0.066-1.3332 0.0937-2z" fill="#fff" opacity=".5"/>
+     <path d="m436.75-112v48h-28.75c-24 0-24 24-24 24l0.7501 88s40 40 56 56c14.387 11.199 38.275 12.097 50.639-2.6392l53.361-53.361-0.7501-88s0-24-24-24h-27.25v-48z" filter="url(#b)" opacity=".2"/>
+     <path d="m436.75-116v48h-28.75c-24 0-24 24-24 24l0.7501 88s40 40 56 56c14.387 11.199 38.275 12.097 50.639-2.6392l53.361-53.361-0.7501-88s0-24-24-24h-27.25v-48z" fill="#6a6a6a"/>
+     <circle transform="matrix(16 0 0 16 -1327.2 -4260)" cx="112" cy="266.25" r="2" filter="url(#e)" opacity=".2"/>
+     <circle cx="464.75" cy="-4" r="32" fill="#fff"/>
+     <path transform="translate(0,-244)" d="m436.75 128v2h56v-2zm-28.75 48c-24 0-24 24-24 24l0.0137 1.6836c0.03391-1.7022 0.90666-23.684 23.986-23.684h28.75v-2zm84.75 0v2h27.25c24 0 24 24 24 24l0.73242 86.018 0.01758-0.01758-0.75-88s0-24-24-24z" fill="#fff" opacity=".3"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

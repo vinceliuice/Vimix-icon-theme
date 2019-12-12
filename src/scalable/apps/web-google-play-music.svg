@@ -1,0 +1,15 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <path d="m681.58 27.211c-0.27823-8.4595-4.9914-16.147-12.404-20.232l-377.59-208c-15.995-8.8077-35.577 2.7617-35.58 21.021v416c3e-3 18.26 19.585 29.829 35.58 21.021l377.59-208c7.9081-4.3582 12.701-12.786 12.404-21.811z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#ff5722" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+    <path transform="translate(0,-244)" d="m464 80c-106.04 0-192 85.961-192 192 0.0344 76.499 45.478 145.68 115.67 176.09l265.78-146.41c1.6171-9.8129 2.4692-19.737 2.5488-29.682 0-106.04-85.961-192-192-192z" fill="#f9ce1d"/>
+    <circle cx="464" cy="28" r="112" fill="#ff9800"/>
+    <g transform="matrix(10,0,0,10,-4423,-1876)" enable-background="new" fill="#fff">
+     <path transform="translate(322,-313)" d="m167 497v7.1875c-0.31647-0.11352-0.64447-0.1875-1-0.1875-1.6568 0-3 1.3432-3 3s1.3432 3 3 3 3-1.3432 3-3v-7h3v-3z"/>
+     <path transform="translate(322,-313)" d="m166.7 497v7.1875c-0.31647-0.11352-0.64447-0.1875-1-0.1875-1.6568 0-3 1.3432-3 3s1.3432 3 3 3 3-1.3432 3-3v-7h3v-3z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

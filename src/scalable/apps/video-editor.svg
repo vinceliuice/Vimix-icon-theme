@@ -1,0 +1,48 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.022286" y="-.026" width="1.0446" height="1.052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g fill="#b8c1c2">
+    <g transform="translate(8)"></g>
+    <g transform="translate(-44,13)"></g>
+    <g transform="translate(4,-2)"></g>
+    <g transform="translate(-35,3)"></g>
+    <g transform="matrix(8,0,0,8,-864,-2100)"></g>
+   </g>
+   <g transform="translate(-224,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-704" width="384" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-704" width="384" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-220" y="-704" width="384" height="448" rx="24" ry="24" fill="#3f3f3f"/>
+     <path transform="translate(0,-244)" d="m256 288v150c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-150z" fill="#f9f9f9" opacity=".05"/>
+     <path d="m280-164s-24 0-24 24v40h448v-40s0-24-24-24z" opacity=".1"/>
+    </g>
+    <g fill="#fff">
+     <path d="m280-164c-24 0-24 24-24 24v40h80v-32l-32-32z" opacity=".2"/>
+     <g fill-rule="evenodd">
+      <path d="m396-132-32 32h40l32-32z" opacity=".2"/>
+      <path d="m476-132-32 32h40l32-32z" opacity=".2"/>
+      <path d="m556-132-32 32h40l32-32z" opacity=".2"/>
+      <path d="m636-132-32 32h40l32-32z" opacity=".2"/>
+     </g>
+     <path transform="translate(0,-244)" d="m280 80s-24 0-24 24v2c0-24 24-24 24-24h399.5s24.5 0 24.5 24v-2c0-24-24.5-24-24.5-24z" opacity=".2"/>
+    </g>
+    <g>
+     <path transform="translate(0,-244)" d="m256 438v2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24z" opacity=".2"/>
+     <path d="m384-20c-8.864 0-16 7.136-16 16v96c0 8.864 7.136 16 16 16h144c8.864 0 16-7.136 16-16v-96c0-8.864-7.136-16-16-16zm160 64 64 56v-112z" enable-background="new" opacity=".2"/>
+     <path d="m280-164s-24 0-24 24v8h448v-8c0-24-24.5-24-24.5-24z" opacity=".1"/>
+    </g>
+    <g fill="#fff" fill-rule="evenodd">
+     <path d="m396-132-32-32h40l32 32z" opacity=".15"/>
+     <path d="m476-132-32-32h40l32 32z" opacity=".15"/>
+     <path d="m556-132-32-32h40l32 32z" opacity=".15"/>
+     <path d="m636-132-32-32h40l32 32z" opacity=".15"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

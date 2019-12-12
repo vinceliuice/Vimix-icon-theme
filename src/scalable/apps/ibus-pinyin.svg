@@ -1,0 +1,28 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)" display="none">
+  <rect transform="scale(-1,1)" x="-720" y="-1468" width="512" height="512" display="inline" enable-background="accumulate" fill="#e9e9e9"/>
+  <text x="15.006836" y="-907.51514" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" style="line-height:0%" xml:space="preserve"><tspan x="15.006836" y="-907.51514" font-family="'DejaVu Sans'" font-size="18px" style="line-height:1.25">apps</tspan></text>
+  <text x="142.48828" y="-907.51514" display="inline" enable-background="new" fill="#000000" font-family="'DejaVu Sans'" font-weight="bold" style="line-height:0%" xml:space="preserve"><tspan x="142.48828" y="-907.51514" font-family="'DejaVu Sans'" font-size="18px" font-weight="bold" style="line-height:1.25">ibus-pinyin</tspan></text>
+  <g fill="#e9e9e9">
+   <rect transform="scale(-1,1)" x="-32" y="-972" width="16" height="16" display="inline" enable-background="accumulate"/>
+   <rect transform="scale(-1,1)" x="-76" y="-980" width="24" height="24" display="inline" enable-background="accumulate"/>
+   <rect transform="scale(-1,1)" x="-128" y="-988" width="32" height="32" display="inline" enable-background="accumulate"/>
+   <rect transform="scale(-1,1)" x="-192" y="-1004" width="48" height="48" display="inline" enable-background="accumulate"/>
+  </g>
+ </g>
+ <g transform="translate(-208 1220)">
+  <rect transform="matrix(0,-1,-1,0,0,-996)" x="-256" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+  <rect transform="matrix(0,-1,-1,0,0,-996)" x="-256" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="744" y="-688" width="448" height="448" rx="24" ry="24" fill="#2095f2"/>
+  <path d="m264-1192c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+  <path d="m664-744c13.296 0 24-10.704 24-24v-2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24v2c0 13.296 10.704 24 24 24z" opacity=".2"/>
+  <g transform="matrix(2.1333,0,0,2.1333,156.8,-1300.8)" enable-background="new">
+   <path d="m124.06 140.49 1.8987 11.392-18.354 10.127v49.367c-4e-5 6.3291-1.0549 10.759-3.1646 13.291-2.1098 2.5316-5.6962 3.7975-10.759 3.7975-5.9072 0-11.392-0.63292-16.456-1.8987l-2.5316-13.291c5.4852 1.6878 11.181 2.5316 17.089 2.5316 2.1097 0 3.1645-2.5316 3.1646-7.5949v-39.873c-6.7511 2.9536-13.924 5.9072-21.519 8.8608l-4.4304-13.291c9.2827-3.3755 17.932-6.751 25.949-10.127v-32.278h-20.886v-12.025h20.886v-26.582h12.658v26.582h17.722v12.025h-17.722v27.215c5.4852-2.9535 10.97-5.6961 16.456-8.2278m63.291-57.595 13.924 3.7975c-4.6415 9.2828-9.2828 17.511-13.924 24.684h26.582v12.025h-17.722v34.177h22.785v12.025h-22.785v58.861h-12.658v-58.861h-27.848c-2.9537 27.004-13.08 46.835-30.38 59.494l-8.8608-9.4937c14.768-10.97 23.418-27.637 25.949-50h-19.62v-12.025h20.886c0.42185-3.3755 0.63283-6.962 0.6329-10.759v-23.418h-16.456v-12.025h46.203c5.0632-8.8606 9.4936-18.354 13.291-28.481m-3.7975 74.684v-34.177h-26.582v25.316c-9e-5 2.9537-0.21106 5.9072-0.63291 8.8608h27.215m-34.177-72.785c5.0632 5.9073 8.8607 12.447 11.392 19.62l-13.291 4.4304c-2.5317-7.5948-6.1182-14.346-10.759-20.253l12.658-3.7975" fill="#fff"/>
+  </g>
+ </g>
+</svg>

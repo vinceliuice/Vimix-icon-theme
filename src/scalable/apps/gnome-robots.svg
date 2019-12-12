@@ -1,0 +1,34 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="e" x="-.036605" y="-.035415" width="1.0732" height="1.0708" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.0829997"/>
+  </filter>
+  <filter id="d" x="-.04125" y="-.11" width="1.0825" height="1.22" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.6"/>
+  </filter>
+  <filter id="c" x="-.081" y="-.081" width="1.162" height="1.162" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.24"/>
+  </filter>
+  <filter id="b" x="-.081" y="-.081" width="1.162" height="1.162" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.24"/>
+  </filter>
+  <filter id="a" x="-.081" y="-.081" width="1.162" height="1.162" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.24"/>
+  </filter>
+ </defs>
+ <g stroke-width="12">
+  <rect x="64" y="184" width="384" height="144" filter="url(#d)" opacity=".15"/>
+  <rect x="64" y="184" width="384" height="144" fill="#4f4f4f"/>
+  <path d="m256 19.254c-112.19 0-205.64 76.32-232.2 180h464.4c-26.556-103.68-120.01-180-232.2-180zm-232.2 300c26.549 103.68 120.01 180 232.2 180s205.64-76.32 232.2-180z" filter="url(#e)" opacity=".25"/>
+ </g>
+ <path d="M 256,16 A 240,240 0 0 0 16,256 240,240 0 0 0 16.041,257.17188 240,240 0 0 1 256,18 240,240 0 0 1 495.95898,256.82812 240,240 0 0 0 496,256 240,240 0 0 0 256,16 Z" fill="#fff" opacity=".2"/>
+ <g stroke-width="12">
+  <path d="m256 16c-112.19 0-205.64 76.32-232.2 180h464.4c-26.556-103.68-120.01-180-232.2-180zm-232.2 300c26.549 103.68 120.01 180 232.2 180s205.64-76.32 232.2-180z" fill="#e4e4e4"/>
+  <circle cx="256" cy="260.99" r="48" filter="url(#c)" opacity=".35"/>
+  <circle cx="256" cy="256" r="48" fill="#ff6363"/>
+  <circle cx="376" cy="260.99" r="48" filter="url(#b)" opacity=".35"/>
+  <circle cx="376" cy="256" r="48" fill="#ff6363"/>
+  <circle cx="136" cy="260.99" r="48" filter="url(#a)" opacity=".35"/>
+  <circle cx="136" cy="256" r="48" fill="#ff6363"/>
+ </g>
+</svg>

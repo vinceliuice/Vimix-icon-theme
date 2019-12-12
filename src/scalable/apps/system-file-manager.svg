@@ -1,0 +1,37 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.022154" y="-.026182" width="1.0443" height="1.0524" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.84"/>
+  </filter>
+  <clipPath id="e">
+   <path d="m255.84 83.938v-256c0-13.296 10.704-24 24-24h160l48 48h160c13.296 0 24 10.704 24 24v208c0 13.296-10.704 24-24 24h-368c-13.296 0-24-10.704-24-24z" fill="#bb9e7b"/>
+  </clipPath>
+  <filter id="d" x="-.023145" y="-.024921" width="1.0463" height="1.0498" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.3203125"/>
+  </filter>
+  <filter id="c" x="-.023145" y="-.024921" width="1.0463" height="1.0498" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.3203125"/>
+  </filter>
+  <filter id="b" x="-.072" y="-.36" width="1.144" height="1.72" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <path d="m279.84-176.06c-13.296 0-24 10.704-24 24v73.477c-9.2563 3.325-15.844 12.157-15.844 22.586v272c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-272c0-10.545-6.7369-19.454-16.156-22.691v-25.371c0-13.296-10.704-24-24-24h-160l-48-48z" filter="url(#c)" opacity=".1"/>
+    <path d="m279.84-176.06c-13.296 0-24 10.704-24 24v73.477c-9.2563 3.325-15.844 12.157-15.844 22.586v272c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-272c0-10.545-6.7369-19.454-16.156-22.691v-25.371c0-13.296-10.704-24-24-24h-160l-48-48z" filter="url(#d)" opacity=".2"/>
+    <path d="m255.84 99.938v-256c0-13.296 10.704-24 24-24h160l48 48h160c13.296 0 24 10.704 24 24v208c0 13.296-10.704 24-24 24h-368c-13.296 0-24-10.704-24-24z" fill="#546e7a"/>
+    <path d="m279.84-180.06c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h160l47 47 1-1-48-48z" fill="#fff" opacity=".2"/>
+    <path transform="translate(0,16)" d="m671.84 179.93v-304c0-13.296-10.704-24-24-24h-160l-48 48h-160c-13.296 0-24 10.704-24 24v256c0 13.296 10.704 24 24 24h368c13.296 0 24-10.704 24-24z" clip-path="url(#e)" filter="url(#a)" opacity=".2"/>
+    <path d="m671.84 195.93v-304c0-13.296-10.704-24-24-24h-160l-48 48h-160c-13.296 0-24 10.704-24 24v256c0 13.296 10.704 24 24 24h368c13.296 0 24-10.704 24-24z" fill="#78909c"/>
+    <path d="m487.84-132.06-48 48h-160c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h160l48-48h160c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-236" y="-688" width="320" height="448" rx="24" ry="24" enable-background="new" fill="#cfd8dc"/>
+    <path d="m264-84c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" enable-background="new" fill="#fff" opacity=".2"/>
+    <rect x="384" y="-12" width="160" height="32" rx="0" ry="8" filter="url(#b)" opacity=".2"/>
+    <rect x="384" y="-20" width="160" height="32" rx="0" ry="8" fill="#fff"/>
+    <path d="m240 212v2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-2c0 13.296-10.704 24-24 24h-400c-13.296 0-24-10.704-24-24z" enable-background="new" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

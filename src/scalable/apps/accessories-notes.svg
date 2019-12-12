@@ -1,0 +1,30 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <clipPath id="c">
+   <path d="m207 224c-1.662 0-3 1.338-3 3v50c0 1.662 1.338 3 3 3h29l24-24v-29c0-1.662-1.338-3-3-3z" fill="#fecd38"/>
+  </clipPath>
+  <filter id="b" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.2"/>
+  </filter>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.56"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path transform="matrix(8,0,0,8,-1392,-1992)" d="m207 225c-1.662 0-3 1.338-3 3v50c0 1.662 1.338 3 3 3h29l24-24v-29c0-1.662-1.338-3-3-3z" filter="url(#a)" opacity=".1" stroke="#000"/>
+     <path transform="matrix(8,0,0,8,-1392,-1992)" d="m207 225c-1.662 0-3 1.338-3 3v50c0 1.662 1.338 3 3 3h29l24-24v-29c0-1.662-1.338-3-3-3z" filter="url(#a)" opacity=".2"/>
+     <path d="m264-196c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h232l192-192v-232c0-13.296-10.704-24-24-24z" fill="#f9ce1d"/>
+     <path transform="matrix(8,0,0,8,-1392,-1988)" d="m260 258h-21c-1.6568 0-3 1.3432-3 3v21z" clip-path="url(#c)" enable-background="new" filter="url(#b)" opacity=".2"/>
+     <path d="m688 60h-168c-13.255 0-24 10.745-24 24v168z" enable-background="new" fill="#fff59d"/>
+     <path transform="translate(0,-244)" d="m264 48c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+     <path transform="translate(0,-244)" d="m520 304c-13.255 0-24 10.745-24 24v2c0-13.255 10.745-24 24-24h166l2-2z" enable-background="new" fill="#fff" opacity=".2"/>
+    </g>
+    <path d="m312 6 25.729 0.55974c50.64 1.1017 98.739 13.755 116.68 41.668 41.869 65.126-41.059 86.244-74.378 40.251-31.136-50.484-20.377-155.37 24.485-167.55 81.175-18.539 94.618 110.57 144.59 85.367 38.602-19.47-24.404-107.96 13.358-129.01 16.186-9.0224 50.044 24.208 50.044 24.208" fill="none" opacity=".2" stroke="#fff" stroke-linecap="square" stroke-width="16"/>
+    <path d="m312 4 25.729 0.55974c50.64 1.1017 98.739 13.755 116.68 41.668 41.869 65.126-41.059 86.244-74.378 40.251-31.136-50.484-20.377-155.37 24.485-167.55 81.175-18.539 94.618 110.57 144.59 85.367 38.602-19.47-24.404-107.96 13.358-129.01 16.186-9.0224 50.044 24.208 50.044 24.208" fill="none" stroke="#cb9a05" stroke-linecap="square" stroke-width="16"/>
+   </g>
+  </g>
+ </g>
+</svg>

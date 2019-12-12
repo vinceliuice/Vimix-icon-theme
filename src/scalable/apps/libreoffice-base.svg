@@ -1,0 +1,27 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="i" x="-.026" y="-.022286" width="1.052" height="1.0446" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="h" x="-.026" y="-.022286" width="1.052" height="1.0446" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+  <filter id="d" x="-.066" y="-.055" width="1.132" height="1.11" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="8.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(-208,3268)">
+  <path d="m656-2810v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" opacity=".2"/>
+  <path d="m656-2808v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" filter="url(#h)" opacity=".2"/>
+  <path d="m656-2808v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" filter="url(#i)" opacity=".1"/>
+  <path d="m656-2812v-400c0-13.296-10.704-24-24-24h-336c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24z" fill="#e91e63"/>
+  <path d="m308-3198c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h312c2.216 0 3.9834-1.7841 4-4v-267.03l-112.97-112.97zm236.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" filter="url(#d)" opacity=".2"/>
+  <path d="m308-3204c-2.216 0-4 1.784-4 4v376c0 2.216 1.784 4 4 4h312c2.216 0 3.9834-1.7841 4-4v-267.03l-112.97-112.97zm236.97 0 79.031 79.031v-75.031c0-2.216-1.784-4-4-4z" fill="#f5f5f5"/>
+  <path transform="translate(0,-244)" d="m296-2992c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h336c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+  <g transform="translate(0,16)" fill="#ccc">
+   <path transform="translate(0,-244)" d="m360-2672c-4.432 0-8 3.568-8 8v32c0 4.432 3.568 8 8 8h208c4.432 0 8-3.568 8-8v-32c0-4.432-3.568-8-8-8zm8 16h192v16h-192z"/>
+   <path d="m360-2980c-4.432 0-8 3.568-8 8v32c0 4.432 3.568 8 8 8h208c4.432 0 8-3.568 8-8v-32c0-4.432-3.568-8-8-8zm8 16h192v16h-192z"/>
+   <path d="m360-3044c-4.432 0-8 3.568-8 8v32c0 4.432 3.568 8 8 8h208c4.432 0 8-3.568 8-8v-32c0-4.432-3.568-8-8-8zm8 16h192v16h-192z"/>
+  </g>
+ </g>
+</svg>

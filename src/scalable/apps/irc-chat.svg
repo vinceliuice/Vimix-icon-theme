@@ -1,0 +1,29 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="c">
+   <path d="m392-180c-13.296 0-24 10.704-24 24v224c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-200l48-48h-128z" fill="#feea3a"/>
+  </clipPath>
+  <filter id="b" x="-.0555" y="-.065294" width="1.111" height="1.1306" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.4"/>
+  </filter>
+  <filter id="a" x="-.023143" y="-.024923" width="1.0463" height="1.0498" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.32"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m392-178c-13.296 0-24 10.704-24 24v120h-128l48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-120h56c13.296 0 24-10.704 24-24v-200l48-48h-128z" opacity=".2"/>
+     <path d="m392-176c-13.296 0-24 10.704-24 24v120h-128l48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-120h56c13.296 0 24-10.704 24-24v-200l48-48h-128z" filter="url(#a)" opacity=".1" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+     <path d="m392-176c-13.296 0-24 10.704-24 24v120h-128l48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-120h56c13.296 0 24-10.704 24-24v-200l48-48h-128z" filter="url(#a)" opacity=".2"/>
+    </g>
+    <path d="m392-180c-13.296 0-24 10.704-24 24v224c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-200l48-48h-128z" fill="#8bc34a"/>
+    <path d="m240-26 48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-224c0-13.296-10.705-23.842-24-24h-224z" clip-path="url(#c)" filter="url(#b)" opacity=".2"/>
+    <path d="m240-36 48 48v200c0 13.296 10.704 24 24 24h224c13.296 0 24-10.704 24-24v-224c0-13.296-10.704-24-24-24h-224z" fill="#4caf50"/>
+    <path d="m392-180c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h294l2-2h-128zm-153 144 2 2h294c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24h-224z" fill="#fff" opacity=".2"/>
+    <path d="m384 12v48h-32v16h32v48h-32v16h32v48h16v-48h48v48h16v-48h32v-16h-32v-48h32v-16h-32v-48h-16v48h-48v-48zm16 64h48v48h-48z" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

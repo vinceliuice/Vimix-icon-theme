@@ -1,0 +1,22 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g></g>
+  <g transform="translate(-208,16)">
+   <g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
+   </g>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" fill="#55acee"/>
+   <path transform="translate(0,-244)" d="m276 48c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".2"/>
+   <g transform="matrix(.10242 0 0 -.10242 324 146.21)" enable-background="new">
+    <path d="m2733.9 1958.8c-100.59-44.61-208.69-74.76-322.15-88.32 115.81 69.42 204.74 179.34 246.62 310.32-108.37-64.28-228.41-110.96-356.17-136.12-102.32 109.01-248.09 177.13-409.41 177.13-309.77 0-560.91-251.13-560.91-560.88 0-43.96 4.97-86.77 14.53-127.82-466.16 23.39-879.44 246.69-1156.1 586.03-48.281-82.84-75.933-179.18-75.933-281.98 0-194.59 99.019-366.27 249.52-466.85-91.941 2.91-178.43 28.14-254.05 70.15-0.042-2.34-0.05-4.68-0.05-7.05 0-271.76 193.34-498.46 449.93-549.98-47.066-12.816-96.621-19.668-147.77-19.668-36.145 0-71.281 3.508-105.53 10.059 71.375-222.84 278.51-385 523.95-389.53-191.96-150.43-433.81-240.1-696.59-240.1-45.274 0-89.922 2.649-133.8 7.828 248.22-159.14 543.05-251.99 859.8-251.99 1031.7 0 1595.8 854.67 1595.8 1595.9 0 24.32-0.54 48.51-1.62 72.56 109.58 79.08 204.68 177.87 279.88 290.35" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

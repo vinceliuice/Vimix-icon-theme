@@ -1,0 +1,26 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="448" height="448" rx="36" ry="36" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+    </g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="36" ry="36" fill="#f2f2f2"/>
+    <path transform="translate(0,-244)" d="m276 48c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+    <path d="m368 172v-288h119s85 0 85 80-85 80-85 80h-119 68c119 0 102 128 153 128" fill="none" stroke="#000" stroke-linecap="square" stroke-width="16"/>
+    <g>
+     <path d="m336-132h64v271.53h-64z" fill="#f44336"/>
+     <path d="m368 200-32-60.471 8-7.5294 8 7.5294 8-7.5294 8 7.5294 8-7.5294 8 7.5294 8-7.5294 8 7.5294z" fill="#fffde7" fill-rule="evenodd"/>
+     <path d="m353.25 172 14.75 27.766 14.75-27.766z" fill-rule="evenodd"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

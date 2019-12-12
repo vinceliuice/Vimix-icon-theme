@@ -1,0 +1,27 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <filter id="a" x="-.027273" y="-.021429" width="1.0545" height="1.0429" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4"/>
+  </filter>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m640 230v-400c0-13.296-10.704-24-24-24h-304c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24z" opacity=".2"/>
+     <path d="m640 232v-400c0-13.296-10.704-24-24-24h-304c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24z" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+     <path d="m640 232v-400c0-13.296-10.704-24-24-24h-304c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24z" filter="url(#a)" opacity=".2"/>
+    </g>
+    <path d="m640 228v-400c0-13.296-10.704-24-24-24h-304c-13.296 0-24 10.704-24 24v400c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24z" fill="#ebebeb"/>
+    <path d="m312-196c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h304c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+    <circle transform="matrix(1 0 0 -1 0 312)" cx="584" cy="156" r="120" enable-background="new" filter="url(#b)" opacity=".2"/>
+    <circle transform="matrix(1 0 0 -1 0 312)" cx="584" cy="156" r="120" enable-background="new" filter="url(#b)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <circle cx="584" cy="148" r="120" enable-background="new" fill="#c62828"/>
+    <path d="m584 98.011c-15.508 0.15096-31.121 3.6936-44.629 11.348-5.3841 3.5062-11.848 8.0348-16.719 12.598-7.6649 7.5042-14.225 16.26-18.652 26.055 12.149 26.795 38.859 46.435 68.242 49.336 19.274 2.1812 39.444-1.1484 56.387-10.683 5.3839-3.5062 11.848-8.0348 16.719-12.598 7.665-7.5043 14.225-16.26 18.652-26.055-12.15-26.794-38.858-46.438-68.242-49.336-3.8988-0.4549-7.8329-0.66485-11.758-0.66485zm0 20c16.07-0.35593 30.303 14.018 30 30 0.51489 17.664-17.09 32.909-34.492 29.609-17.576-2.0633-29.921-21.778-24.141-38.476 3.6917-12.294 15.758-21.286 28.633-21.133zm0 20a10 10 0 0 0-10 10 10 10 0 0 0 10 9.9999 10 10 0 0 0 9.9999-9.9999 10 10 0 0 0-9.9999-10z" enable-background="new" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </g>
+ </g>
+</svg>

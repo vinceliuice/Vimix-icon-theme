@@ -1,0 +1,21 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.026" y="-.022286" width="1.052" height="1.0446" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <path d="m464-192a192 192 0 0 0-192 192 192 192 0 0 0 192 192v64c29.538 0 192-108.31 192-256a192 192 0 0 0-192-192z" filter="url(#a)" opacity=".2"/>
+    <path d="m464-194a192 192 0 0 0-192 192 192 192 0 0 0 192 192v64c29.538 0 192-108.31 192-256a192 192 0 0 0-192-192z" opacity=".2"/>
+    <path d="m464-196a192 192 0 0 0-192 192 192 192 0 0 0 192 192v64c29.538 0 192-108.31 192-256a192 192 0 0 0-192-192z" fill="#16a05d"/>
+    <g fill="#fff">
+     <path d="m368-60v80h40v38.667c21.333 0 40-17.333 40-38.667v-80z"/>
+     <path d="m480-60v80h40v38.667c21.333 0 40-17.333 40-38.667v-80z"/>
+     <path transform="translate(0,-244)" d="m464 48a192 192 0 0 0-192 192 192 192 0 0 0 0.041 0.82812 192 192 0 0 1 191.96-190.83 192 192 0 0 1 191.99 191.71c0.00484-0.5702 0.01367-1.1396 0.01367-1.7109a192 192 0 0 0-192-192z" opacity=".2"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

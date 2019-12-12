@@ -1,0 +1,40 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <circle cx="464" cy="32" r="240" filter="url(#b)" opacity=".2"/>
+     <circle cx="464" cy="30" r="240" opacity=".2"/>
+     <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+    </g>
+    <circle cx="464" cy="28" r="240" fill="#4d4d4d"/>
+    <path transform="translate(0,-244)" d="m464 32c-132.55 0-240 107.45-240 240 0.0127 0.39066 0.0264 0.78129 0.041 1.1719 0.45621-132.21 107.75-239.15 239.96-239.17 132.08 0.021 239.31 106.75 239.96 238.83 0.01415-0.27602 0.02782-0.55206 0.04102-0.82812 0-132.55-107.45-240-240-240z" fill="#fff" opacity=".2"/>
+    <g fill="none" stroke="#26a69a" stroke-linecap="round" stroke-width="16">
+     <path d="m480 213.45v-129.45"/>
+     <path d="m448 213.45v-129.45"/>
+     <path d="m512 175.32v-91.319"/>
+     <path d="m416 175.32v-91.319"/>
+    </g>
+    <g transform="matrix(11.295 0 0 11.316 -1433.5 -2918.9)" fill="none" stroke="#26a69a" stroke-linecap="round" stroke-width="1.4153">
+     <path d="m183.97 254.19a17 17 0 0 1-1.558 14.823 17 17 0 0 1-12.64 7.8982"/>
+     <path transform="scale(-1,1)" d="m-152.02 254.19a17 17 0 0 1-1.558 14.823 17 17 0 0 1-12.64 7.8982"/>
+    </g>
+    <path d="m566.85-98.74a160 160.3 0 0 1 54.216 153.38 160 160.3 0 0 1-107.62 121.87" fill="none" stroke="#26a69a" stroke-linecap="round" stroke-width="16"/>
+    <path transform="scale(-1,1)" d="m-361.15-98.74a160 160.3 0 0 1 54.216 153.38 160 160.3 0 0 1-107.62 121.87" fill="none" stroke="#26a69a" stroke-linecap="round" stroke-width="16"/>
+    <g>
+     <path d="m389.05-26.942c-20.934 48.966 18.949 32.008 18.949 102.73v42.208s5.4727 28.407 56 28.407c50.528 0 56-28.407 56-28.407v-42.208c0-70.726 42.8-55.12 18.95-102.73-21.89-43.701-34.528-111.14-74.95-111.14-40.422 0-56.501 67.987-74.95 111.14z" fill="#26a69a"/>
+     <circle cx="416" cy="76" r="20" fill="#4d4d4d" stroke="#26a69a" stroke-linecap="round" stroke-width="8"/>
+     <circle cx="504" cy="76" r="20" fill="#4d4d4d" stroke="#26a69a" stroke-linecap="round" stroke-width="8"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

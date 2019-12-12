@@ -1,0 +1,44 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="b" x="-.021857" y="-.026609" width="1.0437" height="1.0532" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.08"/>
+  </filter>
+  <filter id="a" x="-.021857" y="-.026609" width="1.0437" height="1.0532" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.08"/>
+  </filter>
+  <clipPath id="d">
+   <rect x="-252" y="-688" width="368" height="448" rx="36" ry="36" fill="#8d6e63"/>
+  </clipPath>
+  <filter id="c" x="-.041786" y="-.10636" width="1.0836" height="1.2127" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="368" height="448" rx="36" ry="36" filter="url(#b)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <path d="m544-100v-56c0-8-8-8-8-8h-144s-8 0-8 8v56h16v-48h128v48z" enable-background="new" fill="#333"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="368" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="368" height="448" rx="36" ry="36" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="368" height="448" rx="36" ry="36" fill="#8d6e63"/>
+    <rect transform="matrix(0,-1,-1,0,0,12)" x="-64" y="-688" width="176" height="448" rx="36" ry="36" clip-path="url(#d)" filter="url(#c)" opacity=".1"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-76" y="-688" width="192" height="448" rx="36" ry="36" fill="#a1887f"/>
+    <g>
+     <path d="m276 78c-19.944 0-36-16.056-36-36v-2c0 19.944 16.056 36 36 36h376c19.944 0 36-16.056 36-36v2c0 19.944-16.056 36-36 36z" opacity=".1"/>
+     <rect x="592" y="-116" width="32" height="368" opacity=".1"/>
+     <rect x="304" y="-116" width="32" height="368" opacity=".1"/>
+    </g>
+    <path d="m288 92h64v-48h-64z" enable-background="new" fill="#ccc"/>
+    <path d="m304-116h32v160h-32z" fill="#8d6e63"/>
+    <path d="m288 76v-48h64v48h-16v-32h-32v32z" enable-background="new" fill="#ebebeb"/>
+    <rect transform="scale(1,-1)" x="304" y="-76" width="32" height="32" fill="#b3b3b3"/>
+    <path d="m592-116h32v160h-32z" fill="#8d6e63"/>
+    <path d="m576 92h64v-48h-64z" enable-background="new" fill="#ccc"/>
+    <path d="m576 76v-48h64v48h-16v-32h-32v32z" enable-background="new" fill="#ebebeb"/>
+    <path d="m304 44v112c0 8.864 7.136 16 16 16s16-7.136 16-16v-112z" fill="#755c53"/>
+    <path d="m592 44v112c0 8.864 7.136 16 16 16s16-7.136 16-16v-112z" fill="#755c53"/>
+    <path d="m276-116c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

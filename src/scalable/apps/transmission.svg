@@ -1,0 +1,26 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.026" y="-.022286" width="1.052" height="1.0446" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.1600002"/>
+  </filter>
+  <filter id="b" x="-.0129" y="-.011217" width="1.0258" height="1.0224" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.72"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-656" width="448" height="384" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-656" width="448" height="384" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-656" width="448" height="384" rx="24" ry="24" fill="#c2352a"/>
+    <path d="m328-144h272c4.432 0 8 3.568 8 8v336c0 4.432-3.568 8-8 8h-272c-4.432 0-8-3.568-8-8v-336c0-4.432 3.568-8 8-8z" fill="#020202" filter="url(#b)" opacity=".1"/>
+    <path d="m296-196c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h336c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".1"/>
+    <path d="m328-148h272c4.432 0 8 3.568 8 8v336c0 4.432-3.568 8-8 8h-272c-4.432 0-8-3.568-8-8v-336c0-4.432 3.568-8 8-8z" fill="#ebebeb"/>
+    <path transform="translate(0,-244)" d="m272 464v8c0 13.296 10.704 24 24 24h336c13.296 0 24-10.704 24-24v-8c0 13.296-10.704 24-24 24h-336c-13.296 0-24-10.704-24-24z" opacity=".1"/>
+    <path d="m464 164-64-88h32v-96h-32l64-88 64 88h-32v96h32z" fill="#3f3f3f" fill-rule="evenodd"/>
+    <path transform="translate(0,-244)" d="m464 136-64 88h3.1992l60.801-84 60.801 84h3.1992zm-64 184 3.1992 4h28.801v-4zm96 0v4h28.801l3.1992-4z" fill-rule="evenodd" opacity=".2"/>
+    <path d="m320-136v-4c0-4.432 3.568-8 8-8h272c4.432 0 8 3.568 8 8v4c0-4.432-3.568-8-8-8h-272c-4.432 0-8 3.568-8 8z" fill="#fff" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

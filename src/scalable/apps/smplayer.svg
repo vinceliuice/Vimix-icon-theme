@@ -1,0 +1,34 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.022286" y="-.026" width="1.0446" height="1.052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.1599986"/>
+  </filter>
+  <filter id="c" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.2"/>
+  </filter>
+  <filter id="b" x="-.12506" y="-.11533" width="1.2501" height="1.2307" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="7.6888914"/>
+  </filter>
+  <filter id="d" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.6"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,16)">
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-688" width="384" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-688" width="384" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
+   <rect transform="matrix(0,-1,-1,0,0,0)" x="-222" y="-688" width="384" height="448" rx="36" ry="36" enable-background="new" opacity=".2"/>
+   <path transform="translate(0,-244)" d="m276 80c-19.944 0-36 16.056-36 36v252h448v-252c0-19.944-16.056-36-36-36z" enable-background="new" fill="#8a55c1"/>
+   <path d="m276-164c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".2"/>
+   <path transform="translate(0,-244)" d="m240 368v60c0 19.944 16.056 36 36 36h376c19.944 0 36-16.056 36-36v-60z" enable-background="new" fill="#f2f2f2"/>
+   <path transform="translate(0,-244)" d="m240 368v2h448v-2z" enable-background="new" fill="#fff"/>
+   <rect x="528" y="156" width="128" height="32" rx="0" ry="16" enable-background="new" fill="#999"/>
+   <rect x="272" y="156" width="256" height="32" rx="0" ry="16" enable-background="new" fill="#8a55c1"/>
+   <circle cx="528" cy="176" r="32" enable-background="new" filter="url(#d)" opacity=".1"/>
+   <circle cx="528" cy="178" r="32" enable-background="new" filter="url(#c)" opacity=".2"/>
+   <circle cx="528" cy="172" r="32" enable-background="new" fill="#fff"/>
+   <path d="m407.1-88c-3.9238-2e-3 -7.1054 3.1856-7.1034 7.1171v145.76c-1e-3 5.4072 5.781 8.8389 10.513 6.2394l133.35-72.879c4.9198-2.699 4.9198-9.7795 0-12.479l-120.02-65.596-13.331-7.283c-1.0448-0.5744-2.2174-0.8768-3.4096-0.8768z" color="#000000" color-rendering="auto" enable-background="accumulate" filter="url(#b)" image-rendering="auto" opacity=".1" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+   <path d="m407.1-100c-3.9238-2e-3 -7.1054 3.1856-7.1034 7.1171v145.76c-1e-3 5.4072 5.781 8.8389 10.513 6.2394l133.35-72.879c4.9198-2.699 4.9198-9.7795 0-12.479l-120.02-65.596-13.331-7.283c-1.0448-0.5744-2.2174-0.8768-3.4096-0.8768z" color="#000000" color-rendering="auto" enable-background="accumulate" fill="#f3e5f5" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  </g>
+ </g>
+</svg>

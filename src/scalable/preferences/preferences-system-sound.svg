@@ -1,0 +1,22 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="b" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="224" ry="224" filter="url(#b)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="224" ry="224" filter="url(#a)" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="224" ry="224" fill="#009688"/>
+    <path transform="translate(0,76)" d="m464-272c-124.1 0-224 99.904-224 224 0 0.23298 0.0112 0.46332 0.0156 0.69531 0.69904-123.49 100.32-222.7 223.98-222.7 123.67 0 223.3 99.216 223.98 222.71 0.00461-0.23849 0.01562-0.47532 0.01562-0.71484 0-124.1-99.904-224-224-224z" fill="#fff" opacity=".2"/>
+    <path d="m464 252c-124.1 0-224-99.904-224-224 0-0.23297 0.0112-0.46332 0.0156-0.69531 0.69904 123.49 100.32 222.7 223.98 222.7 123.67 0 223.3-99.216 223.98-222.71 5e-3 0.23849 0.0156 0.47532 0.0156 0.71484 0 124.1-99.904 224-224 224z" opacity=".1"/>
+    <path d="m524.64 28c0-20.8-11.52-38.72-28.64-48v96c16.96-9.28 28.64-27.2 28.64-48zm-172.64-48v96h48l63.997 64v-224l-63.997 64zm144-64v24c37.12 11.84 64 46.88 64 88s-26.88 76.16-64 88v24c50.4-12.48 88-57.6 88-112s-37.6-99.52-88-112z" enable-background="new" fill="#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

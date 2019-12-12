@@ -1,0 +1,37 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.013636" y="-.010714" width="1.0273" height="1.0214" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.9999985"/>
+  </filter>
+  <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6.4000025"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <rect transform="matrix(0,-1,-1,0,0,-2)" x="-256" y="-640" width="448" height="352" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,2)" x="-256" y="-640" width="448" height="352" rx="24" ry="24" filter="url(#a)" opacity=".1"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-640" width="448" height="352" rx="24" ry="24" fill="#9c27b0"/>
+    <path d="m312-196c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h304c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-220" y="-608" width="384" height="288" rx="0" ry="0" fill="#ebebeb"/>
+    <g>
+     <path d="m464-68c-53.019 0-96 42.981-96 96 0 53.019 42.981 96 96 96 53.019 0 96-42.981 96-96 0-53.019-42.981-96-96-96zm-41.143 54.911c7.5985 0 13.714 6.164 13.714 13.714 0 7.5516-6.1156 13.714-13.714 13.714-7.6011 0-13.714-6.1626-13.714-13.714 0-7.5503 6.1133-13.714 13.714-13.714zm82.286 0c7.5998 0 13.714 6.164 13.714 13.714 0 7.5516-6.1147 13.714-13.714 13.714-7.5986 0-13.714-6.1626-13.714-13.714 0-7.5503 6.1156-13.714 13.714-13.714zm-79.902 66.188c10.275 10.291 24.216 16.084 38.759 16.098 14.543-0.0074 28.484-5.8068 38.759-16.098l9.6964 9.6964c-12.847 12.864-30.276 20.102-48.455 20.116-18.18-0.007384-35.609-7.2525-48.455-20.116z" color="#bebebe" enable-background="accumulate" opacity=".2"/>
+     <path d="m312 252c-13.296 0-24-10.704-24-24v-2c0 13.296 10.704 24 24 24h304c13.296 0 24-10.704 24-24v2c0 13.296-10.704 24-24 24z" opacity=".1"/>
+     <rect transform="matrix(0,-1,-1,0,40,0)" x="-280" y="-664" width="256" height="256" rx="128" ry="128" filter="url(#b)" opacity=".2"/>
+     <circle transform="scale(1,-1)" cx="618.67" cy="-154.22" r="14.222" opacity=".2"/>
+    </g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-268" y="-704" width="256" height="256" rx="128" ry="128" fill="#e6e6e6"/>
+    <circle cx="576" cy="140" r="74.667" fill="#333"/>
+    <circle transform="scale(1,-1)" cx="576" cy="-140" r="53.333" fill="#e91e63"/>
+    <g fill="#fff">
+     <path d="m598.63 117.37a32 32 0 0 0-45.255 0l22.627 22.627z" opacity=".2"/>
+     <path d="m598.63 117.37a32 32 0 0 1 0 45.255l-22.627-22.627z" opacity=".4"/>
+     <path d="m553.37 162.63a32 32 0 0 1 0-45.255l22.627 22.627z" opacity=".4"/>
+     <path d="m553.37 162.63a32 32 0 0 0 45.255 0l-22.627-22.627z" opacity=".6"/>
+    </g>
+    <path d="m576 86.666a53.333 53.333 0 0 0-53.334 53.334 53.333 53.333 0 0 0 0.043 0.82031 53.333 53.333 0 0 1 53.291-52.154 53.333 53.333 0 0 1 53.281 52.273 53.333 53.333 0 0 0 0.05273-0.93945 53.333 53.333 0 0 0-53.334-53.334z" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

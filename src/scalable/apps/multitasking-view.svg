@@ -1,0 +1,32 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <filter id="b" x="-.021429" y="-.027273" width="1.0429" height="1.0545" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="3.9999896"/>
+  </filter>
+  <filter id="a" x="-.021692" y="-.026857" width="1.0434" height="1.0537" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.2325"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)"></g>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,2544)">
+    <rect transform="matrix(0 -1 -1 0 .00195 -2528)" x="-208" y="-688" width="352" height="448" rx="24" ry="24" filter="url(#b)" opacity=".2"/>
+    <rect transform="matrix(0 -1 -1 0 .00195 -2528)" x="-208" y="-688" width="352" height="448" rx="24" ry="24" filter="url(#b)" opacity=".1" stroke="#000" stroke-width="8"/>
+    <path d="m264-2676c-13.296 0-24 10.704-24 24v304c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-304c0-13.296-10.704-24-24-24z" fill="#03a9f4"/>
+    <path d="m264-2676c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+    <path d="m264-2324c-13.296 0-24-10.704-24-24v-2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v2c0 13.296-10.704 24-24 24z" opacity=".1"/>
+    <path transform="matrix(0,-1,-1,0,0,-2088)" d="m431.5-712h168.5c4.155 0 7.5 3.568 7.5 8v215c0 4.432-3.345 8-7.5 8h-168.5c-4.155 0-7.5-3.568-7.5-8v-215c0-4.432 3.345-8 7.5-8z" enable-background="new" filter="url(#a)" opacity=".2"/>
+    <path d="m712-2523.5v-169c0-4.155-3.568-7.5-8-7.5h-215c-4.432 0-8 3.345-8 7.5v169c0 4.155 3.568 7.5 8 7.5h215c4.432 0 8-3.345 8-7.5z" enable-background="new" fill="#eee"/>
+    <path transform="matrix(0,-1,-1,0,-264,-2088)" d="m431.5-712h168.5c4.155 0 7.5 3.568 7.5 8v215c0 4.432-3.345 8-7.5 8h-168.5c-4.155 0-7.5-3.568-7.5-8v-215c0-4.432 3.345-8 7.5-8z" enable-background="new" filter="url(#a)" opacity=".2"/>
+    <path d="m448-2523.5v-169c0-4.155-3.568-7.5-8-7.5h-215c-4.432 0-8 3.345-8 7.5v169c0 4.155 3.568 7.5 8 7.5h215c4.432 0 8-3.345 8-7.5z" enable-background="new" fill="#eee"/>
+    <path transform="matrix(0,-1,-1,0,-129,-1872)" d="m431.5-714h168.5c4.155 0 7.5 3.568 7.5 8v217c0 4.432-3.345 8-7.5 8h-168.5c-4.155 0-7.5-3.568-7.5-8v-217c0-4.432 3.345-8 7.5-8z" enable-background="new" filter="url(#a)" opacity=".2"/>
+    <path d="m585-2307.5v-169c0-4.155-3.568-7.5-8-7.5h-217c-4.432 0-8 3.345-8 7.5v169c0 4.155 3.568 7.5 8 7.5h217c4.432 0 8-3.345 8-7.5z" enable-background="new" fill="#eee"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0,212)"></g>
+</svg>

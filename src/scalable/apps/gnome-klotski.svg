@@ -1,0 +1,42 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="d" x="-.072203" y="-.071798" width="1.1444" height="1.1436" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.65802814"/>
+  </filter>
+  <filter id="c" x="-.072" y="-.072" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6861819"/>
+  </filter>
+  <filter id="b" x="-.168" y="-.168" width="1.336" height="1.336" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6861819"/>
+  </filter>
+  <filter id="a" x="-.168" y="-.168" width="1.336" height="1.336" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.68939014"/>
+  </filter>
+ </defs>
+ <g>
+  <g transform="matrix(10.241 0 0 10.184 -55.049 18.459)" filter="url(#d)" opacity=".15">
+   <rect x="8.5" y="24.504" width="21.873" height="21.996" ry=".78557"/>
+  </g>
+  <g transform="matrix(9.7933 0 0 9.7933 83.371 47.69)" filter="url(#c)" opacity=".15">
+   <rect x="17.627" y="-.37675" width="22.873" height="22.873" ry=".81688"/>
+  </g>
+  <g transform="matrix(9.7933 0 0 9.7933 1.3736 32.941)" filter="url(#b)" opacity=".15">
+   <rect x="32.535" y="30.537" width="9.8026" height="9.8026" rx="1.545" ry="1.545" opacity="1"/>
+  </g>
+  <g transform="matrix(9.7477 0 0 9.7477 -223.87 -189.51)" filter="url(#a)" opacity=".15">
+   <rect x="32.815" y="30.521" width="9.8484" height="9.8484" rx="1.5522" ry="1.5522" opacity="1"/>
+  </g>
+ </g>
+ <g transform="matrix(10.241 0 0 10.184 -55.049 6.459)">
+  <rect x="8.5" y="24.504" width="21.873" height="21.996" ry=".78557" fill="#f6e132"/>
+ </g>
+ <g transform="matrix(9.7933 0 0 9.7933 83.371 35.69)">
+  <rect x="17.627" y="-.37675" width="22.873" height="22.873" ry=".81688" fill="#f6e132"/>
+ </g>
+ <g transform="matrix(9.7933 0 0 9.7933 1.3736 20.941)">
+  <rect x="32.535" y="30.537" width="9.8026" height="9.8026" rx="1.545" ry="1.545" fill="#5382b9"/>
+ </g>
+ <g transform="matrix(9.7477 0 0 9.7477 -223.87 -201.51)">
+  <rect x="32.815" y="30.521" width="9.8484" height="9.8484" rx="1.5522" ry="1.5522" fill="#5382b9"/>
+ </g>
+</svg>

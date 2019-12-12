@@ -1,115 +1,132 @@
 #!/bin/bash
 
-ROOT_UID=0
-DEST_DIR=
-
-# Destination directory
-if [ "$UID" -eq "$ROOT_UID" ]; then
+if [ ${UID} -eq 0 ]; then
   DEST_DIR="/usr/share/icons"
 else
-  DEST_DIR="$HOME/.local/share/icons"
+  DEST_DIR="${HOME}/.local/share/icons"
 fi
 
-SRC_DIR=$(cd $(dirname $0) && pwd)
+readonly SRC_DIR="${PWD}"
 
-THEME_NAME=Vimix
-COLOR_VARIANTS=('-Doder' '-Beryl' '-Ruby' '-Black' '-White')
+readonly COLOR_VARIANTS=("standard" "Beryl" "Doder" "Ruby" "Black" "White")
+readonly BRIGHT_VARIANTS=("" "dark")
 
 usage() {
-  printf "%s\n" "Usage: $0 [OPTIONS...]"
+  printf "%s\n" "Usage: $0 [OPTIONS...] [COLOR VARIANTS...]"
   printf "\n%s\n" "OPTIONS:"
-  printf "  %-25s%s\n" "-d, --dest DIR" "Specify theme destination directory (Default: ${DEST_DIR})"
-  printf "  %-25s%s\n" "-n, --name NAME" "Specify theme name (Default: ${THEME_NAME})"
-  printf "  %-25s%s\n" "-h, --help" "Show this help"
+  printf "  %-25s%s\n"   "-a"       "Install all color folder versions"
+  printf "  %-25s%s\n"   "-d DIR"   "Specify theme destination directory (Default: ${DEST_DIR})"
+  printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: Tela)"
+  printf "  %-25s%s\n"   "-h"       "Show this help"
+  printf "\n%s\n" "COLOR VARIANTS:"
+  printf "  %-25s%s\n"   "standard" "Standard color folder version"
+  printf "  %-25s%s\n"   "Beryl"    "Green color folder version"
+  printf "  %-25s%s\n"   "Doder"     "Blue color folder version"
+  printf "  %-25s%s\n"   "Ruby"    "Red color folder version"
+  printf "  %-25s%s\n"   "Black"    "Black color folder version"
+  printf "  %-25s%s\n"   "White"     "White color folder version"
+  printf "\n  %s\n" "By default, only the standard one is selected."
 }
 
-install() {
-  local dest=${1}
-  local name=${2}
-  local color=${3}
+install_theme() {
+  # Appends a dash if the variables are not empty
+  if [[ "$1" != "standard" ]]; then
+    local -r colorprefix="-$1"
+  fi
 
-  local THEME_DIR=${dest}/${name}${color}
+  local -r brightprefix="${2:+-$2}"
 
-  [[ -d ${THEME_DIR} ]] && rm -rf ${THEME_DIR}
+  local -r THEME_NAME="${NAME}${colorprefix}${brightprefix}"
+  local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
-  echo "Installing '${THEME_DIR}'..."
+  if [ -d "${THEME_DIR}" ]; then
+    rm -r "${THEME_DIR}"
+  fi
 
-  mkdir -p                                                                           ${THEME_DIR}
-  mkdir -p                                                                           ${THEME_DIR}/scalable
-  cp -ur ${SRC_DIR}/COPYING                                                          ${THEME_DIR}
-  cp -ur ${SRC_DIR}/AUTHORS                                                          ${THEME_DIR}
-  cp -ur ${SRC_DIR}/Vimix-Paper/index.theme                                          ${THEME_DIR}
+  echo "Installing '${THEME_NAME}'..."
 
-  cd ${dest}
-  ln -sf ../Vimix-Paper/16 ${name}${color}/16
-  ln -sf ../Vimix-Paper/22 ${name}${color}/22
-  ln -sf ../Vimix-Paper/24 ${name}${color}/24
-  ln -sf ../Vimix-Paper/other ${name}${color}/other
-  ln -sf ../Vimix-Paper/symbolic ${name}${color}/symbolic
-  ln -sf ../../Vimix-Paper/scalable/actions ${name}${color}/scalable/actions
-  ln -sf ../../Vimix-Paper/scalable/apps ${name}${color}/scalable/apps
-  ln -sf ../../Vimix-Paper/scalable/categories ${name}${color}/scalable/categories
-  ln -sf ../../Vimix-Paper/scalable/devices ${name}${color}/scalable/devices
-  ln -sf ../../Vimix-Paper/scalable/emotes ${name}${color}/scalable/emotes
-  ln -sf ../../Vimix-Paper/scalable/mimetypes ${name}${color}/scalable/mimetypes
-  ln -sf ../../Vimix-Paper/scalable/web ${name}${color}/scalable/web
+  install -d "${THEME_DIR}"
 
-  cp -ur ${SRC_DIR}/Places-color/places${color}                                      ${THEME_DIR}/scalable/places
+  install -m644 "${SRC_DIR}/src/index.theme"                                     "${THEME_DIR}"
 
-  cd ${THEME_DIR}
-  sed -i "s/-Paper/${color}/g" index.theme
+  # Update the name in index.theme
+  sed -i "s/%NAME%/${THEME_NAME//-/ }/g"                                         "${THEME_DIR}/index.theme"
 
-  cd ${dest}
-  gtk-update-icon-cache ${name}${color}
+  if [ -z "${brightprefix}" ]; then
+    cp -r "${SRC_DIR}"/src/{16,22,24,scalable,symbolic}                          "${THEME_DIR}"
+    cp -r "${SRC_DIR}"/links/{16,22,24,scalable,symbolic}                        "${THEME_DIR}"
+    if [ -n "${colorprefix}" ]; then
+      install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/*.svg            "${THEME_DIR}/scalable/places"
+    fi
+  else
+    local -r STD_THEME_DIR="${THEME_DIR%-dark}"
+
+    install -d "${THEME_DIR}"/{16,22,24}
+
+    cp -r "${SRC_DIR}"/src/16/{actions,devices,places}                           "${THEME_DIR}/16"
+    cp -r "${SRC_DIR}/src/22/actions"                                            "${THEME_DIR}/22"
+    cp -r "${SRC_DIR}/src/24/actions"                                            "${THEME_DIR}/24"
+
+    # Change icon color for dark theme
+    sed -i "s/#565656/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/actions/*
+    sed -i "s/#727272/#aaaaaa/g" "${THEME_DIR}"/16/{places,devices}/*
+
+    cp -r "${SRC_DIR}"/links/16/{actions,devices,places}                         "${THEME_DIR}/16"
+    cp -r "${SRC_DIR}/links/22/actions"                                          "${THEME_DIR}/22"
+    cp -r "${SRC_DIR}/links/24/actions"                                          "${THEME_DIR}/24"
+
+    # Link the common icons
+    ln -sr "${STD_THEME_DIR}/scalable"                                           "${THEME_DIR}/scalable"
+    ln -sr "${STD_THEME_DIR}/symbolic"                                           "${THEME_DIR}/symbolic"
+    ln -sr "${STD_THEME_DIR}/16/mimetypes"                                       "${THEME_DIR}/16/mimetypes"
+    ln -sr "${STD_THEME_DIR}/16/panel"                                           "${THEME_DIR}/16/panel"
+    ln -sr "${STD_THEME_DIR}/16/status"                                          "${THEME_DIR}/16/status"
+    ln -sr "${STD_THEME_DIR}/22/emblems"                                         "${THEME_DIR}/22/emblems"
+    ln -sr "${STD_THEME_DIR}/22/mimetypes"                                       "${THEME_DIR}/22/mimetypes"
+    ln -sr "${STD_THEME_DIR}/22/panel"                                           "${THEME_DIR}/22/panel"
+    ln -sr "${STD_THEME_DIR}/24/animations"                                      "${THEME_DIR}/24/animations"
+    ln -sr "${STD_THEME_DIR}/24/panel"                                           "${THEME_DIR}/24/panel"
+  fi
+
+  ln -sr "${THEME_DIR}/16"                                                       "${THEME_DIR}/16@2x"
+  ln -sr "${THEME_DIR}/22"                                                       "${THEME_DIR}/22@2x"
+  ln -sr "${THEME_DIR}/24"                                                       "${THEME_DIR}/24@2x"
+  ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@2x"
+
+  gtk-update-icon-cache "${THEME_DIR}"
 }
 
-while [[ $# -gt 0 ]]; do
-  case "${1}" in
-    -d|--dest)
-      dest="${2}"
-      if [[ ! -d "${dest}" ]]; then
-        echo "ERROR: Destination directory does not exist."
-        exit 1
-      fi
-      shift 2
-      ;;
-    -n|--name)
-      name="${2}"
-      shift 2
-      ;;
-    -h|--help)
-      usage
-      exit 0
-      ;;
-    *)
-      echo "ERROR: Unrecognized installation option '$1'."
-      echo "Try '$0 --help' for more information."
-      exit 1
-      ;;
-  esac
+while [ $# -gt 0 ]; do
+  if [[ "$1" = "-a" ]]; then
+    colors=("${COLOR_VARIANTS[@]}")
+  elif [[ "$1" = "-d" ]]; then
+    DEST_DIR="$2"
+    shift 2
+  elif [[ "$1" = "-n" ]]; then
+    NAME="$2"
+    shift 2
+  elif [[ "$1" = "-h" ]]; then
+    usage
+    exit 0
+  # If the argument is a color variant, append it to the colors to be installed
+  elif [[ " ${COLOR_VARIANTS[*]} " = *" $1 "* ]] && \
+       [[ "${colors[*]}" != *$1* ]]; then
+    colors+=("$1")
+  else
+    echo "ERROR: Unrecognized installation option '$1'."
+    echo "Try '$0 -h' for more information."
+    exit 1
+  fi
+
+  shift
 done
 
-install_base() {
-  local dest=${1}
+# Default name is 'Tela'
+: "${NAME:=Vimix}"
 
-  [[ -d ${dest}/Vimix-Paper ]] && rm -rf ${dest}/Vimix-Paper
-  [[ -d ${dest}/Vimix-Old ]] && rm -rf ${dest}/Vimix-Old
-
-  cp -ur ${SRC_DIR}/Vimix-Paper ${dest}
-  cp -ur ${SRC_DIR}/Vimix-Old   ${dest}
-
-  cd ${dest}
-  gtk-update-icon-cache Vimix-Paper
-  gtk-update-icon-cache Vimix-Old
-}
-
-install_base "${dest:-${DEST_DIR}}"
-
-for color in "${colors[@]:-${COLOR_VARIANTS[@]}}"; do
-  install "${dest:-${DEST_DIR}}" "${name:-${THEME_NAME}}" "${color}"
+# By default, only the standard color variant is selected
+for color in "${colors[@]:-standard}"; do
+  for bright in "${BRIGHT_VARIANTS[@]}"; do
+    install_theme "${color}" "${bright}"
+  done
 done
-
-echo
-echo Done.
-
-

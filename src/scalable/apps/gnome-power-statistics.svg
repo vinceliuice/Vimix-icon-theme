@@ -1,0 +1,37 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="448" height="448" rx="36" ry="36" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".1"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" filter="url(#a)" opacity=".2"/>
+    </g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-252" y="-688" width="448" height="448" rx="36" ry="36" fill="#f2f2f2"/>
+    <path transform="translate(0,-244)" d="m276 48c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" fill="#fff" opacity=".2"/>
+    <g transform="matrix(9.9988 0 0 9.9988 -1225.8 -2561.7)">
+     <path d="m152.5 274.5 7.5-16.5 7 5 7-10 5 4 4.5-8.5" fill="none" stroke="#f44336" stroke-linecap="round"/>
+     <path d="m152.5 275.5 7.5-10.5 6 5 7-8 6 4 4.5-8.5" fill="none" stroke="#3f51b5" stroke-linecap="round"/>
+     <g fill="#3f51b5" stroke="#3f51b5" stroke-linecap="square">
+      <circle cx="160" cy="265" r="1.5"/>
+      <circle cx="166" cy="270" r="1.5"/>
+      <circle cx="173" cy="262" r="1.5"/>
+      <circle cx="179" cy="266" r="1.5"/>
+     </g>
+     <g fill="#f44336" stroke="#f44336" stroke-linecap="square">
+      <circle cx="160" cy="258" r="1.5"/>
+      <circle cx="167" cy="263" r="1.5"/>
+      <circle cx="174" cy="253" r="1.5"/>
+      <circle cx="179" cy="257" r="1.5"/>
+     </g>
+     <path d="m152.5 242.5v33h33" fill="none" stroke="#333" stroke-linecap="square"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

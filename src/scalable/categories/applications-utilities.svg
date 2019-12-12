@@ -1,0 +1,29 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.053571" y="-.068182" width="1.1071" height="1.1364" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="10"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <path d="m392-160s-8 0-8 8v40h-80l-64 64v216c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-216l-64-64h-80v-40c0-8-8-8-8-8zm8 16h128v32h-128z" enable-background="new" filter="url(#a)" opacity=".1"/>
+     <path d="m392-160s-8 0-8 8v40h-80l-64 64v216c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-216l-64-64h-80v-40c0-8-8-8-8-8zm8 16h128v32h-128z" enable-background="new" filter="url(#a)" opacity=".2"/>
+     <path d="m392-162s-8 0-8 8v40h-80l-64 64v216c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-216l-64-64h-80v-40c0-8-8-8-8-8zm8 16h128v32h-128z" enable-background="new" opacity=".2"/>
+    </g>
+    <path d="m544-100v-56c0-8-8-8-8-8h-144s-8 0-8 8v56h16v-48h128v48z" enable-background="new" fill="#333"/>
+    <path d="m240-52v216c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v-216l-64-64h-320z" fill="#e53935"/>
+    <path d="m240-36v200c0 13.296 10.704 24 24 24h40v-224zm384 0v224h40c13.296 0 24-10.704 24-24v-200z" opacity=".05"/>
+    <g fill="#fff">
+     <path d="m304-116h320v80h-320z" opacity=".1"/>
+     <path transform="translate(0,-244)" d="m304 128-64 64v2l64-64h320l64 64v-2l-64-64z" opacity=".2"/>
+     <path transform="translate(0,-244)" d="m392 80s-8 0-8 8v2c0-8 8-8 8-8h144s8 0 8 8v-2c0-8-8-8-8-8z" enable-background="new" opacity=".1"/>
+    </g>
+    <path d="m320-50v56c0 8 8 8 8 8h64s8 0 8-8v-56h-16v48h-48v-48zm208 0v56c0 8 8 8 8 8h64s8 0 8-8v-56h-16v48h-48v-48z" opacity=".2"/>
+    <path d="m320-52v56c0 8 8 8 8 8h64s8 0 8-8v-56h-16v48h-48v-48zm208 0v56c0 8 8 8 8 8h64s8 0 8-8v-56h-16v48h-48v-48z" fill="#ebebeb"/>
+    <path transform="translate(0,-244)" d="m320 192v16h16v-16zm64 0v16h16v-16zm144 0v16h16v-16zm64 0v16h16v-16z" fill="#fff" opacity=".8"/>
+   </g>
+  </g>
+ </g>
+</svg>
