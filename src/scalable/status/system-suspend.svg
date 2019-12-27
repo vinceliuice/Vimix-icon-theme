@@ -1,0 +1,15 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.45"/>
+  </filter>
+ </defs>
+ <g transform="scale(2)">
+  <g stroke-width="1.0345">
+   <path d="m16 1c-8.2759 0-15 6.7241-15 15 0 8.2759 6.7241 15 15 15 8.2759 0 15-6.7241 15-15 0-8.2759-6.7241-15-15-15z" color="#000000" filter="url(#a)" opacity=".15" overflow="visible"/>
+   <path d="m16 1.5c-8.2759 0-15 6.7241-15 15 0 8.2759 6.7241 15 15 15 8.2759 0 15-6.7241 15-15 0-8.2759-6.7241-15-15-15z" color="#000000" opacity=".15" overflow="visible"/>
+   <path d="m16 1c-8.2759 0-15 6.7241-15 15 0 8.2759 6.7241 15 15 15 8.2759 0 15-6.7241 15-15 0-8.2759-6.7241-15-15-15z" color="#000000" fill="#64728a" overflow="visible"/>
+  </g>
+  <path d="m16 6.5a9.5 9.5 0 1 0 0 19 9.5 9.5 0 0 0 0-19zm0 2a7.5 7.5 0 0 1 7.438 6.5h-14.875a7.5 7.5 0 0 1 7.437-6.5zm-7.438 8.5h14.876a7.5 7.5 0 0 1-7.438 6.5 7.5 7.5 0 0 1-7.438-6.5z" color="#000000" fill="#fff" overflow="visible"/>
+ </g>
+</svg>

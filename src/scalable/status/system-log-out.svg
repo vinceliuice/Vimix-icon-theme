@@ -1,0 +1,15 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.45"/>
+  </filter>
+ </defs>
+ <g transform="matrix(2,0,0,2,0,-64)">
+  <g stroke-width="1.0345">
+   <path d="m16 33c-8.2759 0-15 6.7241-15 15s6.7241 15 15 15c8.2759 0 15-6.7241 15-15s-6.7241-15-15-15z" color="#000000" filter="url(#a)" opacity=".15" overflow="visible"/>
+   <path d="m16 33.5c-8.2759 0-15 6.7241-15 15s6.7241 15 15 15c8.2759 0 15-6.7241 15-15s-6.7241-15-15-15z" color="#000000" opacity=".15" overflow="visible"/>
+   <path d="m16 33c-8.2759 0-15 6.7241-15 15s6.7241 15 15 15c8.2759 0 15-6.7241 15-15s-6.7241-15-15-15z" color="#000000" fill="#f88230" overflow="visible"/>
+  </g>
+  <path d="m17 41 8 7.027-8 6.973v-5h-9v-3.928h9z" fill="#fff" overflow="visible"/>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.9"/>
+  </filter>
+ </defs>
+ <g stroke-width="2.069">
+  <path d="m32 2c-16.552 0-30 13.448-30 30s13.448 30 30 30 30-13.448 30-30-13.448-30-30-30z" color="#000000" filter="url(#a)" opacity=".15" overflow="visible"/>
+  <path d="m32 3c-16.552 0-30 13.448-30 30s13.448 30 30 30 30-13.448 30-30-13.448-30-30-30z" color="#000000" opacity=".15" overflow="visible"/>
+  <path d="m32 2c-16.552 0-30 13.448-30 30s13.448 30 30 30 30-13.448 30-30-13.448-30-30-30z" color="#000000" fill="#77cb75" overflow="visible"/>
+ </g>
+ <g transform="scale(2)" color="#000000" fill="#fff" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal">
+  <g solid-color="#000000" style="isolation:auto;mix-blend-mode:normal">
+   <path d="m15 8c-2.016 0-4 2.026-4 4v2h10v-2c0-1.995-1.964-4-4-4zm0 2h2c1.157 0 2 1.17 2 2v2h-6v-2c0-0.667 0.801-2 2-2zm-5 5v2.25h2.25v0.5h-2.25v1.5h2.25v0.5h-2.25v1.5h2.25v0.5h-2.25v0.75c0 0.831 0.669 1.5 1.5 1.5h9c0.831 0 1.5-0.669 1.5-1.5v-0.75h-2.25v-0.5h2.25v-1.5h-2.25v-0.5h2.25v-1.5h-2.25v-0.5h2.25v-2.25z" overflow="visible" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+  </g>
+ </g>
+</svg>
