@@ -3,18 +3,15 @@
   <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.81"/>
   </filter>
-  <clipPath id="b">
-   <circle cx="160" cy="184" r="15" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-  </clipPath>
  </defs>
  <rect x="5" y="5.6712" width="54" height="54" rx="27" filter="url(#a)" opacity=".2"/>
  <rect x="5" y="5" width="54" height="54" rx="27" fill="#3f51b5"/>
- <g transform="matrix(.125 0 0 .125 37.153 28.949)" fill="none" opacity=".25" stroke="#fff">
-  <circle cx="-41.22" cy="24.407" r="152" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
-  <path d="m-193.22 24.407h304" stroke-width="16"/>
-  <path transform="matrix(10.231 0 0 10.231 -1678.1 -1856.6)" d="m160 162.82c-8.2843 0-15 3.134-15 7s6.7157 7 15 7 15-3.134 15-7-6.7157-7-15-7zm0 28.075c-8.2843 0-15 3.134-15 7s6.7157 7 15 7 15-3.134 15-7-6.7157-7-15-7z" clip-path="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5639"/>
-  <path d="m-41.22-127.59v306.92" stroke-width="16"/>
-  <path d="m-121.22 24.407c0-83.947 34.798-152 80-152s80 68.053 80 152-34.797 152-80 152c-45.202 0-80-68.052-80-152z" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
- </g>
  <path d="m30.09 18c-3.554 0-5.044 1.412-5.044 5.02v2.882c0 2.228-0.068 4.808-2.03 4.808h-1.016v2.58h1.016c1.962 0 2.03 2.58 2.03 4.808v2.882c0 3.608 1.49 5.02 5.044 5.02v-2.368c-2.37 0-2.402-0.956-2.402-4.42v-2.032c0-1.662-0.41-4.136-2.406-5.16 1.996-1.026 2.406-3.502 2.406-5.164v-2.068c0-3.464 0.032-4.42 2.4-4.42zm3.788 0v2.368c2.37 0 2.434 0.956 2.434 4.42v2.068c0 1.66 0.41 4.14 2.406 5.164-1.996 1.024-2.406 3.498-2.406 5.16v2.032c0 3.464-0.064 4.42-2.434 4.42v2.368c3.554 0 5.076-1.412 5.076-5.02v-2.88c0-2.228 0.136-4.808 2.066-4.808h0.98v-2.58h-0.98c-1.93 0-2.066-2.58-2.066-4.808v-2.884c0-3.608-1.52-5.02-5.076-5.02z" fill="#fff"/>
+ <g fill="none" opacity=".35" stroke="#fff">
+  <circle cx="32" cy="32" r="19" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m13 32h38" stroke-width="2"/>
+  <path d="m32.01 13.004a19.183 19.183 0 0 0-14.662 6.8145c3.5189 1.9464 8.7778 3.1855 14.662 3.1855 5.8751 0 11.126-1.2365 14.645-3.1777a19.183 19.183 0 0 0-14.645-6.8223zm0 28c-5.9947 0-11.344 1.285-14.861 3.2949a19.183 19.183 0 0 0 14.861 7.0723 19.183 19.183 0 0 0 14.859-7.0742c-3.5178-2.0091-8.866-3.293-14.859-3.293z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m32 13v38.365" stroke-width="2"/>
+  <path d="m22 32c0-10.493 4.3498-19 10-19s10 8.5066 10 19-4.3496 19-10 19c-5.6502 0-10-8.5065-10-19z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ </g>
 </svg>
