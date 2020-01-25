@@ -1,8 +1,5 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <clipPath id="b">
-   <circle cx="160" cy="184" r="15" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-  </clipPath>
   <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.81"/>
   </filter>
@@ -12,9 +9,8 @@
  <g fill="none" stroke="#fff">
   <circle cx="32" cy="32" r="18.62" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   <path d="m13.38 32.01h37.221" stroke-width="2"/>
-  <path transform="matrix(1.2533 0 0 1.2533 -168.64 -198.32)" d="m160 163.84c-8.2843 0-15 3.134-15 7s6.7157 7 15 7 15-3.134 15-7-6.7157-7-15-7zm0 25.852c-8.2843 0-15 3.134-15 7 0 3.866 6.7157 7 15 7s15-3.134 15-7c0-3.866-6.7157-7-15-7z" clip-path="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5958"/>
+  <path d="m32 13.381a18.62 18.62 0 0 0-15.068 7.7129c3.4337 2.1069 8.8472 3.4727 14.957 3.4727 6.2009 0 11.683-1.4057 15.107-3.5664a18.62 18.62 0 0 0-14.996-7.6191zm-0.11133 26.041c-6.1112 0-11.525 1.3669-14.959 3.4746a18.62 18.62 0 0 0 15.07 7.7227 18.62 18.62 0 0 0 15.004-7.625c-3.4237-2.1636-8.9094-3.5723-15.115-3.5723z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
   <path d="m31.99 13.399v37.221" stroke-width="2"/>
   <ellipse cx="32" cy="32.01" rx="9.3103" ry="18.611" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
  </g>
- <path d="m32 5c-14.958 0-27 12.042-27 27 0 0.084567 0.0050912 0.16757 0.0058594 0.25195 0.13547-14.565 12.121-26.252 26.994-26.252s26.859 11.687 26.994 26.252c7.68e-4 -0.084379 0.005859-0.16739 0.005859-0.25195 0-14.958-12.042-27-27-27z" enable-background="new" fill="#fff" opacity=".15"/>
 </svg>
