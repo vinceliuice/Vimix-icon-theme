@@ -1,82 +1,73 @@
-<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="4.48"/>
   </filter>
-  <clipPath id="c">
-   <rect transform="matrix(0,-1,-1,0,0,0)" x="-278.87" y="-187.3" width="39.385" height="39.385" rx="3.1648" ry="3.1648" enable-background="new" fill="#160d28"/>
-  </clipPath>
   <filter id="b" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="4.8"/>
   </filter>
  </defs>
- <g transform="translate(0,212)">
-  <g></g>
-  <g transform="translate(-208,16)">
-   <g>
-    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
-    <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" opacity=".2"/>
-    <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
-   </g>
-   <path transform="translate(0,-244)" d="m384 48v448h268c19.944 0 36-16.056 36-36v-376c0-19.944-16.056-36-36-36z" enable-background="new" fill="#160d28"/>
-   <g transform="matrix(11.375 0 0 11.375 -1442.5 -2920.1)" clip-path="url(#c)" enable-background="new">
-    <circle cx="140" cy="259" r="32" clip-path="none" enable-background="new" fill="#d50000"/>
-    <path transform="matrix(.087912 0 0 .087912 126.81 235.26)" d="m150-94a364 364 0 0 0-364 364 364 364 0 0 0 0.041 1.1719 364 364 0 0 1 363.96-363.17 364 364 0 0 1 363.96 362.83 364 364 0 0 0 0.04102-0.82812 364 364 0 0 0-364-364z" clip-path="none" enable-background="new" fill="#fff" opacity=".2"/>
-   </g>
-   <path transform="translate(0,-244)" d="m276 48c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".2"/>
-   <circle cx="464" cy="78" r="96" enable-background="new" opacity=".2"/>
-   <circle cx="464" cy="80" r="96" enable-background="new" filter="url(#b)" opacity=".2"/>
-   <circle cx="464" cy="76" r="96" enable-background="new" fill="#efebe9"/>
-   <g transform="matrix(-8 0 0 8 1968 -2076)" enable-background="new" fill="#c5cae9" fill-rule="evenodd">
-    <path d="m172 255-2 5 2 5 2-5z"/>
-    <path d="m177 260-5-2-5 2 5 2z"/>
-   </g>
-   <g transform="matrix(6.6667 0 0 6.6667 -591.33 -1629.3)" enable-background="new" fill="#fff" fill-rule="evenodd" opacity=".5">
+ <g transform="translate(-208,228)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-254" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" opacity=".2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-256" y="-688" width="448" height="448" rx="36" ry="36" enable-background="new" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+ </g>
+ <path d="m176 32v448h268c19.944 0 36-16.056 36-36v-376c0-19.944-16.056-36-36-36z" enable-background="new" fill="#160d28"/>
+ <circle cx="256" cy="306" r="96" enable-background="new" opacity=".2"/>
+ <circle cx="256" cy="308" r="96" enable-background="new" filter="url(#b)" opacity=".2"/>
+ <circle cx="256" cy="304" r="96" enable-background="new" fill="#efebe9"/>
+ <g fill-rule="evenodd">
+  <g transform="matrix(-8,0,0,8,1760,-1848)" enable-background="new" fill="#c5cae9">
+   <path d="m172 255-2 5 2 5 2-5z"/>
+   <path d="m177 260-5-2-5 2 5 2z"/>
+  </g>
+  <g transform="matrix(6.6667,0,0,6.6667,-799.33,-1401.3)" enable-background="new" fill="#fff" opacity=".5">
+   <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+   <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+  </g>
+  <g transform="matrix(-10,0,0,-10,2114,2922)" enable-background="new" fill="#c5cae9">
+   <path d="m178 247-1.2 3 1.2 3 1.2-3z"/>
+   <path d="m181 250-3-1.2-3 1.2 3 1.2z"/>
+  </g>
+  <g transform="matrix(6.6667,0,0,6.6667,-799.33,-1621.3)" enable-background="new" fill="#fff" opacity=".5">
+   <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+   <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+  </g>
+  <g transform="matrix(6.6667,0,0,-6.6667,-839.33,1851.3)" enable-background="new" fill="#c5cae9">
+   <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+   <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+  </g>
+  <g transform="translate(-208,228)" fill="#fff">
+   <g transform="matrix(3.3333,0,0,-3.3333,-54.667,800.67)" enable-background="new" opacity=".2">
     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
    </g>
-   <g transform="matrix(-10 0 0 -10 2322 2694)" enable-background="new" fill="#c5cae9" fill-rule="evenodd">
-    <path d="m178 247-1.2 3 1.2 3 1.2-3z"/>
-    <path d="m181 250-3-1.2-3 1.2 3 1.2z"/>
-   </g>
-   <g transform="matrix(6.6667 0 0 6.6667 -591.33 -1849.3)" enable-background="new" fill="#fff" fill-rule="evenodd" opacity=".5">
+   <g transform="matrix(3.3333,0,0,-3.3333,45.333,740.67)" enable-background="new" opacity=".2">
     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
    </g>
-   <g transform="matrix(6.6667 0 0 -6.6667 -631.33 1623.3)" enable-background="new" fill="#c5cae9" fill-rule="evenodd">
+   <g transform="matrix(3.3333,0,0,-3.3333,45.333,940.67)" enable-background="new" opacity=".2">
     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
    </g>
-   <g fill="#fff" fill-rule="evenodd">
-    <g transform="matrix(3.3333 0 0 -3.3333 -54.667 800.67)" enable-background="new" opacity=".2">
-     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
-     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
-    </g>
-    <g transform="matrix(3.3333 0 0 -3.3333 45.333 740.67)" enable-background="new" opacity=".2">
-     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
-     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
-    </g>
-    <g transform="matrix(3.3333 0 0 -3.3333 45.333 940.67)" enable-background="new" opacity=".2">
-     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
-     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
-    </g>
-    <g transform="matrix(3.3333 0 0 -3.3333 -34.667 1000.7)" enable-background="new" opacity=".2">
-     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
-     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
-    </g>
-    <g transform="matrix(3.3333 0 0 -3.3333 45.333 1100.7)" enable-background="new" opacity=".2">
-     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
-     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
-    </g>
-    <g transform="matrix(3.3333 0 0 -3.3333 -14.667 1100.7)" enable-background="new" opacity=".2">
-     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
-     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
-    </g>
-    <g transform="matrix(3.3333 0 0 -3.3333 -114.67 720.67)" enable-background="new" opacity=".2">
-     <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
-     <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
-    </g>
+   <g transform="matrix(3.3333,0,0,-3.3333,-34.667,1000.7)" enable-background="new" opacity=".2">
+    <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+    <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+   </g>
+   <g transform="matrix(3.3333,0,0,-3.3333,45.333,1100.7)" enable-background="new" opacity=".2">
+    <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+    <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+   </g>
+   <g transform="matrix(3.3333,0,0,-3.3333,-14.667,1100.7)" enable-background="new" opacity=".2">
+    <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+    <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
+   </g>
+   <g transform="matrix(3.3333,0,0,-3.3333,-114.67,720.67)" enable-background="new" opacity=".2">
+    <path d="m182 263-1.2 3 1.2 3 1.2-3z"/>
+    <path d="m185 266-3-1.2-3 1.2 3 1.2z"/>
    </g>
   </g>
  </g>
+ <path d="m68.033 32.041c-19.944 0-36 16.056-36 36v376.01c0 19.944 16.056 36 36 36h158.81a364 364 0 0 0 79.156-226.02 364 364 0 0 0-75.807-221.98h-162.16z" enable-background="new" fill="#d50000" stroke-width="11.375"/>
+ <path d="m68 32c-19.944 0-36 16.056-36 36v2c0-19.944 16.056-36 36-36h376c19.944 0 36 16.056 36 36v-2c0-19.944-16.056-36-36-36z" enable-background="new" fill="#fff" opacity=".2"/>
 </svg>

@@ -6,9 +6,6 @@
   <filter id="d" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="6"/>
   </filter>
-  <clipPath id="e">
-   <circle cx="160" cy="184" r="15" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-  </clipPath>
  </defs>
  <linearGradient id="a">
   <stop stop-color="#292c2f" offset="0"/>
@@ -28,14 +25,12 @@
  <path d="m256 98c61.856 0 112 50.144 112 112s-50.144 112-112 112h-112v-112c0-61.856 50.144-112 112-112zm0 56c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56z" enable-background="new" fill="#fff" opacity=".2"/>
  <path d="m256 96c61.856 0 112 50.144 112 112s-50.144 112-112 112h-112v-112c0-61.856 50.144-112 112-112zm0 56c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56z" enable-background="new" fill="#455a64"/>
  <circle cx="376" cy="384" r="120" enable-background="new" filter="url(#d)" opacity=".5"/>
- <g transform="matrix(.53571 0 0 .53571 -20.32 215.61)">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-523.39" y="-963.8" width="448" height="448" rx="224" ry="224" fill="#3f51b5"/>
-  <g transform="translate(2.1696 -13.017)" fill="none" stroke="#fff">
-   <circle cx="737.63" cy="312.41" r="152" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
-   <path d="m585.63 312.41h304" stroke-width="16"/>
-   <path transform="matrix(10.231 0 0 10.231 -899.27 -1568.6)" d="m160 162.82c-8.2843 0-15 3.134-15 7s6.7157 7 15 7 15-3.134 15-7-6.7157-7-15-7zm0 28.075c-8.2843 0-15 3.134-15 7s6.7157 7 15 7 15-3.134 15-7-6.7157-7-15-7z" clip-path="url(#e)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5639"/>
-   <path d="m737.63 160.41v306.92" stroke-width="16"/>
-   <path d="m657.63 312.41c0-83.947 34.798-152 80-152s80 68.053 80 152-34.797 152-80 152c-45.202 0-80-68.052-80-152z" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"/>
-  </g>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-496" y="-496" width="240" height="240" rx="120" ry="120" fill="#3f51b5" stroke-width=".53571"/>
+ <g fill="none" stroke="#fff">
+  <circle cx="376" cy="376" r="81.428" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.5714"/>
+  <path d="m294.57 376h162.86" stroke-width="8.5714"/>
+  <path d="m376.03 294.59a82.213 82.213 0 0 0-62.848 29.217c15.081 8.3403 37.632 13.643 62.848 13.643 25.176 0 47.695-5.286 62.775-13.604a82.213 82.213 0 0 0-62.775-29.256zm0 120c-25.689 0-48.619 5.5026-63.695 14.115a82.213 82.213 0 0 0 63.695 30.309 82.213 82.213 0 0 0 63.689-30.312c-15.076-8.6105-38.004-14.111-63.689-14.111z" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.5715"/>
+  <path d="m376 294.57v164.42" stroke-width="8.5714"/>
+  <path d="m333.14 376c0-44.971 18.642-81.428 42.857-81.428 24.215 0 42.857 36.457 42.857 81.428s-18.641 81.428-42.857 81.428c-24.215 0-42.857-36.456-42.857-81.428z" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.5714"/>
  </g>
 </svg>

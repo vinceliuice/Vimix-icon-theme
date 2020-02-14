@@ -1,0 +1,21 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="b" x="-.0324" y="-.0405" width="1.0648" height="1.081" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.81"/>
+  </filter>
+  <filter id="a" x="-.054" y="-.0675" width="1.108" height="1.135" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.35"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -1058.5)">
+  <path transform="translate(0 1058.5)" d="m5 8c-1.662 0-3 1.338-3 3v4 38c0 1.662 1.338 3 3 3h54c1.662 0 3-1.338 3-3v-38-4c0-1.662-1.338-3-3-3h-54z" filter="url(#a)" opacity=".15" style="paint-order:stroke fill markers"/>
+  <path transform="translate(0 1058.5)" d="m5 8c-1.662 0-3 1.338-3 3v4 38c0 1.662 1.338 3 3 3h54c1.662 0 3-1.338 3-3v-38-4c0-1.662-1.338-3-3-3h-54z" filter="url(#b)" opacity=".25" style="paint-order:stroke fill markers"/>
+  <path transform="translate(0 1058.5)" d="m5 8c-1.662 0-3 1.338-3 3v4h60v-4c0-1.662-1.338-3-3-3h-54z" fill="#e0e0e0" style="paint-order:stroke fill markers"/>
+  <path transform="translate(0 1058.5)" d="m2 15v38c0 1.662 1.338 3 3 3h54c1.662 0 3-1.338 3-3v-38h-60z" fill="#455a64" style="paint-order:stroke fill markers"/>
+  <circle cx="55.5" cy="1070" r="1.5" fill="#ef5350"/>
+  <circle cx="55.5" cy="1070" r=".5" fill="#ef9a9a"/>
+  <path d="m17 1077.5v8h3v-2h-1v-4h1v-2h-2zm27 0v2h1v4h-1v2h3v-8h-2zm-27 10v8h3v-2h-1v-4h1v-2h-2zm27 0v2h1v4h-1v2h3v-8h-2zm-27 10v8h3v-2h-1v-4h1v-2h-2zm27 0v2h1v4h-1v2h3v-8h-2z" fill="#b0bec5"/>
+  <path d="m21 1077.5v8h2v-8zm4 0v8h2v-8zm12 0v8h2v-8zm4 0v8h2v-8zm-20 10v8h2v-8zm4 0v8h2v-8zm4 0v8h2v-8zm4 0v8h2v-8zm4 0v8h2v-8zm4 0v8h2v-8zm-20 10v8h2v-8zm4 0v8h2v-8zm12 0v8h2v-8zm4 0v8h2v-8z" fill="#81c784"/>
+  <path d="m6 1110.5v1c0 0.554 0.44603 1 1 1h3v-2h-3zm6 0v2h4v-2zm6 0v2h4v-2zm6 0v2h4v-2zm6 0v2h27c0.55397 0 1-0.446 1-1v-1h-24z" fill="#80deea"/>
+ </g>
+</svg>
