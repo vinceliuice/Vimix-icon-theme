@@ -1,0 +1,10 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter942" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.15"/>
+  </filter>
+ </defs>
+ <path transform="matrix(1.2174 0 0 1.2174 2.7826 -17.425)" d="m24 18.125c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z" fill="#000000" filter="url(#filter942)" opacity=".35"/>
+ <path d="m32 4c15.465 0 28 12.535 28 28s-12.535 28-28 28-28-12.535-28-28 12.535-28 28-28z" fill="#c93939" stroke-width="1.2174"/>
+ <path d="m32 16c-2.2092 0-4 1.7909-4 4s1.7908 4 4 4 4-1.7909 4-4-1.7908-4-4-4zm-3 14v18h6v-18z" enable-background="new" fill="#ffffff" stroke-width=".25"/>
+</svg>
