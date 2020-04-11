@@ -8,7 +8,7 @@ fi
 
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
-readonly COLOR_VARIANTS=("standard" "Beryl" "Doder" "Ruby" "Black" "White")
+readonly COLOR_VARIANTS=("standard" "Amethyst" "Beryl" "Doder" "Ruby" "Black" "White")
 readonly BRIGHT_VARIANTS=("" "dark")
 
 usage() {
@@ -20,6 +20,7 @@ usage() {
   printf "  %-25s%s\n"   "-h"       "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n"   "standard" "Standard color folder version"
+  printf "  %-25s%s\n"   "Amethyst"    "Green color folder version"
   printf "  %-25s%s\n"   "Beryl"    "Green color folder version"
   printf "  %-25s%s\n"   "Doder"     "Blue color folder version"
   printf "  %-25s%s\n"   "Ruby"    "Red color folder version"
