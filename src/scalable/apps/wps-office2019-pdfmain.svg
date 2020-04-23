@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.20637525"/>
+  </filter>
+ </defs>
+ <g fill-rule="evenodd">
+  <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+  <path d="m3.4395 1.0583c-0.73288 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73288 0.59001 1.3229 1.3229 1.3229h10.054c0.73288 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.1749-3.1749z" fill="#dc4c3a" style="paint-order:stroke fill markers"/>
+  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#e78275" style="paint-order:stroke fill markers"/>
+  <path d="m7.8051 5.5561c-0.21986 0-0.39687 0.177-0.39687 0.39687v3.1749c0 0.21986 0.177 0.39687 0.39687 0.39687s0.39687-0.177 0.39687-0.39687v-2.7781h1.3229a1.852 1.852 0 0 1 1.852 1.852 1.852 1.852 0 0 1-1.852 1.852h-2.9104v0.0067a1.7198 1.7198 0 0 0-1.5875 1.713 1.7198 1.7198 0 0 0 1.7198 1.7198h1.0583c0.21986 0 0.39687-0.177 0.39687-0.39687v-1.3229c0-0.21986-0.177-0.39687-0.39687-0.39687s-0.39687 0.177-0.39687 0.39687v0.92602h-0.66144a0.92602 0.92602 0 0 1-0.92602-0.92602 0.92602 0.92602 0 0 1 0.92602-0.92602h2.7781a2.6458 2.6458 0 0 0 2.6458-2.6458 2.6458 2.6458 0 0 0-2.6458-2.6458z" fill="#fff" style="paint-order:stroke fill markers"/>
+  <path d="m11.641 2.9104v0.15451c0 0.79397 0.59001 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73288 1.99e-5 -1.3229-0.59001-1.3229-1.3229z" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
