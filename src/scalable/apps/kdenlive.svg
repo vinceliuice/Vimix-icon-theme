@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter919" x="-.02475" y="-.0297" width="1.0495" height="1.0594" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <filter id="filter1065" x="-.15552" y="-.15552" width="1.311" height="1.311" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.3888"/>
+  </filter>
+  <filter id="filter1149" x="-.032621" y="-.090812" width="1.0652" height="1.1816" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.67960938"/>
+  </filter>
+ </defs>
+ <g transform="translate(-384.57 -483.8)">
+  <rect x="386.57" y="493" width="60" height="50" ry="3" filter="url(#filter919)" opacity=".35"/>
+  <rect x="386.57" y="492.8" width="60" height="50" ry="3" fill="#455a64"/>
+  <path d="m391.57 538.8v2h1v-2zm4 0v2h1v-2zm4 0v2h1v-2zm4 0v2h1v-2zm4 0v2h1v-2zm4 0v2h1v-2zm4 0v2h1v-2zm4 0v2h1v-2zm4 0v2h1v-2zm4 0v2h1v-2zm4 0v2h1v-2zm9 0v2h1v-2zm-51 1v1h1v-1zm4 0v1h1v-1zm4 0v1h1v-1zm4 0v1h1v-1zm4 0v1h1v-1zm4 0v1h1v-1zm4 0v1h1v-1zm4 0v1h1v-1zm4 0v1h1v-1zm4 0v1h1v-1zm4 0v1h1v-1zm9 0v1h1v-1zm4 0v1h1v-1zm-7-5h1v6h-1z" fill="#b0bec5"/>
+  <path d="m438.57 522.8v2h1v-1h1v-1h-2zm3 0v1h1v1h1v-2h-2zm-3 3v2h2v-1h-1v-1h-1zm4 0v1h-1v1h2v-2h-1z" fill="#eee"/>
+  <path d="M436.071 530.798a1.5 1.5 0 0 0-1.5 1.5c0 .828 1 3.5 1.5 3.5s1.5-2.672 1.5-3.5a1.5 1.5 0 0 0-1.5-1.5zm0 1a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1z" fill="#ffd54f"/>
+  <path d="M390.558 521.798a1 1 0 0 0-.987 1v3.998a1 1 0 0 0 1.555.832l3-2a1 1 0 0 0 0-1.663l-3-2a1 1 0 0 0-.568-.167z" fill="#eceff1" fill-rule="evenodd" font-family="sans-serif" font-weight="400" overflow="visible" style="block-progression:tb;isolation:auto;mix-blend-mode:normal;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  <rect x="406.57" y="523.8" width="30" height="2" ry=".926" fill="#eee"/>
+  <rect x="396.57" y="523.8" width="10" height="2" ry="1" fill="#42a5f5"/>
+  <ellipse cx="406.57" cy="524.8" rx="3" ry="3" filter="url(#filter1065)" opacity=".15"/>
+  <ellipse cx="406.57" cy="524.8" rx="3" ry="3" fill="#78909c"/>
+  <path d="m434.57 540.8 1-2h1l1 2z" fill="#b0bec5" fill-rule="evenodd"/>
+  <path d="m388.57 495.8v2h3v-2h-3zm5 0v2h4v-2h-4zm6 0v2h4v-2h-4zm6 0v2h4v-2h-4zm6 0v2h4v-2h-4zm6 0v2h4v-2h-4zm6 0v2h4v-2h-4zm6 0v2h4v-2h-4zm6 0v2h4v-2h-4zm6 0v2h3v-2h-3z" fill="#263238"/>
+  <path transform="translate(384.57,483.8)" d="m7 17.039v17.961h6v-17.961h-6zm10 0v17.961h30v-17.961h-30zm34 0v17.961h6v-17.961h-6z" filter="url(#filter1149)" opacity=".15"/>
+  <path transform="translate(384.57,483.8)" d="m7 17.039v17.961h6v-17.961h-6zm10 0v17.961h30v-17.961h-30zm34 0v17.961h6v-17.961h-6z" fill="#81d4fa"/>
+ </g>
+</svg>
