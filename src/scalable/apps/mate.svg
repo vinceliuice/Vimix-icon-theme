@@ -1,0 +1,16 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,16)">
+   <circle cx="464" cy="32" r="240" enable-background="new" filter="url(#a)" opacity=".1"/>
+   <circle cx="464" cy="32" r="240" enable-background="new" filter="url(#a)" opacity=".2"/>
+   <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" enable-background="new" fill="#fff" opacity=".2"/>
+   <circle cx="464" cy="28" r="240" enable-background="new" fill="#87a556"/>
+  </g>
+ </g>
+ <path d="m256 136a120 120 0 0 0-97.11 49.75l17.21 10.35a100 100 0 0 1 79.9-40.1 100 100 0 0 1 100 100 100 100 0 0 1-100 100 100 100 0 0 1-79.9-40.04l-17.23 10.34a120 120 0 0 0 97.13 49.7 120 120 0 0 0 120-120 120 120 0 0 0-120-120zm-120 50v140l120-70zm120 0a70 70 0 0 0-54.02 25.59l17.42 10.45a50 50 0 0 1 36.6-16.04 50 50 0 0 1 50 50 50 50 0 0 1-50 50 50 50 0 0 1-36.62-16.04l-17.42 10.47a70 70 0 0 0 54.04 25.57 70 70 0 0 0 70-70 70 70 0 0 0-70-70z" fill="#f9f9f9"/>
+</svg>
