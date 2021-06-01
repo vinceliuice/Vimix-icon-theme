@@ -1,0 +1,21 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="a" x="-.022286" y="-.026" width="1.0446" height="1.052" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.16"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g>
+   <g transform="translate(-208,16)">
+    <g>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-688" width="384" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-222" y="-688" width="384" height="448" rx="24" ry="24" opacity=".2"/>
+     <rect transform="matrix(0,-1,-1,0,0,0)" x="-224" y="-688" width="384" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+    </g>
+    <rect transform="matrix(0,-1,-1,0,0,0)" x="-220" y="-688" width="384" height="448" rx="24" ry="24" fill="#1b5e20"/>
+    <path d="m396-96.25-8 24-43.75 132.5-104.25-0.25v16l110 0.2496h5.75l1.75-5.5 37.75-113.75 61 205.25 7 23 8.25-22.5 32.25-86.5 184.25-0.2496v-16l-189.75 0.2496h-5.5l-2 5-25.75 69.5-61.75-206.75z" color="#000000" enable-background="new" fill="#4caf50" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+    <path transform="translate(0,-244)" d="m264 80c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".2"/>
+   </g>
+  </g>
+ </g>
+</svg>

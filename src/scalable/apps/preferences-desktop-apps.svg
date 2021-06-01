@@ -1,0 +1,24 @@
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="filter1213" x="-.108" y="-.108" width="1.216" height="1.216" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="5.4"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,212)">
+  <g transform="translate(-208,16)">
+   <circle cx="464" cy="30" r="240" opacity=".2"/>
+   <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".1"/>
+   <circle cx="464" cy="32" r="240" filter="url(#a)" opacity=".2"/>
+   <circle cx="464" cy="28" r="240" fill="#757575"/>
+   <path transform="translate(0,-244)" d="m 464,32 a 240,240 0 0 0 -240,240 240,240 0 0 0 0.041,1.17188 A 240,240 0 0 1 464,34 240,240 0 0 1 703.95898,272.82812 240,240 0 0 0 704,272 240,240 0 0 0 464,32 Z" fill="#fff" opacity=".2"/>
+  </g>
+ </g>
+ <rect x="121" y="125" width="120" height="120" rx="20" ry="20" fill="#000000" filter="url(#filter1213)" opacity=".15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8462" style="paint-order:stroke fill markers"/>
+ <rect x="121" y="121.5" width="120" height="120" rx="20" ry="20" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8462" style="paint-order:stroke fill markers"/>
+ <rect x="271" y="121.5" width="120" height="120" rx="20" ry="20" fill="#ffffff" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8462" style="paint-order:stroke fill markers"/>
+ <rect x="121" y="270.5" width="120" height="120" rx="20" ry="20" fill="#ffffff" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8462" style="paint-order:stroke fill markers"/>
+ <rect x="271" y="270.5" width="120" height="120" rx="20" ry="20" fill="#ffffff" opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8462" style="paint-order:stroke fill markers"/>
+</svg>
