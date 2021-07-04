@@ -7,6 +7,8 @@ Vimix icon theme is based on Paper-Icon-Theme: https://github.com/snwh/paper-ico
 Run
 
     ./install.sh
+## Install with all color variants
+    ./install.sh -a
 
 Or double-click to open that script files and select "run at the terminal" at nautilus.
 
