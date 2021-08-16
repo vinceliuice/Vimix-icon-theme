@@ -1,9 +1,9 @@
-<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <filter id="d" x="-.072203" y="-.071798" width="1.1444" height="1.1436" color-interpolation-filters="sRGB">
+  <filter id="d" x="-.072202" y="-.071798" width="1.1444" height="1.1436" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.65802814"/>
   </filter>
-  <filter id="c" x="-.072" y="-.072" width="1.144" height="1.144" color-interpolation-filters="sRGB">
+  <filter id="c" x="-.071999" y="-.071999" width="1.144" height="1.144" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="0.6861819"/>
   </filter>
   <filter id="b" x="-.168" y="-.168" width="1.336" height="1.336" color-interpolation-filters="sRGB">
@@ -13,30 +13,32 @@
    <feGaussianBlur stdDeviation="0.68939014"/>
   </filter>
  </defs>
- <g>
-  <g transform="matrix(10.241 0 0 10.184 -55.049 18.459)" filter="url(#d)" opacity=".15">
-   <rect x="8.5" y="24.504" width="21.873" height="21.996" ry=".78557"/>
-  </g>
-  <g transform="matrix(9.7933 0 0 9.7933 83.371 47.69)" filter="url(#c)" opacity=".15">
-   <rect x="17.627" y="-.37675" width="22.873" height="22.873" ry=".81688"/>
-  </g>
-  <g transform="matrix(9.7933 0 0 9.7933 1.3736 32.941)" filter="url(#b)" opacity=".15">
-   <rect x="32.535" y="30.537" width="9.8026" height="9.8026" rx="1.545" ry="1.545" opacity="1"/>
-  </g>
-  <g transform="matrix(9.7477 0 0 9.7477 -223.87 -189.51)" filter="url(#a)" opacity=".15">
-   <rect x="32.815" y="30.521" width="9.8484" height="9.8484" rx="1.5522" ry="1.5522" opacity="1"/>
-  </g>
+ <g transform="matrix(10.241 0 0 10.184 -55.049 18.459)" filter="url(#d)" opacity=".15">
+  <rect x="8.5" y="24.504" width="21.873" height="21.996" ry=".78557"/>
+ </g>
+ <g transform="matrix(9.7933 0 0 9.7933 83.371 47.69)" filter="url(#c)" opacity=".15">
+  <rect x="17.627" y="-.37675" width="22.873" height="22.873" ry=".81688"/>
+ </g>
+ <g transform="matrix(9.7933 0 0 9.7933 1.3736 32.941)" filter="url(#b)" opacity=".15">
+  <rect x="32.535" y="30.537" width="9.8026" height="9.8026" rx="1.545" ry="1.545" opacity="1"/>
+ </g>
+ <g transform="matrix(9.7477 0 0 9.7477 -223.87 -189.51)" filter="url(#a)" opacity=".15">
+  <rect x="32.815" y="30.521" width="9.8484" height="9.8484" rx="1.5522" ry="1.5522" opacity="1"/>
  </g>
  <g transform="matrix(10.241 0 0 10.184 -55.049 6.459)">
   <rect x="8.5" y="24.504" width="21.873" height="21.996" ry=".78557" fill="#f6e132"/>
+  <path transform="matrix(.097647 0 0 .098193 5.3754 -.63423)" d="m40.045 256.01c-4.4569 0-8.0449 3.5679-8.0449 8v3.9922c0-4.4321 3.588-8 8.0449-8h207.91c4.4569 0 8.0449 3.5679 8.0449 8v-3.9922c0-4.4321-3.588-8-8.0449-8h-207.91z" fill="#ffffff" opacity=".35" stroke-width="10.212"/>
  </g>
  <g transform="matrix(9.7933 0 0 9.7933 83.371 35.69)">
   <rect x="17.627" y="-.37675" width="22.873" height="22.873" ry=".81688" fill="#f6e132"/>
+  <path transform="matrix(.10211 0 0 .10211 -8.5131 -3.6443)" d="m264 32c-4.432 0-8 3.568-8 8v3c0-4.432 3.568-8 8-8h208c4.432 0 8 3.568 8 8v-3c0-4.432-3.568-8-8-8h-208z" fill="#ffffff" opacity=".35" stroke-width="9.7933"/>
  </g>
  <g transform="matrix(9.7933 0 0 9.7933 1.3736 20.941)">
   <rect x="32.535" y="30.537" width="9.8026" height="9.8026" rx="1.545" ry="1.545" fill="#5382b9"/>
+  <path transform="matrix(.10211 0 0 .10211 -.14026 -2.1383)" d="m335.13 320c-8.3824 0-15.131 6.7485-15.131 15.131v5.002c0-8.3824 6.7485-15.131 15.131-15.131h65.738c8.3824 0 15.131 6.7485 15.131 15.131v-5.002c0-8.3824-6.7485-15.131-15.131-15.131h-65.738z" fill="#ffffff" opacity=".1" stroke-width="9.7933"/>
  </g>
  <g transform="matrix(9.7477 0 0 9.7477 -223.87 -201.51)">
   <rect x="32.815" y="30.521" width="9.8484" height="9.8484" rx="1.5522" ry="1.5522" fill="#5382b9"/>
+  <path transform="matrix(.10259 0 0 .10259 22.966 20.673)" d="m111.13 96c-8.3822 0-15.131 6.7486-15.131 15.131v4c0-8.3822 6.7486-15.131 15.131-15.131h65.738c8.3822 0 15.131 6.7486 15.131 15.131v-4c0-8.3822-6.7486-15.131-15.131-15.131h-65.738z" fill="#ffffff" opacity=".1" stroke-width="9.7477"/>
  </g>
 </svg>
