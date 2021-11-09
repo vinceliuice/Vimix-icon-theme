@@ -1,0 +1,36 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1112" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.7"/>
+  </filter>
+  <filter id="filter1116" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.7"/>
+  </filter>
+  <filter id="filter1120" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.7"/>
+  </filter>
+  <filter id="filter1124" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.7"/>
+  </filter>
+  <filter id="filter1128" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.7"/>
+  </filter>
+  <filter id="filter1193" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.12"/>
+  </filter>
+ </defs>
+ <rect x="4" y="5" width="56" height="56" rx="6" ry="6" fill="#000000" filter="url(#filter1193)" opacity=".2"/>
+ <rect x="4" y="4" width="56" height="56" rx="6" ry="6" fill="#424652"/>
+ <path d="m25 40a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7v-7z" filter="url(#filter1112)" opacity=".2"/>
+ <path d="m25 39a7 7 0 0 0-7 7 7 7 0 0 0 7 7 7 7 0 0 0 7-7v-7z" fill="#09c37b"/>
+ <path d="m25 26h7v14h-7c-3.878 0-7-3.122-7-7s3.122-7 7-7z" filter="url(#filter1116)" opacity=".2"/>
+ <circle cx="39" cy="33" r="7" filter="url(#filter1120)" opacity=".2"/>
+ <path d="m25 25h7v14h-7c-3.878 0-7-3.122-7-7s3.122-7 7-7z" fill="#9154dd"/>
+ <circle cx="39" cy="32" r="7" fill="#01b1f8"/>
+ <path d="m25 12c-3.878 0-7 3.122-7 7s3.122 7 7 7h7v-14z" filter="url(#filter1128)" opacity=".2"/>
+ <path d="m25 11c-3.878 0-7 3.122-7 7s3.122 7 7 7h7v-14z" fill="#f24e1e"/>
+ <path d="m32 12h7c3.878 0 7 3.122 7 7s-3.122 7-7 7h-7z" filter="url(#filter1124)" opacity=".2"/>
+ <path d="m32 11h7c3.878 0 7 3.122 7 7s-3.122 7-7 7h-7z" fill="#ff7262"/>
+ <path d="m25 11c-3.878 0-7 3.122-7 7 0 0.16908 0.013717 0.33399 0.025391 0.5 0.25607-3.6416 3.2657-6.5 6.9746-6.5h7 7c3.7089 0 6.7185 2.8584 6.9746 6.5 0.011674-0.16601 0.025391-0.33092 0.025391-0.5 0-3.878-3.122-7-7-7h-7-7z" fill="#ffffff" opacity=".2"/>
+ <path d="m10 4c-3.324 0-6 2.676-6 6v1c0-3.324 2.676-6 6-6h44c3.324 0 6 2.676 6 6v-1c0-3.324-2.676-6-6-6h-44z" fill="#ffffff" opacity=".1"/>
+</svg>
