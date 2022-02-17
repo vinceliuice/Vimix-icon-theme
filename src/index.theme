@@ -119,58 +119,52 @@ Size=24
 Type=Fixed
 
 # Scalable
-[scalable/actions]
-Context=Actions
-Size=512
-MinSize=32
-MaxSize=512
-Type=Scalable
 
 [scalable/apps]
 Context=Applications
-Size=512
+Size=64
 MinSize=16
 MaxSize=512
 Type=Scalable
 
 [scalable/categories]
 Context=Categories
-Size=512
+Size=64
 MinSize=16
 MaxSize=512
 Type=Scalable
 
 [scalable/devices]
 Context=Devices
-Size=512
-MinSize=22
+Size=64
+MinSize=32
 MaxSize=512
 Type=Scalable
 
 [scalable/mimetypes]
 Context=MimeTypes
 Size=64
-MinSize=22
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [scalable/places]
 Context=Places
-Size=512
-MinSize=22
+Size=64
+MinSize=32
 MaxSize=512
 Type=Scalable
 
 [scalable/preferences]
 Context=Applications
-Size=512
+Size=32
 MinSize=16
 MaxSize=512
 Type=Scalable
 
 [scalable/status]
 Context=Status
-Size=512
+Size=32
 MinSize=32
 MaxSize=512
 Type=Scalable
@@ -347,10 +341,11 @@ Size=24
 Type=Fixed
 
 # Scalable
+
 [scalable@2x/apps]
 Context=Applications
 Scale=2
-Size=512
+Size=64
 MinSize=16
 MaxSize=512
 Type=Scalable
@@ -358,7 +353,7 @@ Type=Scalable
 [scalable@2x/categories]
 Context=Categories
 Scale=2
-Size=512
+Size=64
 MinSize=16
 MaxSize=512
 Type=Scalable
@@ -366,8 +361,8 @@ Type=Scalable
 [scalable@2x/devices]
 Context=Devices
 Scale=2
-Size=512
-MinSize=22
+Size=64
+MinSize=32
 MaxSize=512
 Type=Scalable
 
@@ -375,14 +370,14 @@ Type=Scalable
 Context=Places
 Scale=2
 Size=64
-MinSize=22
+MinSize=32
 MaxSize=512
 Type=Scalable
 
 [scalable@2x/preferences]
 Context=Applications
 Scale=2
-Size=512
+Size=32
 MinSize=16
 MaxSize=512
 Type=Scalable
@@ -391,14 +386,14 @@ Type=Scalable
 Context=MimeTypes
 Scale=2
 Size=64
-MinSize=24
+MinSize=16
 MaxSize=512
 Type=Scalable
 
 [scalable@2x/status]
 Context=Status
 Scale=2
-Size=512
+Size=32
 MinSize=32
 MaxSize=512
 Type=Scalable
