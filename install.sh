@@ -96,7 +96,7 @@ install_theme() {
   ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@2x"
 
   #cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}"                             "${THEME_DIR}/cursors"
-  #gtk-update-icon-cache "${THEME_DIR}"
+  gtk-update-icon-cache "${THEME_DIR}"
 }
 
 while [ $# -gt 0 ]; do
