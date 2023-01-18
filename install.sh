@@ -8,7 +8,7 @@ fi
 
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
-readonly COLOR_VARIANTS=("standard" "Amethyst" "Beryl" "Doder" "Ruby" "Black" "White")
+readonly COLOR_VARIANTS=("standard" "Amethyst" "Beryl" "Doder" "Ruby" "Jade" "Black" "White")
 readonly BRIGHT_VARIANTS=("" "dark")
 
 usage() {
@@ -21,9 +21,10 @@ usage() {
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n"   "standard" "Standard color folder version"
   printf "  %-25s%s\n"   "Amethyst"    "Purple color folder version"
-  printf "  %-25s%s\n"   "Beryl"    "Green color folder version"
+  printf "  %-25s%s\n"   "Beryl"    "Teal color folder version"
   printf "  %-25s%s\n"   "Doder"     "Blue color folder version"
   printf "  %-25s%s\n"   "Ruby"    "Red color folder version"
+  printf "  %-25s%s\n"   "Jade"    "Green color folder version"
   printf "  %-25s%s\n"   "Black"    "Black color folder version"
   printf "  %-25s%s\n"   "White"     "White color folder version"
   printf "\n  %s\n" "By default, only the standard one is selected."
@@ -96,7 +97,7 @@ install_theme() {
   ln -sr "${THEME_DIR}/32"                                                       "${THEME_DIR}/32@2x"
   ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@2x"
 
-  cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}"                             "${THEME_DIR}/cursors"
+  #cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}"                             "${THEME_DIR}/cursors"
   gtk-update-icon-cache "${THEME_DIR}"
 }
 
