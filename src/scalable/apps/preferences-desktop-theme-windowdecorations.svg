@@ -1,0 +1,19 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <rect x="3" y="7" width="58" height="52" rx="3" ry="3" fill="#000000" filter="url(#filter1287)" opacity=".25" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <defs>
+  <filter id="filter1287" x="-.071121" y="-.079327" width="1.1422" height="1.1587" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.71875"/>
+  </filter>
+ </defs>
+ <path d="m3 15v40c0 1.662 1.338 3 3 3h52c1.662 0 3-1.338 3-3v-40h-58z" fill="#cccccc" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <rect x="3" y="15" width="58" height="1" rx="0" ry="0" fill="#000000" opacity=".15" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <path d="m6 6c-1.662 0-3 1.338-3 3v6h29v-9h-26z" fill="#f2f2f2" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <path d="m58 6c1.662 0 3 1.338 3 3v6h-29v-9z" fill="#666666" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <circle cx="56.5" cy="10.5" r="2.5" fill="#ffffff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:fill markers stroke"/>
+ <circle cx="56.5" cy="10.5" r="1.5" fill="#b3b3b3" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.25" style="paint-order:fill markers stroke"/>
+ <circle cx="7.5" cy="10.5" r="2.5" fill="#666666" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.75" style="paint-order:fill markers stroke"/>
+ <circle cx="7.5" cy="10.5" r="1.5" fill="#ffffff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.25" style="paint-order:fill markers stroke"/>
+ <rect x="5" y="18" width="54" height="38" rx="1" ry="1" fill="#f2f2f2" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.1855" style="paint-order:fill markers stroke"/>
+ <path d="m32 6v1h26c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3h-26z" fill="#ffffff" opacity=".15" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <path d="m32 6v1h-26c-1.662 0-3 1.338-3 3v-1c0-1.662 1.338-3 3-3z" fill="#ffffff" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+</svg>

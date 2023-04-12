@@ -1,0 +1,13 @@
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1044" x="-.075" y="-.075" width="1.15" height="1.15" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.625"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-59" y="-58" width="52" height="52" rx="5" ry="5" fill="#000000" filter="url(#filter1044)" opacity=".35"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-58" y="-58" width="52" height="52" rx="5" ry="5" fill="#4f4f4f"/>
+ <path d="m6 41v11.688c0 2.9431 2.23 5.3125 5 5.3125h42c2.77 0 5-2.3694 5-5.3125v-11.688z" fill="#000000" opacity=".15" stroke-width="1.0308"/>
+ <rect x="6" y="41" width="52" height="1" rx="0" ry="0" fill="#000000" opacity=".35" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <rect x="31.5" y="42" width="1" height="16" fill="#000000" opacity=".35" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <path transform="matrix(0,-1,-1,0,0,0)" d="m-6-11c0 2.77-2.23 5-5 5h-1c2.77 0 5-2.23 5-5v-42c0-2.77-2.23-5-5-5h1c2.77 0 5 2.23 5 5v42z" fill="#ffffff" opacity=".1"/>
+</svg>

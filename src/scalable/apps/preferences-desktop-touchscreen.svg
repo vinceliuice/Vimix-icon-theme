@@ -1,0 +1,17 @@
+<svg width="64" height="64" fill="none" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {
+                color:#3daee9;
+            }</style>
+  <filter id="filter2112" x="-.068973" y="-.082181" width="1.1379" height="1.1644" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.609375"/>
+  </filter>
+ </defs>
+ <rect x="4" y="6" width="56" height="47" rx="7" ry="7" fill="#4d4d4d" filter="url(#filter2112)" opacity=".35" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <rect x="4" y="5" width="56" height="47" rx="7" ry="7" fill="#4d4d4d" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+ <rect x="7" y="8" width="50" height="41" rx="4" ry="4" fill="#333333" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6476" style="paint-order:fill markers stroke"/>
+ <path class="ColorScheme-Highlight" d="m41.887 23.375c0 5.3158-4.3092 9.625-9.625 9.625-5.3156 0-9.625-4.3092-9.625-9.625 0-5.3157 4.3094-9.625 9.625-9.625 5.3158 0 9.625 4.3092 9.625 9.625z" fill="#ffffff" opacity=".15" stroke-width="1.75"/>
+ <path class="ColorScheme-Highlight" d="m40.138 23.375c0 4.3493-3.5257 7.875-7.875 7.875-4.3491 0-7.875-3.5257-7.875-7.875 0-4.3493 3.5259-7.875 7.875-7.875 4.3493 0 7.875 3.5257 7.875 7.875z" fill="#ffffff" opacity=".15" stroke-width="1.75"/>
+ <path d="m33.231 58.731c4.3335 0.48142 10.455 0.5159 11.307 0.51835 0.06912 1.74e-4 0.13475 0.0014 0.2037 0.0024 3.7634 0.06038 7.0191-2.4449 7.5021-6.1878l1.2089-8.3329c1.037-6.2223-3.6295-7.7777-5.1851-4.6667 0-3.6297-4.1482-5.7036-6.2223-2.5926 0-3.111-4.4721-5.1851-6.5462-2.0741v-11.407c0-4.148-6.125-5.1851-6.125 0v22.134s-0.875-2.625-2.625-4.375c-5.7043-5.7043-8.5556-0.12967-8.5556-0.12967 4.1482 3.1111 7.2896 16.25 15.037 17.111z" fill="#e6ae90" stroke-width="1.75"/>
+ <path d="m11 5c-3.878 0-7 3.122-7 7v1c0-3.878 3.122-7 7-7h42c3.878 0 7 3.122 7 7v-1c0-3.878-3.122-7-7-7h-42z" fill="#ffffff" opacity=".1" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" style="paint-order:fill markers stroke"/>
+</svg>
