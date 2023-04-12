@@ -8,7 +8,7 @@ fi
 
 readonly SRC_DIR=$(cd $(dirname $0) && pwd)
 
-readonly COLOR_VARIANTS=("standard" "Amethyst" "Beryl" "Doder" "Ruby" "Black" "White")
+readonly COLOR_VARIANTS=("standard" "Amethyst" "Beryl" "Doder" "Ruby" "Jade" "Black" "White")
 readonly BRIGHT_VARIANTS=("" "dark")
 
 usage() {
@@ -16,14 +16,15 @@ usage() {
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n"   "-a"       "Install all color folder versions"
   printf "  %-25s%s\n"   "-d DIR"   "Specify theme destination directory (Default: ${DEST_DIR})"
-  printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: Tela)"
+  printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: $NAME)"
   printf "  %-25s%s\n"   "-h"       "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n"   "standard" "Standard color folder version"
   printf "  %-25s%s\n"   "Amethyst"    "Purple color folder version"
-  printf "  %-25s%s\n"   "Beryl"    "Green color folder version"
+  printf "  %-25s%s\n"   "Beryl"    "Teal color folder version"
   printf "  %-25s%s\n"   "Doder"     "Blue color folder version"
   printf "  %-25s%s\n"   "Ruby"    "Red color folder version"
+  printf "  %-25s%s\n"   "Jade"    "Green color folder version"
   printf "  %-25s%s\n"   "Black"    "Black color folder version"
   printf "  %-25s%s\n"   "White"     "White color folder version"
   printf "\n  %s\n" "By default, only the standard one is selected."
@@ -54,8 +55,8 @@ install_theme() {
   sed -i "s/%NAME%/${THEME_NAME//-/ }/g"                                         "${THEME_DIR}/index.theme"
 
   if [ -z "${brightprefix}" ]; then
-    cp -r "${SRC_DIR}"/src/{16,22,24,scalable,symbolic}                          "${THEME_DIR}"
-    cp -r "${SRC_DIR}"/links/{16,22,24,scalable,symbolic}                        "${THEME_DIR}"
+    cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
+    cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
     if [ -n "${colorprefix}" ]; then
       install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/*.svg            "${THEME_DIR}/scalable/places"
     fi
@@ -79,6 +80,7 @@ install_theme() {
     # Link the common icons
     ln -sr "${STD_THEME_DIR}/scalable"                                           "${THEME_DIR}/scalable"
     ln -sr "${STD_THEME_DIR}/symbolic"                                           "${THEME_DIR}/symbolic"
+    ln -sr "${STD_THEME_DIR}/32"                                                 "${THEME_DIR}/32"
     ln -sr "${STD_THEME_DIR}/16/mimetypes"                                       "${THEME_DIR}/16/mimetypes"
     ln -sr "${STD_THEME_DIR}/16/panel"                                           "${THEME_DIR}/16/panel"
     ln -sr "${STD_THEME_DIR}/16/status"                                          "${THEME_DIR}/16/status"
@@ -92,9 +94,10 @@ install_theme() {
   ln -sr "${THEME_DIR}/16"                                                       "${THEME_DIR}/16@2x"
   ln -sr "${THEME_DIR}/22"                                                       "${THEME_DIR}/22@2x"
   ln -sr "${THEME_DIR}/24"                                                       "${THEME_DIR}/24@2x"
+  ln -sr "${THEME_DIR}/32"                                                       "${THEME_DIR}/32@2x"
   ln -sr "${THEME_DIR}/scalable"                                                 "${THEME_DIR}/scalable@2x"
 
-  cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}"                             "${THEME_DIR}/cursors"
+  #cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}"                             "${THEME_DIR}/cursors"
   gtk-update-icon-cache "${THEME_DIR}"
 }
 
