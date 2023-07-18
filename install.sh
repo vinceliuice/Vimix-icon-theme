@@ -41,8 +41,8 @@ install_theme() {
   local -r THEME_NAME="${NAME}${colorprefix}${brightprefix}"
   local -r THEME_DIR="${DEST_DIR}/${THEME_NAME}"
 
-  if [ -d "${THEME_DIR}" ]; then
-    rm -r "${THEME_DIR}"
+  if [[ -d "${THEME_DIR}" ]]; then
+    rm -rf "${THEME_DIR}"
   fi
 
   echo "Installing '${THEME_NAME}'..."
@@ -54,7 +54,7 @@ install_theme() {
   # Update the name in index.theme
   sed -i "s/%NAME%/${THEME_NAME//-/ }/g"                                         "${THEME_DIR}/index.theme"
 
-  if [ -z "${brightprefix}" ]; then
+  if [[ -z "${brightprefix}" ]]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
     if [ -n "${colorprefix}" ]; then
@@ -101,6 +101,10 @@ install_theme() {
   gtk-update-icon-cache "${THEME_DIR}"
 }
 
+clean_old_theme() {
+  rm -rf "${DEST_DIR}"/Vimix{'-Amethyst','-Beryl','-Doder','-Ruby','-Jade','-Black','-White'}{'','-dark'}
+}
+
 while [ $# -gt 0 ]; do
   if [[ "$1" = "-a" ]]; then
     colors=("${COLOR_VARIANTS[@]}")
@@ -128,6 +132,8 @@ done
 
 # Default name is 'Vimix'
 : "${NAME:=Vimix}"
+
+clean_old_theme
 
 # By default, only the standard color variant is selected
 for color in "${colors[@]:-standard}"; do
