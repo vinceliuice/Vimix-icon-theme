@@ -102,7 +102,7 @@ install_theme() {
 }
 
 clean_old_theme() {
-  rm -rf "${DEST_DIR}"/Vimix{'-Amethyst','-Beryl','-Doder','-Ruby','-Jade','-Black','-White'}{'','-dark'}
+  rm -rf "${DEST_DIR}"/Vimix{'-amethyst','-beryl','-doder','-ruby','-jade','-black','-white'}{'','-dark'}
 }
 
 while [[ $# -gt 0 ]]; do
