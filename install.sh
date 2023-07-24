@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ${UID} -eq 0 ]; then
+if [[ ${UID} -eq 0 ]]; then
   DEST_DIR="/usr/share/icons"
 else
   DEST_DIR="${HOME}/.local/share/icons"
@@ -57,7 +57,7 @@ install_theme() {
   if [[ -z "${brightprefix}" ]]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic}                     "${THEME_DIR}"
-    if [ -n "${colorprefix}" ]; then
+    if [[ -n "${colorprefix}" ]]; then
       install -m644 "${SRC_DIR}"/src/colors/color${colorprefix}/*.svg            "${THEME_DIR}/scalable/places"
     fi
   else
@@ -105,7 +105,7 @@ clean_old_theme() {
   rm -rf "${DEST_DIR}"/Vimix{'-Amethyst','-Beryl','-Doder','-Ruby','-Jade','-Black','-White'}{'','-dark'}
 }
 
-while [ $# -gt 0 ]; do
+while [[ $# -gt 0 ]]; do
   if [[ "$1" = "-a" ]]; then
     colors=("${COLOR_VARIANTS[@]}")
   elif [[ "$1" = "-d" ]]; then
