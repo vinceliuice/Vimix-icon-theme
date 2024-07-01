@@ -52,7 +52,7 @@ install_theme() {
   install -m644 "${SRC_DIR}/src/index.theme"                                     "${THEME_DIR}"
 
   # Update the name in index.theme
-  sed -i "s/%NAME%/${THEME_NAME//-/ }/g"                                         "${THEME_DIR}/index.theme"
+  sed -i "s/%NAME%/${THEME_NAME}/g"                                              "${THEME_DIR}/index.theme"
 
   if [[ -z "${brightprefix}" ]]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic}                       "${THEME_DIR}"
