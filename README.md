@@ -10,8 +10,8 @@ Usage: ./install.sh [OPTIONS...] [COLOR VARIANTS...]
 
 OPTIONS:
   -a                       Install all color folder versions
-  -d DIR                   Specify theme destination directory (Default: /home/liuice/.local/share/icons)
-  -n NAME                  Specify theme name (Default: )
+  -d DIR                   Specify theme destination directory (Default: $HOME/.local/share/icons)
+  -n NAME                  Specify theme name (Default: Vimix)
   -h                       Show this help
 
 COLOR VARIANTS:

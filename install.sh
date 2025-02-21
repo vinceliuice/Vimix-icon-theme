@@ -16,7 +16,7 @@ usage() {
   printf "\n%s\n" "OPTIONS:"
   printf "  %-25s%s\n"   "-a"       "Install all color folder versions"
   printf "  %-25s%s\n"   "-d DIR"   "Specify theme destination directory (Default: ${DEST_DIR})"
-  printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: $NAME)"
+  printf "  %-25s%s\n"   "-n NAME"  "Specify theme name (Default: Vimix)"
   printf "  %-25s%s\n"   "-h"       "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n"   "standard" "Standard color folder version"
