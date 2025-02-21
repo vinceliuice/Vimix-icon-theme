@@ -32,6 +32,33 @@ function usage {
 }
 
 function install_theme {
+  case "$1" in
+    standard)
+      local -r theme_color='#f4be70'
+      ;;
+    amethyst)
+      local -r theme_color='#AB47BC'
+      ;;
+    beryl)
+      local -r theme_color='#2EB398'
+      ;;
+    black)
+      local -r theme_color='#686868'
+      ;;
+    doder)
+      local -r theme_color='#4285F4'
+      ;;
+    jade)
+      local -r theme_color='#86BE43'
+      ;;
+    ruby)
+      local -r theme_color='#F0544C'
+      ;;
+    white)
+      local -r theme_color='#AAAAAA'
+      ;;
+  esac
+
   # Appends a dash if the variables are not empty
   if [[ "${1}" != "standard" ]]; then
     local -r colorprefix="-${1}"
@@ -57,6 +84,7 @@ function install_theme {
 
   if [[ -z "${brightprefix}" ]]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic} "${THEME_DIR}"
+    sed -i "s/#5294e2/$theme_color/g" "${THEME_DIR}"/16/places/*
     cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic} "${THEME_DIR}"
     if [[ -n "${colorprefix}" ]]; then
       install -m644 "${SRC_DIR}"/src/colors/color"${colorprefix}"/*.svg "${THEME_DIR}/scalable/places"
@@ -73,6 +101,7 @@ function install_theme {
     # Change icon color for dark theme
     sed -i "s/#565656/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/actions/*
     sed -i "s/#727272/#aaaaaa/g" "${THEME_DIR}"/{16,22,24}/{places,devices}/*
+    sed -i "s/#5294e2/$theme_color/g" "${THEME_DIR}"/16/places/*
 
     cp -r "${SRC_DIR}"/links/16/{actions,devices,places} "${THEME_DIR}/16"
     cp -r "${SRC_DIR}"/links/22/{actions,devices,places} "${THEME_DIR}/22"
