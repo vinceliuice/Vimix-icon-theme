@@ -128,7 +128,7 @@ function install_theme {
   ln -sr "${THEME_DIR}/32" "${THEME_DIR}/32@2x"
   ln -sr "${THEME_DIR}/scalable" "${THEME_DIR}/scalable@2x"
 
-  #cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}"                             "${THEME_DIR}/cursors"
+  cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}" "${THEME_DIR}/cursors"
   gtk-update-icon-cache "${THEME_DIR}"
 }
 

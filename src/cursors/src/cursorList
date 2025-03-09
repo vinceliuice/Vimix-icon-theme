@@ -67,3 +67,15 @@ w-resize size_hor
 watch wait
 whats_this help
 xterm text
+ew-resize size_hor
+ns-resize size_ver
+size-bdiag size_bdiag
+size-fdiag size_fdiag
+size-hor size_hor
+size-ver size_ver
+top_left_arrow default
+bd_double_arrow nwse-resize
+cross_reverse crosshair
+diamond_cross crosshair
+fd_double_arrow nesw-resize
+tcross crosshair
