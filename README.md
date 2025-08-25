@@ -16,7 +16,9 @@ OPTIONS:
 
 COLOR VARIANTS:
   standard                 Standard color folder version
+  Amber                    Orange color folder version
   Amethyst                 Purple color folder version
+  Axinite                  Brown color folder version
   Beryl                    Teal color folder version
   Doder                    Blue color folder version
   Ruby                     Red color folder version

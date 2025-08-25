@@ -9,7 +9,7 @@ fi
 declare SRC_DIR
 SRC_DIR=$(cd "$(dirname "${0}")" && pwd)
 
-declare -r COLOR_VARIANTS=("standard" "amethyst" "beryl" "doder" "ruby" "jade" "black" "white")
+declare -r COLOR_VARIANTS=("standard" "amber" "amethyst" "axinite" "beryl" "doder" "ruby" "jade" "black" "white")
 declare -r BRIGHT_VARIANTS=("" "dark")
 
 function usage {
@@ -21,7 +21,9 @@ function usage {
   printf "  %-25s%s\n" "-h" "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n" "standard" "Standard color folder version"
+  printf "  %-25s%s\n" "amber" "Orange color folder version"
   printf "  %-25s%s\n" "amethyst" "Purple color folder version"
+  printf "  %-25s%s\n" "axinite" "Brown color folder version"
   printf "  %-25s%s\n" "beryl" "Teal color folder version"
   printf "  %-25s%s\n" "doder" "Blue color folder version"
   printf "  %-25s%s\n" "ruby" "Red color folder version"
@@ -34,10 +36,16 @@ function usage {
 function install_theme {
   case "$1" in
     standard)
-      local -r theme_color='#f4be70'
+      local -r theme_color='#F4BE70'
+      ;;
+    amber)
+      local -r theme_color='#F89406'
       ;;
     amethyst)
       local -r theme_color='#AB47BC'
+      ;;
+    axinite)
+      local -r theme_color='#8B6039'
       ;;
     beryl)
       local -r theme_color='#2EB398'
@@ -133,7 +141,7 @@ function install_theme {
 }
 
 function clean_old_theme {
-  rm -rf "${DEST_DIR}"/Vimix{'-Amethyst','-Beryl','-Doder','-Ruby','-Jade','-Black','-White'}{'','-dark'}
+  rm -rf "${DEST_DIR}"/Vimix{'-Amber','-Amethyst','-Axinite','-Beryl','-Doder','-Ruby','-Jade','-Black','-White'}{'','-dark'}
 }
 
 while [[ $# -gt 0 ]]; do
