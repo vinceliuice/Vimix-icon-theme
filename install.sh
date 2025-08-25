@@ -9,7 +9,7 @@ fi
 declare SRC_DIR
 SRC_DIR=$(cd "$(dirname "${0}")" && pwd)
 
-declare -r COLOR_VARIANTS=("standard" "amethyst" "beryl" "doder" "ruby" "jade" "black" "white")
+declare -r COLOR_VARIANTS=("standard" "amber" "amethyst" "axinite" "beryl" "doder" "ruby" "jade" "black" "white")
 declare -r BRIGHT_VARIANTS=("" "dark")
 
 function usage {
@@ -21,7 +21,9 @@ function usage {
   printf "  %-25s%s\n" "-h" "Show this help"
   printf "\n%s\n" "COLOR VARIANTS:"
   printf "  %-25s%s\n" "standard" "Standard color folder version"
+  printf "  %-25s%s\n" "amber" "Orange color folder version"
   printf "  %-25s%s\n" "amethyst" "Purple color folder version"
+  printf "  %-25s%s\n" "axinite" "Brown color folder version"
   printf "  %-25s%s\n" "beryl" "Teal color folder version"
   printf "  %-25s%s\n" "doder" "Blue color folder version"
   printf "  %-25s%s\n" "ruby" "Red color folder version"
@@ -31,13 +33,57 @@ function usage {
   printf "\n  %s\n" "By default, only the standard one is selected."
 }
 
+function install_folder_colors {
+    echo "Copying available folder color variants..."
+    local THEME_DIR="${1}"
+    local SRC_DIR=$(cd "$(dirname "${0}")" && pwd)
+
+    declare -A COLOR_MAP
+    COLOR_MAP=(
+        ["amber"]="orange"
+        ["amethyst"]="violet"
+        ["axinite"]="brown"
+        ["beryl"]="cyan"
+        ["doder"]="blue"
+        ["jade"]="green"
+        ["ruby"]="red"
+        ["black"]="grey"
+        ["white"]="white"
+    )
+
+    for color_variant in "${!COLOR_MAP[@]}"; do
+        local src_file="${SRC_DIR}/src/colors/color-${color_variant}/default-folder.svg"
+
+        if [[ -f "${src_file}" ]]; then
+            for dolphin_color_name in ${COLOR_MAP[${color_variant}]}; do
+                local dest_file="${THEME_DIR}/scalable/places/folder-${dolphin_color_name}.svg"
+                cp -f "${src_file}" "${dest_file}"
+            done
+        else
+            echo "  -> Warning: Source file not found for ${color_variant}: ${src_file}"
+        fi
+    done
+
+    local src_file_standard="${SRC_DIR}/src/scalable/places/default-folder.svg"
+    local dest_file_standard="${THEME_DIR}/scalable/places/folder-yellow.svg"
+    if [[ -f "${src_file_standard}" ]]; then
+        cp -f "${src_file_standard}" "${dest_file_standard}"
+    fi
+}
+
 function install_theme {
   case "$1" in
     standard)
-      local -r theme_color='#f4be70'
+      local -r theme_color='#F4BE70'
+      ;;
+    amber)
+      local -r theme_color='#F89406'
       ;;
     amethyst)
       local -r theme_color='#AB47BC'
+      ;;
+    axinite)
+      local -r theme_color='#8B6039'
       ;;
     beryl)
       local -r theme_color='#2EB398'
@@ -128,12 +174,14 @@ function install_theme {
   ln -sr "${THEME_DIR}/32" "${THEME_DIR}/32@2x"
   ln -sr "${THEME_DIR}/scalable" "${THEME_DIR}/scalable@2x"
 
+  install_folder_colors "${THEME_DIR}"
+
   cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}" "${THEME_DIR}/cursors"
   gtk-update-icon-cache "${THEME_DIR}"
 }
 
 function clean_old_theme {
-  rm -rf "${DEST_DIR}"/Vimix{'-Amethyst','-Beryl','-Doder','-Ruby','-Jade','-Black','-White'}{'','-dark'}
+  rm -rf "${DEST_DIR}"/Vimix{'-Amber','-Amethyst','-Axinite','-Beryl','-Doder','-Ruby','-Jade','-Black','-White'}{'','-dark'}
 }
 
 while [[ $# -gt 0 ]]; do
