@@ -33,6 +33,44 @@ function usage {
   printf "\n  %s\n" "By default, only the standard one is selected."
 }
 
+function install_folder_colors {
+    echo "Copying available folder color variants..."
+    local THEME_DIR="${1}"
+    local SRC_DIR=$(cd "$(dirname "${0}")" && pwd)
+
+    declare -A COLOR_MAP
+    COLOR_MAP=(
+        ["amber"]="orange"
+        ["amethyst"]="violet"
+        ["axinite"]="brown"
+        ["beryl"]="cyan"
+        ["doder"]="blue"
+        ["jade"]="green"
+        ["ruby"]="red"
+        ["black"]="grey"
+        ["white"]="white"
+    )
+
+    for color_variant in "${!COLOR_MAP[@]}"; do
+        local src_file="${SRC_DIR}/src/colors/color-${color_variant}/default-folder.svg"
+
+        if [[ -f "${src_file}" ]]; then
+            for dolphin_color_name in ${COLOR_MAP[${color_variant}]}; do
+                local dest_file="${THEME_DIR}/scalable/places/folder-${dolphin_color_name}.svg"
+                cp -f "${src_file}" "${dest_file}"
+            done
+        else
+            echo "  -> Warning: Source file not found for ${color_variant}: ${src_file}"
+        fi
+    done
+
+    local src_file_standard="${SRC_DIR}/src/scalable/places/default-folder.svg"
+    local dest_file_standard="${THEME_DIR}/scalable/places/folder-yellow.svg"
+    if [[ -f "${src_file_standard}" ]]; then
+        cp -f "${src_file_standard}" "${dest_file_standard}"
+    fi
+}
+
 function install_theme {
   case "$1" in
     standard)
@@ -135,6 +173,8 @@ function install_theme {
   ln -sr "${THEME_DIR}/24" "${THEME_DIR}/24@2x"
   ln -sr "${THEME_DIR}/32" "${THEME_DIR}/32@2x"
   ln -sr "${THEME_DIR}/scalable" "${THEME_DIR}/scalable@2x"
+
+  install_folder_colors "${THEME_DIR}"
 
   cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}" "${THEME_DIR}/cursors"
   gtk-update-icon-cache "${THEME_DIR}"
