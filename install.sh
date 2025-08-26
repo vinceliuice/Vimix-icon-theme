@@ -125,7 +125,7 @@ function install_theme {
   if [[ -z "${brightprefix}" ]]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic} "${THEME_DIR}"
     sed -i "s/#5294e2/$theme_color/g" "${THEME_DIR}"/16/places/*
-    sed -i "s/#f4be70/$theme_color/g" "${THEME_DIR}"/scalable/places/*
+    sed -i "s/#f4be70/$theme_color/g" "${THEME_DIR}"/scalable/{apps,places}/*
     if [[ "${1}" == 'white' ]]; then
       cp -r "${SRC_DIR}"/src/colors/color-"${1}"/*.svg "${THEME_DIR}"/scalable/places
     fi

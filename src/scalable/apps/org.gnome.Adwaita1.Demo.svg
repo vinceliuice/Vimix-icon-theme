@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128"><defs><filter id="c" width="1.096" height="1.096" x="-.048" y="-.048" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="2.243"/></filter></defs><filter id="a" width="1" height="1" x="0" y="0"><feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/></filter><mask id="e"><g filter="url(#a)"><path fill-opacity=".95" d="M0 0h128v128H0z"/></g></mask><clipPath id="d"><path d="M0 0h192v152H0z"/></clipPath><mask id="g"><g filter="url(#a)"><path fill-opacity=".75" d="M0 0h128v128H0z"/></g></mask><clipPath id="f"><path d="M0 0h192v152H0z"/></clipPath><mask id="i"><g filter="url(#a)"><path fill-opacity=".4" d="M0 0h128v128H0z"/></g></mask><clipPath id="h"><path d="M0 0h192v152H0z"/></clipPath><mask id="l"><g filter="url(#a)"><path fill-opacity=".8" d="M0 0h128v128H0z"/></g></mask><clipPath id="j"><path d="M0 0h192v152H0z"/></clipPath><path d="m69.656 120 48.082-48.082a7.996 7.996 0 0 0 0-11.312L69.656 12.524a7.996 7.996 0 0 0-11.312 0L10.262 60.606a7.996 7.996 0 0 0 0 11.312L58.344 120a7.996 7.996 0 0 0 11.312 0" filter="url(#c)" opacity=".15"/><path fill="#6dc8bc" d="m69.656 117.74 48.082-48.082a7.996 7.996 0 0 0 0-11.312L69.656 10.264a7.996 7.996 0 0 0-11.312 0L10.262 58.346a7.996 7.996 0 0 0 0 11.312l48.082 48.082a7.996 7.996 0 0 0 11.312 0"/><g clip-path="url(#d)" mask="url(#e)" transform="translate(-8 -6)"><path fill="#fff" d="M36 68h36v36z"/></g><g clip-path="url(#f)" mask="url(#g)" transform="translate(-8 -6)"><path fill="#fff" d="M96 44H72v24z"/></g><g clip-path="url(#h)" mask="url(#i)" transform="translate(-8 -6)"><path fill="#fff" d="M72 68h18v18z"/></g><g clip-path="url(#j)" mask="url(#l)" transform="translate(-8 -6)"><path d="M16.496 67a7.97 7.97 0 0 0 1.766 8.656l48.082 48.082a7.975 7.975 0 0 0 11.312 0l48.082-48.082a7.98 7.98 0 0 0 1.77-8.656 8 8 0 0 1-1.77 2.656l-48.082 48.082a7.975 7.975 0 0 1-11.312 0L18.262 69.656A7.9 7.9 0 0 1 16.496 67" opacity=".15"/></g><path fill="#fff" d="M64 7.918a7.97 7.97 0 0 0-5.656 2.344L10.262 58.344a7.99 7.99 0 0 0-2.201 7.144 7.96 7.96 0 0 1 2.2-4.168l48.083-48.082a7.996 7.996 0 0 1 11.312 0l48.082 48.082a7.96 7.96 0 0 1 2.201 4.168 7.99 7.99 0 0 0-2.201-7.144L69.656 10.262A7.97 7.97 0 0 0 64 7.918z" opacity=".1"/></svg>
+<svg width="128" height="128" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="c" x="-.047994" y="-.047994" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="2.243"/>
+  </filter>
+ </defs>
+ <filter id="a" x="0" y="0" width="1" height="1">
+  <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+ </filter>
+ <path d="m69.656 120 48.082-48.082a7.996 7.996 0 0 0 0-11.312L69.656 12.524a7.996 7.996 0 0 0-11.312 0L10.262 60.606a7.996 7.996 0 0 0 0 11.312L58.344 120a7.996 7.996 0 0 0 11.312 0" filter="url(#c)" opacity=".15"/>
+ <path d="m69.656 117.74 48.082-48.082a7.996 7.996 0 0 0 0-11.312L69.656 10.264a7.996 7.996 0 0 0-11.312 0L10.262 58.346a7.996 7.996 0 0 0 0 11.312l48.082 48.082a7.996 7.996 0 0 0 11.312 0" fill="#6dc8bc"/>
+ <g transform="translate(-8 -6)" clip-path="url(#d)" mask="url(#e)">
+  <path d="m36 68h36v36z" fill="#fff"/>
+ </g>
+ <g transform="translate(-8 -6)" clip-path="url(#f)" mask="url(#g)">
+  <path d="M96 44H72v24z" fill="#fff"/>
+ </g>
+ <g transform="translate(-8 -6)" clip-path="url(#h)" mask="url(#i)">
+  <path d="m72 68h18v18z" fill="#fff"/>
+ </g>
+ <g transform="translate(-8 -6)" clip-path="url(#j)" mask="url(#l)">
+  <path d="M16.496 67a7.97 7.97 0 0 0 1.766 8.656l48.082 48.082a7.975 7.975 0 0 0 11.312 0l48.082-48.082a7.98 7.98 0 0 0 1.77-8.656 8 8 0 0 1-1.77 2.656l-48.082 48.082a7.975 7.975 0 0 1-11.312 0L18.262 69.656A7.9 7.9 0 0 1 16.496 67" opacity=".15"/>
+ </g>
+ <path d="M64 7.918a7.97 7.97 0 0 0-5.656 2.344L10.262 58.344a7.99 7.99 0 0 0-2.201 7.144 7.96 7.96 0 0 1 2.2-4.168l48.083-48.082a7.996 7.996 0 0 1 11.312 0l48.082 48.082a7.96 7.96 0 0 1 2.201 4.168 7.99 7.99 0 0 0-2.201-7.144L69.656 10.262A7.97 7.97 0 0 0 64 7.918z" fill="#fff" opacity=".1"/>
+</svg>

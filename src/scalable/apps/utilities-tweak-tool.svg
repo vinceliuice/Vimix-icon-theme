@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" enable-background="new" version="1.0"><defs><filter id="b" width="1.24" height="1.24" x="-.12" y="-.12" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4.8"/></filter><filter id="d" width="1.24" height="1.24" x="-.12" y="-.12" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4.8"/></filter><filter id="a" width="1.048" height="1.048" x="-.024" y="-.024" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4.48"/></filter></defs><g transform="translate(-208 228)"><rect width="448" height="448" x="-254" y="-688" stroke="#000" stroke-width="8" filter="url(#a)" opacity=".1" rx="24" ry="24" transform="matrix(0 -1 -1 0 0 4)"/><rect width="448" height="448" x="-254" y="-688" filter="url(#a)" opacity=".2" rx="24" ry="24" transform="matrix(0 -1 -1 0 0 4)"/><rect width="448" height="448" x="-252" y="-688" fill="#ebebeb" rx="24" ry="24" transform="scale(1 -1)rotate(90)"/><rect width="320" height="128" x="304" y="60" fill="#347d9f" rx="64" ry="64"/><rect width="96" height="96" x="-608" y="78" color="#000" enable-background="new" filter="url(#b)" opacity=".2" ry="47.311" transform="matrix(-1 0 0 1 0 4)"/><rect width="96" height="96" x="-608" y="76" fill="#fff" color="#000" enable-background="new" ry="47.311" transform="scale(-1 1)"/><rect width="320" height="128" x="304" y="-132" fill="#a5a5a5" rx="64" ry="64"/><rect width="96" height="96" x="320" y="-110" color="#000" enable-background="new" filter="url(#d)" opacity=".2" ry="47.311"/><rect width="96" height="96" x="320" y="-116" fill="#fff" color="#000" enable-background="new" ry="47.311"/><path fill="#fff" d="M264-196c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" opacity=".4"/><path d="M264 252c-13.296 0-24-10.704-24-24v-2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v2c0 13.296-10.704 24-24 24z" opacity=".1"/></g></svg>
+<svg width="512" height="512" enable-background="new" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="b" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="d" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.8"/>
+  </filter>
+  <filter id="a" x="-.032929" y="-.032929" width="1.0659" height="1.0659" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+ </defs>
+ <g transform="translate(-208 228)">
+  <rect transform="matrix(0 -1 -1 0 0 4)" x="-254" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000" stroke-width="8"/>
+  <rect transform="matrix(0 -1 -1 0 0 4)" x="-254" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+  <rect transform="scale(1 -1)rotate(90)" x="-252" y="-688" width="448" height="448" rx="24" ry="24" fill="#ebebeb"/>
+  <rect x="304" y="60" width="320" height="128" rx="64" ry="64" fill="#f4be70"/>
+  <rect transform="matrix(-1 0 0 1 0 4)" x="-608" y="78" width="96" height="96" ry="47.311" enable-background="new" filter="url(#b)" opacity=".2"/>
+  <rect transform="scale(-1 1)" x="-608" y="76" width="96" height="96" ry="47.311" enable-background="new" fill="#fff"/>
+  <rect x="304" y="-132" width="320" height="128" rx="64" ry="64" fill="#a5a5a5"/>
+  <rect x="320" y="-110" width="96" height="96" ry="47.311" enable-background="new" filter="url(#d)" opacity=".2"/>
+  <rect x="320" y="-116" width="96" height="96" ry="47.311" enable-background="new" fill="#fff"/>
+  <path d="m264-196c-13.296 0-24 10.704-24 24v2c0-13.296 10.704-24 24-24h400c13.296 0 24 10.704 24 24v-2c0-13.296-10.704-24-24-24z" fill="#fff" opacity=".4"/>
+  <path d="m264 252c-13.296 0-24-10.704-24-24v-2c0 13.296 10.704 24 24 24h400c13.296 0 24-10.704 24-24v2c0 13.296-10.704 24-24 24z" opacity=".1"/>
+ </g>
+</svg>

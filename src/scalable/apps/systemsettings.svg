@@ -1,0 +1,32 @@
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Accent {
+        color:#3593e6;
+      }</style>
+  <filter id="a" x="-.032929" y="-.032929" width="1.0659" height="1.0659" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="4.48"/>
+  </filter>
+  <filter id="filter15" x="-.147" y="-.147" width="1.294" height="1.294" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6125"/>
+  </filter>
+  <filter id="filter16" x="-.147" y="-.147" width="1.294" height="1.294" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.6125"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(0 -.125 -.125 0 -26 29)" x="-254" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".1" stroke="#000000" stroke-width="8"/>
+ <rect transform="matrix(0 -.125 -.125 0 -26 29)" x="-254" y="-688" width="448" height="448" rx="24" ry="24" filter="url(#a)" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-60" width="56" height="56" rx="3" ry="3" fill="#5a5a5a" stroke-width=".125"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-60" y="-60" width="56" height="56" rx="3" ry="3" fill="#f4be70" opacity=".05" stroke-width=".125" style="mix-blend-mode:overlay"/>
+ <path d="m7 4c-1.662 0-3 1.338-3 3v0.25c0-1.662 1.338-3 3-3h50c1.662 0 3 1.338 3 3v-0.25c0-1.662-1.338-3-3-3z" fill="#ffffff" opacity=".25" stroke-width=".125"/>
+ <path d="m7 60c-1.662 0-3-1.338-3-3v-0.25c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v0.25c0 1.662-1.338 3-3 3z" fill="#000000" opacity=".35" stroke-width=".125"/>
+ <rect x="11" y="40" width="42" height="4" rx="2" ry="2" fill="#ffffff" opacity=".2"/>
+ <rect x="11" y="20" width="42" height="4" rx="2" ry="2" fill="#ffffff" opacity=".2"/>
+ <rect x="11" y="20" width="30" height="4" rx="2" ry="2" fill="#f4be70"/>
+ <path d="m13 20c-1.108 0-2 0.892-2 2 0 0.17277 0.021685 0.34029 0.0625 0.5 0.22093-0.86449 1.0023-1.5 1.9375-1.5h26c0.93523 0 1.7166 0.63551 1.9375 1.5 0.040815-0.15971 0.0625-0.32723 0.0625-0.5 0-1.108-0.892-2-2-2h-26z" fill="#ffffff" opacity=".1"/>
+ <circle cx="41" cy="23" r="5" color="#000000" color-rendering="auto" fill="#000000" fill-rule="evenodd" filter="url(#filter15)" image-rendering="auto" opacity=".15" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ <circle cx="41" cy="22" r="5" color="#000000" color-rendering="auto" fill="#fafafa" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ <rect transform="scale(-1,1)" x="-23" y="40" width="12" height="4" rx="2" ry="2" fill="#f4be70"/>
+ <path transform="scale(-1,1)" d="m-13 40c1.108 0 2 0.892 2 2 0 0.17277-0.021685 0.34029-0.0625 0.5-0.22093-0.86449-1.0023-1.5-1.9375-1.5h-8c-0.93523 0-1.7166 0.63551-1.9375 1.5-0.040815-0.15971-0.0625-0.32723-0.0625-0.5 0-1.108 0.892-2 2-2h8z" fill="#ffffff" opacity=".1"/>
+ <circle transform="scale(-1,1)" cx="-23" cy="43" r="5" color="#000000" color-rendering="auto" fill="#000000" fill-rule="evenodd" filter="url(#filter16)" image-rendering="auto" opacity=".15" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ <circle transform="scale(-1,1)" cx="-23" cy="42" r="5" color="#000000" color-rendering="auto" fill="#fafafa" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+</svg>
