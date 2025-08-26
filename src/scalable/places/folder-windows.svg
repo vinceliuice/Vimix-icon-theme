@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+ <defs>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="31" x2="31" y1="1005.4" y2="1003.4" gradientTransform="matrix(.92593 0 0 1 2.37 -988.4)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="d" cx="32" cy="1021.9" r="25" gradientTransform="matrix(-1 0 0 -.08 64 137.7)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <path d="M13 8c-1.108 0-2 .892-2 2H9c-.99 0-2 .892-2 2v6c0 1.108 1.01 2 2 2h46c.99 0 2-.892 2-2v-6c0-1.108-1.01-2-2-2H31c0-1.108-.892-2-2-2z" fill="#d0a15c"/>
+ <rect x="9" y="12" width="46" height="9" rx="2" ry="2" opacity=".06"/>
+ <rect x="10" y="13" width="44" height="7" rx="1" ry="1" fill="#fff"/>
+ <rect x="4" y="17" width="56" height="39" rx="2" ry="2" fill="#d0a15c"/>
+ <rect x="7" y="15" width="50" height="2" ry="0" fill="url(#b)" opacity=".1"/>
+ <rect x="4" y="17" width="56" height="38" rx="2" ry="2" fill="#f4be70"/>
+ <rect x="7" y="56" width="50" height="5" ry="0" fill="url(#d)" opacity=".1"/>
+ <path d="M6 17c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h52c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2zM13 8c-1.108 0-2 .892-2 2H9c-.99 0-2 .892-2 2v1c0-1.108 1.01-2 2-2h2c0-1.108.892-2 2-2h16c1.108 0 2 .892 2 2h24c.99 0 2 .892 2 2v-1c0-1.108-1.01-2-2-2H31c0-1.108-.892-2-2-2z" fill="#fff" opacity=".15"/>
+ <path style="fill:#ffffff" d="M 19 26 L 19 48 L 45 48 L 45 26 L 19 26 z M 37 27 C 37.552 27 38 27.448 38 28 C 38 28.552 37.552 29 37 29 C 36.448 29 36 28.552 36 28 C 36 27.448 36.448 27 37 27 z M 40 27 C 40.552 27 41 27.448 41 28 C 41 28.552 40.552 29 40 29 C 39.448 29 39 28.552 39 28 C 39 27.448 39.448 27 40 27 z M 43 27 C 43.552 27 44 27.448 44 28 C 44 28.552 43.552 29 43 29 C 42.448 29 42 28.552 42 28 C 42 27.448 42.448 27 43 27 z M 20 30 L 44 30 L 44 47 L 20 47 L 20 30 z M 26 33 L 26 38 L 31 38 L 31 33 L 26 33 z M 32 33 L 32 38 L 37 38 L 37 33 L 32 33 z M 26 39 L 26 44 L 31 44 L 31 39 L 26 39 z M 32 39 L 32 44 L 37 44 L 37 39 L 32 39 z " class="ColorScheme-Text"/>
+</svg>

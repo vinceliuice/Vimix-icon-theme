@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="31" x2="31" y1="1005.4" y2="1003.4" gradientTransform="matrix(.92593 0 0 1 2.37 -988.4)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="d" cx="32" cy="1021.9" r="25" gradientTransform="matrix(-1 0 0 -.08 64 137.7)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <path d="M13 8c-1.108 0-2 .892-2 2H9c-.99 0-2 .892-2 2v5H6c-1.108 0-2 .892-2 2v35c0 1.108.892 2 2 2h52c1.108 0 2-.892 2-2V19c0-1.108-.892-2-2-2h-1v-5c0-1.108-1.01-2-2-2H31c0-1.108-.892-2-2-2z" fill="#5c5c5c"/>
+ <path d="M13 8c-1.108 0-2 .892-2 2H9c-.99 0-2 .892-2 2v5h50v-5c0-1.108-1.01-2-2-2H31c0-1.108-.892-2-2-2z" opacity=".2"/>
+ <path d="M11 12c-1.108 0-2 .892-2 2v3h46v-3c0-1.108-.892-2-2-2z" opacity=".06"/>
+ <path d="M11 13c-.554 0-1 .446-1 1v3h44v-3c0-.554-.446-1-1-1z" fill="#fff"/>
+ <rect x="7" y="15" width="50" height="2" ry="0" fill="url(#b)" opacity=".1"/>
+ <rect x="7" y="56" width="50" height="5" ry="0" fill="url(#d)" opacity=".1"/>
+ <path d="M6 17c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h52c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2zM13 8c-1.108 0-2 .892-2 2H9c-.99 0-2 .892-2 2v1c0-1.108 1.01-2 2-2h2c0-1.108.892-2 2-2h16c1.108 0 2 .892 2 2h24c.99 0 2 .892 2 2v-1c0-1.108-1.01-2-2-2H31c0-1.108-.892-2-2-2z" fill="#fff" opacity=".15"/>
+ <path d="M6 56c-1.108 0-2-.892-2-2v-1c0 1.108.892 2 2 2h52c1.108 0 2-.892 2-2v1c0 1.108-.892 2-2 2z" opacity=".15"/>
+ <path d="m6 17v4h4v-4zm4 4v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h4v-4zm4 0h4v-4h-4zm4 0v4h2v-4zm0 4h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4zm-8 0h-4v4h4zm-4 0v-4h-2v4z" fill="#000000" opacity=".2"/>
+ <path class="ColorScheme-Text" d="m32 27c-2.77 0-5 2.23-5 5v1h1v-1c0-2.4 1.9-4 4-4 2 0 4 1.6 4 4v5h-8-1-3v1 9h1.75 12.5 1.75v-10h-1.75-1.25v-5c0-2.77-2.23-5-5-5zm-7 11h14v8h-14v-8z" fill="#ffffff"/>
+</svg>

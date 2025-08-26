@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+ <defs>
+  <linearGradient id="a">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="31" x2="31" y1="1005.4" y2="1003.4" gradientTransform="matrix(.92593 0 0 1 2.37 -988.4)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <radialGradient id="d" cx="32" cy="1021.9" r="25" gradientTransform="matrix(-1 0 0 -.08 64 137.7)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <path d="M13 8c-1.108 0-2 .892-2 2H9c-.99 0-2 .892-2 2v6c0 1.108 1.01 2 2 2h46c.99 0 2-.892 2-2v-6c0-1.108-1.01-2-2-2H31c0-1.108-.892-2-2-2z" fill="#d0a15c"/>
+ <rect x="9" y="12" width="46" height="9" rx="2" ry="2" opacity=".06"/>
+ <rect x="10" y="13" width="44" height="7" rx="1" ry="1" fill="#fff"/>
+ <rect x="4" y="17" width="56" height="39" rx="2" ry="2" fill="#d0a15c"/>
+ <rect x="7" y="15" width="50" height="2" ry="0" fill="url(#b)" opacity=".1"/>
+ <rect x="4" y="17" width="56" height="38" rx="2" ry="2" fill="#f4be70"/>
+ <rect x="7" y="56" width="50" height="5" ry="0" fill="url(#d)" opacity=".1"/>
+ <path d="M6 17c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h52c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2zM13 8c-1.108 0-2 .892-2 2H9c-.99 0-2 .892-2 2v1c0-1.108 1.01-2 2-2h2c0-1.108.892-2 2-2h16c1.108 0 2 .892 2 2h24c.99 0 2 .892 2 2v-1c0-1.108-1.01-2-2-2H31c0-1.108-.892-2-2-2z" fill="#fff" opacity=".15"/>
+ <path style="fill:#ffffff" d="M 25 30 C 22.79 30 21 32.7 21 36 L 21 43 C 21 44.8 23.1 45.7 24.4 44.4 L 26.8 42 L 27.5 42 A 2.5 2.5 0 0 0 29.5 43 A 2.5 2.5 0 0 0 31.5 42 L 32.4 42 A 2.5 2.5 0 0 0 34.4 43 A 2.5 2.5 0 0 0 36.4 42 L 37.2 42 L 39.6 44.4 C 40.8 45.7 43 44.8 43 43 L 43 36 C 43 32.7 41.21 30 39 30 L 25 30 z M 25 31 L 25 31 L 39 31 C 40.6 31 42 33.2 42 36 L 42 43 C 42 43.9 40.9 44.3 40.3 43.7 L 37.6 41 L 35.8 41 A 1.5 1.5 0 0 1 34.4 42 A 1.5 1.5 0 0 1 33 41 L 33 41 L 30.9 41 A 1.5 1.5 0 0 1 29.5 42 A 1.5 1.5 0 0 1 28.1 41 L 26.4 41 L 23.7 43.7 C 23.1 44.3 22 43.9 22 43 L 22 36 C 22 33.2 23.3 31 25 31 z M 25 32 L 25 34 L 23 34 L 23 36 L 25 36 L 25 38 L 27 38 L 27 36 L 29 36 L 29 34 L 27 34 L 27 32 L 25 32 z M 38 32 A 1 1 0 0 0 37 33 A 1 1 0 0 0 38 34 A 1 1 0 0 0 39 33 A 1 1 0 0 0 38 32 z M 36 34 A 1 1 0 0 0 35 35 A 1 1 0 0 0 36 36 A 1 1 0 0 0 37 35 A 1 1 0 0 0 36 34 z M 40 34 A 1 1 0 0 0 39 35 A 1 1 0 0 0 40 36 A 1 1 0 0 0 41 35 A 1 1 0 0 0 40 34 z M 38 36 A 1 1 0 0 0 37 37 A 1 1 0 0 0 38 38 A 1 1 0 0 0 39 37 A 1 1 0 0 0 38 36 z M 29.5 38 A 1.5 1.5 0 0 0 28 39.5 A 1.5 1.5 0 0 0 29.5 41 A 1.5 1.5 0 0 0 31 39.5 A 1.5 1.5 0 0 0 29.5 38 z M 34.5 38 A 1.5 1.5 0 0 0 33 39.5 A 1.5 1.5 0 0 0 34.5 41 A 1.5 1.5 0 0 0 36 39.5 A 1.5 1.5 0 0 0 34.5 38 z " class="ColorScheme-Text"/>
+</svg>
