@@ -68,34 +68,34 @@ function install_folder_colors {
 function install_theme {
   case "$1" in
     standard)
-      local -r theme_color='#F4BE70'
+      local -r theme_color='#f4be70'
       ;;
     amber)
-      local -r theme_color='#F89406'
+      local -r theme_color='#f89406'
       ;;
     amethyst)
-      local -r theme_color='#AB47BC'
+      local -r theme_color='#ab47bc'
       ;;
     axinite)
-      local -r theme_color='#8B6039'
+      local -r theme_color='#8b6039'
       ;;
     beryl)
-      local -r theme_color='#2EB398'
+      local -r theme_color='#2eb398'
       ;;
     black)
       local -r theme_color='#686868'
       ;;
     doder)
-      local -r theme_color='#4285F4'
+      local -r theme_color='#4285f4'
       ;;
     jade)
-      local -r theme_color='#86BE43'
+      local -r theme_color='#86be43'
       ;;
     ruby)
-      local -r theme_color='#F0544C'
+      local -r theme_color='#f0544c'
       ;;
     white)
-      local -r theme_color='#AAAAAA'
+      local -r theme_color='#808080'
       ;;
   esac
 
@@ -125,10 +125,11 @@ function install_theme {
   if [[ -z "${brightprefix}" ]]; then
     cp -r "${SRC_DIR}"/src/{16,22,24,32,scalable,symbolic} "${THEME_DIR}"
     sed -i "s/#5294e2/$theme_color/g" "${THEME_DIR}"/16/places/*
-    cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic} "${THEME_DIR}"
-    if [[ -n "${colorprefix}" ]]; then
-      install -m644 "${SRC_DIR}"/src/colors/color"${colorprefix}"/*.svg "${THEME_DIR}/scalable/places"
+    sed -i "s/#f4be70/$theme_color/g" "${THEME_DIR}"/scalable/places/*
+    if [[ "${1}" == 'white' ]]; then
+      cp -r "${SRC_DIR}"/src/colors/color-"${1}"/*.svg "${THEME_DIR}"/scalable/places
     fi
+    cp -r "${SRC_DIR}"/links/{16,22,24,32,scalable,symbolic} "${THEME_DIR}"
   else
     local -r STD_THEME_DIR="${THEME_DIR%-dark}"
 
