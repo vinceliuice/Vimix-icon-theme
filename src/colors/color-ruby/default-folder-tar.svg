@@ -1,0 +1,26 @@
+<svg width="64" height="64" version="1.1" id="svg8" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs id="defs2">
+  <linearGradient id="a">
+   <stop offset="0" id="stop1" />
+   <stop stop-opacity="0" offset="1" id="stop2" />
+  </linearGradient>
+  <filter style="color-interpolation-filters:sRGB" id="filter1" x="-0.032323319" y="-0.040404149" width="1.0646466" height="1.0808083">
+   <feGaussianBlur stdDeviation="0.30303112" id="feGaussianBlur1" />
+  </filter>
+  <radialGradient id="b-7" cx="32" cy="1021.9" r="25" gradientTransform="matrix(-1,0,0,-0.080001,64,1126.098)" gradientUnits="userSpaceOnUse" xlink:href="#a" />
+  <linearGradient id="c-0" x1="31" x2="31" y1="1005.4" y2="1003.4" gradientTransform="matrix(0.92593,0,0,1,2.3704,-0.002)" gradientUnits="userSpaceOnUse" xlink:href="#a" />
+ </defs>
+ <g transform="translate(0,-988.36)" id="g8">
+  <g transform="translate(0,-0.002)" stroke-width="1.4241" id="g3">
+   <path transform="translate(0,988.36)" d="m 13,8.002 c -1.108,0 -2,0.892 -2,2 H 8.7852 C 7.79592,10.002 7,10.894 7,12.002 v 6 c 0,1.108 0.79588,2 1.7852,2 h 46.43 c 0.98928,0 1.7852,-0.892 1.7852,-2 v -6 c 0,-1.108 -0.79588,-2 -1.7852,-2 h -24.215 c 0,-1.108 -0.892,-2 -2,-2 h -16 z" fill="#f0544c" id="path2" />
+   <path transform="translate(0,988.36)" d="m 13,8.002 c -1.108,0 -2,0.892 -2,2 H 8.7852 C 7.79592,10.002 7,10.894 7,12.002 v 6 c 0,1.108 0.79588,2 1.7852,2 h 46.43 c 0.98928,0 1.7852,-0.892 1.7852,-2 v -6 c 0,-1.108 -0.79588,-2 -1.7852,-2 h -24.215 c 0,-1.108 -0.892,-2 -2,-2 h -16 z" opacity="0.15" id="path3" />
+   <rect x="10" y="1001.4" width="44" height="7" rx="0.88" ry="1" fill="#ffffff" id="rect3" />
+  </g>
+  <rect x="7" y="1003.398" width="50" height="2" ry="0" fill="url(#c)" opacity="0.1" stroke-width="1.4088" id="rect4" style="fill:url(#c-0)" />
+  <rect x="7" y="1044.3979" width="50" height="5" ry="0" fill="url(#b)" opacity="0.1" stroke-width="1.4088" id="rect5-9" style="fill:url(#b-7)" />
+  <rect x="4" y="1005.398" width="56" height="39" rx="2" ry="2.0000999" fill="#f0544c" stroke-width="1.4241" id="rect6-2" />
+  <path d="m 4,1041.397 v 1 c 0,1.1081 0.892,2 2,2 h 52 c 1.108,0 2,-0.8919 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 c -1.108,0 -2,-0.892 -2,-2 z" opacity="0.15" stroke-width="1.4241" id="path6" />
+  <path d="m 52.250275,1023.61 h -9 l -2.25,-2.25 h -6.75 c -1.2375,0 -2.23875,1.0125 -2.23875,2.25 l -0.01125,13.5 c 0,1.2375 1.0125,2.25 2.25,2.25 h 18 c 1.2375,0 2.25,-1.0125 2.25,-2.25 v -11.25 c 0,-1.2375 -1.0125,-2.25 -2.25,-2.25 z m -2.25,6.75 h -2.25 v 2.25 h 2.25 v 2.25 h -2.25 v 2.25 h -2.25 v -2.25 h 2.25 v -2.25 h -2.25 v -2.25 h 2.25 v -2.25 h -2.25 v -2.25 h 2.25 v 2.25 h 2.25 z" id="path8" style="opacity:0.15;fill:#000000;stroke-width:1.125;filter:url(#filter1)" />
+  <path d="m 52.2497,1023.61 h -9 l -2.25,-2.25 h -6.75 c -1.2375,0 -2.2387,1.0125 -2.2387,2.25 L 32,1037.11 c 0,1.2375 1.0125,2.25 2.25,2.25 h 18 c 1.2375,0 2.25,-1.0125 2.25,-2.25 v -11.25 c 0,-1.2375 -1.0125,-2.25 -2.25,-2.25 z m -2.25,6.75 h -2.25 v 2.25 h 2.25 v 2.25 h -2.25 v 2.25 h -2.25 v -2.25 h 2.25 v -2.25 h -2.25 v -2.25 h 2.25 v -2.25 h -2.25 v -2.25 h 2.25 v 2.25 h 2.25 z" id="path1" style="fill:#ffffff;stroke-width:1.125" />
+ </g>
+</svg>
