@@ -63,12 +63,6 @@ function install_folder_colors {
             echo "  -> Warning: Source file not found for ${color_variant}: ${src_file}"
         fi
     done
-
-    local src_file_standard="${SRC_DIR}/src/scalable/places/default-folder.svg"
-    local dest_file_standard="${THEME_DIR}/scalable/places/folder-yellow.svg"
-    if [[ -f "${src_file_standard}" ]]; then
-        cp -f "${src_file_standard}" "${dest_file_standard}"
-    fi
 }
 
 function install_theme {
@@ -174,7 +168,7 @@ function install_theme {
   ln -sr "${THEME_DIR}/32" "${THEME_DIR}/32@2x"
   ln -sr "${THEME_DIR}/scalable" "${THEME_DIR}/scalable@2x"
 
-  install_folder_colors "${THEME_DIR}"
+#  install_folder_colors "${THEME_DIR}"
 
   cp -r "${SRC_DIR}/src/cursors/dist${brightprefix}" "${THEME_DIR}/cursors"
   gtk-update-icon-cache "${THEME_DIR}"
