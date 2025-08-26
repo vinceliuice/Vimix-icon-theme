@@ -4,23 +4,23 @@
    <stop offset="0" id="stop1" />
    <stop stop-opacity="0" offset="1" id="stop2" />
   </linearGradient>
-  <filter id="d" x="-0.030000001" y="-0.045000002" width="1.06" height="1.09" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.3" id="feGaussianBlur2" />
-  </filter>
-  <radialGradient id="b-7" cx="32" cy="1021.9" r="25" gradientTransform="matrix(-1,0,0,-0.080001,64,1126.098)" gradientUnits="userSpaceOnUse" xlink:href="#a" />
   <linearGradient id="c-0" x1="31" x2="31" y1="1005.4" y2="1003.4" gradientTransform="matrix(0.92593,0,0,1,2.3704,-0.002)" gradientUnits="userSpaceOnUse" xlink:href="#a" />
+  <radialGradient id="b-7" cx="32" cy="1021.9" r="25" gradientTransform="matrix(-1,0,0,-0.080001,64,1126.098)" gradientUnits="userSpaceOnUse" xlink:href="#a" />
+  <filter style="color-interpolation-filters:sRGB" id="filter4" x="-0.044893501" y="-0.029929001" width="1.089787" height="1.059858">
+   <feGaussianBlur stdDeviation="0.26187875" id="feGaussianBlur4" />
+  </filter>
  </defs>
  <g transform="translate(0,-988.36)" id="g9">
   <g transform="translate(0,-0.002)" stroke-width="1.4241" id="g3">
-   <path transform="translate(0,988.36)" d="m 13,8.002 c -1.108,0 -2,0.892 -2,2 H 8.7852 C 7.79592,10.002 7,10.894 7,12.002 v 6 c 0,1.108 0.79588,2 1.7852,2 h 46.43 c 0.98928,0 1.7852,-0.892 1.7852,-2 v -6 c 0,-1.108 -0.79588,-2 -1.7852,-2 h -24.215 c 0,-1.108 -0.892,-2 -2,-2 h -16 z" fill="#686868" id="path2" />
+   <path transform="translate(0,988.36)" d="m 13,8.002 c -1.108,0 -2,0.892 -2,2 H 8.7852 C 7.79592,10.002 7,10.894 7,12.002 v 6 c 0,1.108 0.79588,2 1.7852,2 h 46.43 c 0.98928,0 1.7852,-0.892 1.7852,-2 v -6 c 0,-1.108 -0.79588,-2 -1.7852,-2 h -24.215 c 0,-1.108 -0.892,-2 -2,-2 h -16 z" fill="#2eb398" id="path2" />
    <path transform="translate(0,988.36)" d="m 13,8.002 c -1.108,0 -2,0.892 -2,2 H 8.7852 C 7.79592,10.002 7,10.894 7,12.002 v 6 c 0,1.108 0.79588,2 1.7852,2 h 46.43 c 0.98928,0 1.7852,-0.892 1.7852,-2 v -6 c 0,-1.108 -0.79588,-2 -1.7852,-2 h -24.215 c 0,-1.108 -0.892,-2 -2,-2 h -16 z" opacity="0.15" id="path3" />
    <rect x="10" y="1001.4" width="44" height="7" rx="0.88" ry="1" fill="#ffffff" id="rect3" />
   </g>
   <rect x="7" y="1003.398" width="50" height="2" ry="0" fill="url(#c)" opacity="0.1" stroke-width="1.4088" id="rect4" style="fill:url(#c-0)" />
   <rect x="7" y="1044.3979" width="50" height="5" ry="0" fill="url(#b)" opacity="0.1" stroke-width="1.4088" id="rect5-9" style="fill:url(#b-7)" />
-  <rect x="4" y="1005.398" width="56" height="39" rx="2" ry="2.0000999" fill="#686868" stroke-width="1.4241" id="rect6-2" />
+  <rect x="4" y="1005.398" width="56" height="39" rx="2" ry="2.0000999" fill="#2eb398" stroke-width="1.4241" id="rect6-2" />
   <path d="m 4,1041.397 v 1 c 0,1.1081 0.892,2 2,2 h 52 c 1.108,0 2,-0.8919 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 c -1.108,0 -2,-0.892 -2,-2 z" opacity="0.15" stroke-width="1.4241" id="path6" />
-  <path d="m 48.28,1023.6 v 12 c 0,2 -2,2 -2,2 h -14 c 0,0 -2,0 -2,-2 v -12 c 0,-2 2,-2 2,-2 h 14 c 0,0 2,0 2,2 z m 6,0 v 12 l -6,-6 z" color="#000000" filter="url(#d)" opacity="0.15" id="path8" />
-  <path d="m 48,1023.4 v 12 c 0,2 -2,2 -2,2 H 32 c 0,0 -2,0 -2,-2 v -12 c 0,-2 2,-2 2,-2 h 14 c 0,0 2,0 2,2 z m 6,0 v 12 l -6,-6 z" color="#000000" fill="#ffffff" id="path9" />
+  <path style="color:#565656;opacity:0.15;fill:#000000;stroke-width:1.4;filter:url(#filter4)" class="ColorScheme-Text" d="m 39.4,1018.36 c 0,0 -1.4,0 -1.4,1.4 v 19.6 l 7,-4.2 7,4.2 v -19.6 c 0,0 0,-1.4 -1.4,-1.4 z" id="path1" />
+  <path style="color:#565656;fill:#ffffff;stroke-width:1.4" class="ColorScheme-Text" d="m 39.4,1018.36 c 0,0 -1.4,0 -1.4,1.4 v 19.6 l 7,-4.2 7,4.2 v -19.6 c 0,0 0,-1.4 -1.4,-1.4 z" id="path4" />
  </g>
 </svg>
